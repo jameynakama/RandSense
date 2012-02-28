@@ -1,0 +1,4468 @@
+******
+word: ball
+part_of_speech: noun
+definition: A spherical object or entity:  a steel ball. 
+******
+word: ball
+part_of_speech: noun
+definition: A spherical or almost spherical body:  a ball of flame. 
+******
+word: ball
+part_of_speech: noun
+definition: Sports   Any of various rounded, movable objects used in various athletic activities and games.
+******
+word: ball
+part_of_speech: noun
+definition: Sports   Such an object moving, thrown, hit, or kicked in a particular manner:  a low ball; a fair ball. 
+******
+word: ball
+part_of_speech: noun
+definition: Sports   A game, especially baseball or basketball, played with such an object.
+******
+word: ball
+part_of_speech: noun
+definition: Sports   A pitched baseball that does not pass through the strike zone and is not swung at by the batter.
+******
+word: ball
+part_of_speech: noun
+definition: A solid spherical or pointed projectile, such as one shot from a cannon.
+******
+word: ball
+part_of_speech: noun
+definition: Projectiles of this kind considered as a group.
+******
+word: ball
+part_of_speech: noun
+definition: A rounded part or protuberance, especially of the body:  the ball of the foot. 
+******
+word: ball
+part_of_speech: noun
+definition: Vulgar Slang   The testicles.
+******
+word: ball
+part_of_speech: noun
+definition: Vulgar Slang   Courage, especially when reckless.
+******
+word: ball
+part_of_speech: noun
+definition: Vulgar Slang   Great presumptuousness.
+******
+word: ball
+part_of_speech: noun
+definition: A formal gathering for social dancing.
+******
+word: ball
+part_of_speech: noun
+definition: Informal   An extremely enjoyable time or experience:  We had a ball during our vacation. 
+******
+word: bat
+part_of_speech: noun
+definition: A stout wooden stick; a cudgel.
+******
+word: bat
+part_of_speech: noun
+definition: A blow, such as one delivered with a stick.
+******
+word: bat
+part_of_speech: noun
+definition: Baseball   A rounded, often wooden club, wider and heavier at the hitting end and tapering at the handle, used to strike the ball.
+******
+word: bat
+part_of_speech: noun
+definition: Sports   A club used in cricket, having a broad, flat-surfaced hitting end and a distinct, narrow handle.
+******
+word: bat
+part_of_speech: noun
+definition: Sports   The racket used in various games, such as table tennis or racquets.
+******
+word: bat
+part_of_speech: noun
+definition: Any of various nocturnal flying mammals of the order Chiroptera, having membranous wings that extend from the forelimbs to the hind limbs or tail and anatomical adaptations for echolocation, by which they navigate and hunt prey.
+******
+word: bat
+part_of_speech: noun
+definition: Slang   A binge; a spree.
+******
+word: bed
+part_of_speech: noun
+definition: A piece of furniture for reclining and sleeping, typically consisting of a flat, rectangular frame and a mattress resting on springs.
+******
+word: bed
+part_of_speech: noun
+definition: A bedstead.
+******
+word: bed
+part_of_speech: noun
+definition: A mattress.
+******
+word: bed
+part_of_speech: noun
+definition: A place where one may sleep; lodging:  found bed and board at an inn. 
+******
+word: bed
+part_of_speech: noun
+definition: Accommodations for a single person at a hospital or institution:  a maternity ward with 30 beds. 
+******
+word: bed
+part_of_speech: noun
+definition: A time at which one goes to sleep:  drank milk before bed. 
+******
+word: bed
+part_of_speech: noun
+definition: A place for lovemaking.
+******
+word: bed
+part_of_speech: noun
+definition: A marital relationship with its rights and intimacies.
+******
+word: bed
+part_of_speech: noun
+definition: A small plot of cultivated or planted land:  a flower bed. 
+******
+word: bed
+part_of_speech: noun
+definition: An underwater or intertidal area in which a particular organism is established in large numbers:  a clam bed; an oyster bed. 
+******
+word: bed
+part_of_speech: noun
+definition: The bottom of a body of water, such as a stream.
+******
+word: bed
+part_of_speech: noun
+definition: A supporting, underlying, or securing part, especially:
+******
+word: bed
+part_of_speech: noun
+definition: A layer of food surmounted by another kind of food:  tomatoes on a bed of lettuce. 
+******
+word: bed
+part_of_speech: noun
+definition: A foundation of crushed rock or a similar substance for a road or railroad; a roadbed.
+******
+word: bed
+part_of_speech: noun
+definition: A layer of mortar upon which stones or bricks are laid.
+******
+word: bed
+part_of_speech: noun
+definition: Printing   The heavy table of a printing press in which the type form is placed.
+******
+word: bed
+part_of_speech: noun
+definition: The part of a truck, trailer, or freight car designed to carry loads.
+******
+word: bed
+part_of_speech: noun
+definition: Geology   A rock mass of large horizontal extent bounded, especially above, by physically different material.
+******
+word: bed
+part_of_speech: noun
+definition: Geology   A deposit, as of ore, parallel to local stratification.
+******
+word: bed
+part_of_speech: noun
+definition: A heap of material:  a bed of wood chips. 
+******
+word: book
+part_of_speech: noun
+definition: A set of written, printed, or blank pages fastened along one side and encased between protective covers.
+******
+word: book
+part_of_speech: noun
+definition: A printed or written literary work.
+******
+word: book
+part_of_speech: noun
+definition: A main division of a larger printed or written work:  a book of the Old Testament. 
+******
+word: book
+part_of_speech: noun
+definition: A volume in which financial or business transactions are recorded.
+******
+word: book
+part_of_speech: noun
+definition: Financial or business records considered as a group:  checked the expenditures on the books. 
+******
+word: book
+part_of_speech: noun
+definition: A libretto.
+******
+word: book
+part_of_speech: noun
+definition: The script of a play.
+******
+word: book
+part_of_speech: noun
+definition: The Bible.
+******
+word: book
+part_of_speech: noun
+definition: The Koran.
+******
+word: book
+part_of_speech: noun
+definition: A set of prescribed standards or rules on which decisions are based:  runs the company by the book. 
+******
+word: book
+part_of_speech: noun
+definition: Something regarded as a source of knowledge or understanding.
+******
+word: book
+part_of_speech: noun
+definition: The total amount of experience, knowledge, understanding, and skill that can be used in solving a problem or performing a task:  We used every trick in the book to finish the project on schedule. 
+******
+word: book
+part_of_speech: noun
+definition: Informal   Factual information, especially of a private nature:  What's the book on him? 
+******
+word: book
+part_of_speech: noun
+definition: A packet of like or similar items bound together:  a book of matches. 
+******
+word: book
+part_of_speech: noun
+definition: A record of bets placed on a race.
+******
+word: book
+part_of_speech: noun
+definition: Games   The number of card tricks needed before any tricks can have scoring value, as the first six tricks taken by the declaring side in bridge.
+******
+word: boy
+part_of_speech: noun
+definition: A male child.
+******
+word: boy
+part_of_speech: noun
+definition: A son:  his youngest boy. 
+******
+word: boy
+part_of_speech: noun
+definition: Often Offensive   A man, especially a young man.
+******
+word: boy
+part_of_speech: noun
+definition: Informal   A man socializing in a group of men:  a night out with the boys. 
+******
+word: boy
+part_of_speech: noun
+definition: Offensive   A male servant or employee.
+******
+word: bun
+part_of_speech: noun
+definition: A small bread roll, often sweetened or spiced and sometimes containing dried fruit.
+******
+word: bun
+part_of_speech: noun
+definition: A tight roll of hair worn at the back of the head.
+******
+word: bun
+part_of_speech: noun
+definition: Slang   A drunken spree.
+******
+word: bun
+part_of_speech: noun
+definition: Slang   One of the buttocks. Often used in the plural.
+******
+word: can
+part_of_speech: noun
+definition: A usually cylindrical metal container.
+******
+word: can
+part_of_speech: noun
+definition: An airtight container, usually made of tin-coated iron, in which foods or beverages are preserved.
+******
+word: can
+part_of_speech: noun
+definition: The contents of such a container.
+******
+word: can
+part_of_speech: noun
+definition: Slang   A jail or prison.
+******
+word: can
+part_of_speech: noun
+definition: Slang   A toilet or restroom.
+******
+word: can
+part_of_speech: noun
+definition: Slang   The buttocks.
+******
+word: can
+part_of_speech: noun
+definition: Slang   A naval destroyer.
+******
+word: cake
+part_of_speech: noun
+definition: A sweet baked food made of flour, liquid, eggs, and other ingredients, such as raising agents and flavorings.
+******
+word: cake
+part_of_speech: noun
+definition: A flat rounded mass of dough or batter, such as a pancake that is baked or fried.
+******
+word: cake
+part_of_speech: noun
+definition: A flat rounded mass of hashed or chopped food that is baked or fried; a patty.
+******
+word: cake
+part_of_speech: noun
+definition: A shaped or molded piece, as of soap or ice.
+******
+word: cake
+part_of_speech: noun
+definition: A layer or deposit of compacted matter:  a cake of grime in the oven. 
+******
+word: cap
+part_of_speech: noun
+definition: A usually soft and close-fitting head covering, either having no brim or with a visor.
+******
+word: cap
+part_of_speech: noun
+definition: A special head covering worn to indicate rank, occupation, or membership in a particular group:  a cardinal's cap; a sailor's cap. 
+******
+word: cap
+part_of_speech: noun
+definition: An academic mortarboard. Used especially in the phrase cap and gown.
+******
+word: cap
+part_of_speech: noun
+definition: A protective cover or seal, especially one that closes off an end or a tip:  a bottle cap; a 35-millimeter lens cap. 
+******
+word: cap
+part_of_speech: noun
+definition: A crown for covering or sealing a tooth.
+******
+word: cap
+part_of_speech: noun
+definition: A tread for a worn pneumatic tire.
+******
+word: cap
+part_of_speech: noun
+definition: A fitted covering used to seal a well or large pipe.
+******
+word: cap
+part_of_speech: noun
+definition: Chiefly Southern U.S.   See eye.
+******
+word: cap
+part_of_speech: noun
+definition: A summit or top, as of a mountain.
+******
+word: cap
+part_of_speech: noun
+definition: An upper limit; a ceiling:  placed a cap on mortgage rates. 
+******
+word: cap
+part_of_speech: noun
+definition: Architecture   The capital of a column.
+******
+word: cap
+part_of_speech: noun
+definition: Botany   The top part, or pileus, of a mushroom.
+******
+word: cap
+part_of_speech: noun
+definition: Botany   A calyptra.
+******
+word: cap
+part_of_speech: noun
+definition: A percussion cap.
+******
+word: cap
+part_of_speech: noun
+definition: A small explosive charge enclosed in paper for use in a toy gun.
+******
+word: cap
+part_of_speech: noun
+definition: Any of several sizes of writing paper, such as foolscap.
+******
+word: cap
+part_of_speech: noun
+definition: Sports   An appearance by a player in an international soccer game, traditionally rewarded with a hat.
+******
+word: cap
+part_of_speech: noun
+definition: A capital letter.
+******
+word: cap
+part_of_speech: noun
+definition: Informal   Capital:  venture cap. 
+******
+word: cap
+part_of_speech: noun
+definition: Informal   Capitalization:  market cap. 
+******
+word: car
+part_of_speech: noun
+definition: An automobile.
+******
+word: car
+part_of_speech: noun
+definition: A vehicle, such as a streetcar, that runs on rails:  a railroad car. 
+******
+word: car
+part_of_speech: noun
+definition: A boxlike enclosure for passengers and freight on a conveyance:  an elevator car. 
+******
+word: car
+part_of_speech: noun
+definition: The part of a balloon or airship that carries people and cargo.
+******
+word: car
+part_of_speech: noun
+definition: Archaic   A chariot, carriage, or cart.
+******
+word: cat
+part_of_speech: noun
+definition: A small carnivorous mammal (Felis catus or F. domesticus) domesticated since early times as a catcher of rats and mice and as a pet and existing in several distinctive breeds and varieties.
+******
+word: cat
+part_of_speech: noun
+definition: Any of various other carnivorous mammals of the family Felidae, which includes the lion, tiger, leopard, and lynx.
+******
+word: cat
+part_of_speech: noun
+definition: The fur of a domestic cat.
+******
+word: cat
+part_of_speech: noun
+definition: Informal   A woman who is regarded as spiteful.
+******
+word: cat
+part_of_speech: noun
+definition: Slang   A person, especially a man.
+******
+word: cat
+part_of_speech: noun
+definition: Slang   A player or devotee of jazz music.
+******
+word: cat
+part_of_speech: noun
+definition: A cat-o'-nine-tails.
+******
+word: cat
+part_of_speech: noun
+definition: A catfish.
+******
+word: cat
+part_of_speech: noun
+definition: Nautical   A cathead.
+******
+word: cat
+part_of_speech: noun
+definition: Nautical   A device for raising an anchor to the cathead.
+******
+word: cat
+part_of_speech: noun
+definition: Nautical   A catboat.
+******
+word: cat
+part_of_speech: noun
+definition: Nautical   A catamaran.
+******
+word: cow
+part_of_speech: noun
+definition: The mature female of cattle of the genus Bos.
+******
+word: cow
+part_of_speech: noun
+definition: The mature female of other large animals, such as whales, elephants, or moose.
+******
+word: cow
+part_of_speech: noun
+definition: A domesticated bovine of either sex or any age.
+******
+word: cub
+part_of_speech: noun
+definition: The young of certain carnivorous animals, such as the bear, wolf, or lion.
+******
+word: cub
+part_of_speech: noun
+definition: A youth, especially one who is inexperienced, awkward, or ill-mannered.
+******
+word: cub
+part_of_speech: noun
+definition: A novice or learner, particularly in newspaper reporting.
+******
+word: cub
+part_of_speech: noun
+definition: A Cub Scout.
+******
+word: cup
+part_of_speech: noun
+definition: A small open container, usually with a flat bottom and a handle, used for drinking.
+******
+word: cup
+part_of_speech: noun
+definition: Such a container and its contents.
+******
+word: cup
+part_of_speech: noun
+definition: A unit of capacity or volume equal to 16 tablespoons or 8 fluid ounces (237 milliliters). See Table at measurement.
+******
+word: cup
+part_of_speech: noun
+definition: The bowl of a drinking vessel.
+******
+word: cup
+part_of_speech: noun
+definition: The chalice or the wine used in the celebration of the Eucharist.
+******
+word: cup
+part_of_speech: noun
+definition: A decorative cup-shaped vessel awarded as a prize or trophy.
+******
+word: cup
+part_of_speech: noun
+definition: Sports   A golf hole or the metal container inside a hole.
+******
+word: cup
+part_of_speech: noun
+definition: Either of the two parts of a brassiere that fit over the breasts.
+******
+word: cup
+part_of_speech: noun
+definition: An athletic supporter having a protective reinforcement of rigid plastic or metal.
+******
+word: cup
+part_of_speech: noun
+definition: A sweetened, flavored, usually chilled beverage, especially one made with wine:  claret cup. 
+******
+word: cup
+part_of_speech: noun
+definition: A dish served in a cup-shaped vessel:  fruit cup. 
+******
+word: cup
+part_of_speech: noun
+definition: A cuplike object.
+******
+word: cup
+part_of_speech: noun
+definition: Biology   A cuplike structure or organ.
+******
+word: cup
+part_of_speech: noun
+definition: A lot or portion to be suffered or enjoyed.
+******
+word: dad
+part_of_speech: noun
+definition: Informal   A father.
+******
+word: day
+part_of_speech: noun
+definition: The period of light between dawn and nightfall; the interval from sunrise to sunset.
+******
+word: day
+part_of_speech: noun
+definition: The 24-hour period during which the earth completes one rotation on its axis.
+******
+word: day
+part_of_speech: noun
+definition: The period during which a celestial body makes a similar rotation.
+******
+word: day
+part_of_speech: noun
+definition: One of the numbered 24-hour periods into which a week, month, or year is divided.
+******
+word: day
+part_of_speech: noun
+definition: The portion of a 24-hour period that is devoted to work, school, or business:  an eight-hour day; a sale that lasted for three days. 
+******
+word: day
+part_of_speech: noun
+definition: A 24-hour period or a portion of it that is reserved for a certain activity:  a day of rest. 
+******
+word: day
+part_of_speech: noun
+definition: A specific, characteristic period in one's lifetime:  In Grandmother's day, skirts were long. 
+******
+word: day
+part_of_speech: noun
+definition: A period of opportunity or prominence:  Every defendant is entitled to a day in court. That child will have her day. 
+******
+word: day
+part_of_speech: noun
+definition: A period of time in history; an era:  We studied the tactics used in Napoleon's day. The day of computer science is well upon us. 
+******
+word: day
+part_of_speech: noun
+definition: Period of life or activity:  The sick cat's days will soon be over. 
+******
+word: dog
+part_of_speech: noun
+definition: A domesticated carnivorous mammal (Canis familiaris) related to the foxes and wolves and raised in a wide variety of breeds.
+******
+word: dog
+part_of_speech: noun
+definition: Any of various carnivorous mammals of the family Canidae, such as the dingo.
+******
+word: dog
+part_of_speech: noun
+definition: A male animal of the family Canidae, especially of the fox or a domesticated breed.
+******
+word: dog
+part_of_speech: noun
+definition: Any of various other animals, such as the prairie dog.
+******
+word: dog
+part_of_speech: noun
+definition: Informal   A person:  You won, you lucky dog. 
+******
+word: dog
+part_of_speech: noun
+definition: Informal   A person regarded as contemptible:  You stole my watch, you dog. 
+******
+word: dog
+part_of_speech: noun
+definition: Slang   A person regarded as unattractive or uninteresting.
+******
+word: dog
+part_of_speech: noun
+definition: Slang   Something of inferior or low quality: "The President had read the speech to some of his friends and they told him it was a dog”  ( John P. Roche). 
+******
+word: dog
+part_of_speech: noun
+definition: Slang   An investment that produces a low return or a loss.
+******
+word: dog
+part_of_speech: noun
+definition: Slang   The feet.
+******
+word: dog
+part_of_speech: noun
+definition: See andiron.
+******
+word: dog
+part_of_speech: noun
+definition: Slang   A hot dog; a wiener.
+******
+word: dog
+part_of_speech: noun
+definition: Any of various hooked or U-shaped metallic devices used for gripping or holding heavy objects.
+******
+word: dog
+part_of_speech: noun
+definition: Astronomy   A sun dog.
+******
+word: doll
+part_of_speech: noun
+definition: A child's usually small toy having the likeness of a human.
+******
+word: doll
+part_of_speech: noun
+definition: A pretty child.
+******
+word: doll
+part_of_speech: noun
+definition: Slang   An attractive person.
+******
+word: doll
+part_of_speech: noun
+definition: Slang   A woman.
+******
+word: doll
+part_of_speech: noun
+definition: Slang   A sweetheart or darling.
+******
+word: doll
+part_of_speech: noun
+definition: Slang   A helpful or obliging person.
+******
+word: dust
+part_of_speech: noun
+definition: Fine, dry particles of matter.
+******
+word: dust
+part_of_speech: noun
+definition: A cloud of fine, dry particles.
+******
+word: dust
+part_of_speech: noun
+definition: Particles of matter regarded as the result of disintegration:  fabric that had fallen to dust over the centuries. 
+******
+word: dust
+part_of_speech: noun
+definition: Earth, especially when regarded as the substance of the grave: "ashes to ashes, dust to dust”  ( Book of Common Prayer). 
+******
+word: dust
+part_of_speech: noun
+definition: The surface of the ground.
+******
+word: dust
+part_of_speech: noun
+definition: A debased or despised condition.
+******
+word: dust
+part_of_speech: noun
+definition: Something of no worth.
+******
+word: dust
+part_of_speech: noun
+definition: Chiefly British   Rubbish readied for disposal.
+******
+word: dust
+part_of_speech: noun
+definition: Confusion; agitation; commotion:  won't go back in until the dust settles. 
+******
+word: fan
+part_of_speech: noun
+definition: A device for creating a current of air or a breeze, especially:
+******
+word: fan
+part_of_speech: noun
+definition: A machine using an electric motor to rotate thin, rigid vanes in order to move air, as for cooling.
+******
+word: fan
+part_of_speech: noun
+definition: A collapsible, usually wedge-shaped device made of a light material such as silk, paper, or plastic.
+******
+word: fan
+part_of_speech: noun
+definition: A machine for winnowing.
+******
+word: fan
+part_of_speech: noun
+definition: Something resembling an open fan in shape:  a peacock's fan. 
+******
+word: fan
+part_of_speech: noun
+definition: An ardent devotee; an enthusiast.
+******
+word: feet
+part_of_speech: noun
+definition: Plural of foot.
+******
+word: girl
+part_of_speech: noun
+definition: A female child.
+******
+word: girl
+part_of_speech: noun
+definition: A daughter:  our youngest girl. 
+******
+word: girl
+part_of_speech: noun
+definition: Often Offensive   A woman, especially a young woman.
+******
+word: girl
+part_of_speech: noun
+definition: Informal   A woman socializing in a group of women:  a night out with the girls. 
+******
+word: girl
+part_of_speech: noun
+definition: Informal   Used as a familiar form of address to express support of or camaraderie with a woman.
+******
+word: girl
+part_of_speech: noun
+definition: Informal   A female sweetheart:  cadets escorting their girls to the ball. 
+******
+word: girl
+part_of_speech: noun
+definition: Offensive   A female servant or employee.
+******
+word: gun
+part_of_speech: noun
+definition: A weapon consisting of a metal tube from which a projectile is fired at high velocity into a relatively flat trajectory.
+******
+word: gun
+part_of_speech: noun
+definition: A cannon with a long barrel and a relatively low angle of fire.
+******
+word: gun
+part_of_speech: noun
+definition: A portable firearm, such as a rifle or revolver.
+******
+word: gun
+part_of_speech: noun
+definition: A device resembling a firearm or cannon, as in its ability to project something, such as grease, under pressure or at great speed.
+******
+word: gun
+part_of_speech: noun
+definition: A discharge of a firearm or cannon as a signal or salute.
+******
+word: gun
+part_of_speech: noun
+definition: One, such as a hunter, who carries or uses a gun.
+******
+word: gun
+part_of_speech: noun
+definition: A person skilled in the use of a gun.
+******
+word: gun
+part_of_speech: noun
+definition: A professional killer:  a hired gun. 
+******
+word: gun
+part_of_speech: noun
+definition: The throttle of an engine, as of an automobile.
+******
+word: hall
+part_of_speech: noun
+definition: A corridor or passageway in a building.
+******
+word: hall
+part_of_speech: noun
+definition: A large entrance room or vestibule in a building; a lobby.
+******
+word: hall
+part_of_speech: noun
+definition: A building for public gatherings or entertainments.
+******
+word: hall
+part_of_speech: noun
+definition: The large room in which such events are held.
+******
+word: hall
+part_of_speech: noun
+definition: A building used for the meetings, entertainments, or living quarters of a fraternity, sorority, church, or other social or religious organization.
+******
+word: hall
+part_of_speech: noun
+definition: A building belonging to a school, college, or university that provides classroom, dormitory, or dining facilities.
+******
+word: hall
+part_of_speech: noun
+definition: A large room in such a building.
+******
+word: hall
+part_of_speech: noun
+definition: The group of students using such a building:  The entire hall stayed up late studying. 
+******
+word: hall
+part_of_speech: noun
+definition: Chiefly British   A meal served in such a building.
+******
+word: hall
+part_of_speech: noun
+definition: The main house on a landed estate.
+******
+word: hall
+part_of_speech: noun
+definition: The castle or house of a medieval monarch or noble.
+******
+word: hall
+part_of_speech: noun
+definition: The principal room in such a castle or house, used for dining, entertaining, and sleeping.
+******
+word: hat
+part_of_speech: noun
+definition: A covering for the head, especially one with a shaped crown and brim.
+******
+word: hat
+part_of_speech: noun
+definition: A head covering of distinctive color and shape worn as a symbol of office.
+******
+word: hat
+part_of_speech: noun
+definition: The office symbolized by the wearing of such a head covering.
+******
+word: hat
+part_of_speech: noun
+definition: A role or office symbolized by or as if by the wearing of different hats:  wears two hats—one as parent and one as corporate executive. 
+******
+word: hen
+part_of_speech: noun
+definition: A female bird, especially the adult female of the domestic fowl.
+******
+word: hen
+part_of_speech: noun
+definition: The female of certain aquatic animals, such as an octopus or lobster.
+******
+word: hen
+part_of_speech: noun
+definition: Slang   A woman, especially a fussy or nosy old woman.
+******
+word: jar
+part_of_speech: noun
+definition: A cylindrical glass or earthenware vessel with a wide mouth and usually no handles.
+******
+word: jar
+part_of_speech: noun
+definition: The amount that a jar can hold.
+******
+word: jar
+part_of_speech: noun
+definition: Chiefly British   A glass of beer.
+******
+word: jar
+part_of_speech: noun
+definition: A jolt; a shock. See Synonyms at collision.
+******
+word: jar
+part_of_speech: noun
+definition: Harsh or grating sound; discord.
+******
+word: kite
+part_of_speech: noun
+definition: A light framework covered with cloth, plastic, or paper, designed to be flown in the wind at the end of a long string.
+******
+word: kite
+part_of_speech: noun
+definition: Any of the light sails of a ship that are used only in a light wind.
+******
+word: kite
+part_of_speech: noun
+definition: Any of various predatory birds of the hawk family Accipitridae, having a long, often forked tail and long pointed wings.
+******
+word: kite
+part_of_speech: noun
+definition: A piece of negotiable paper representing a fictitious financial transaction and used temporarily to sustain credit or raise money.
+******
+word: kite
+part_of_speech: noun
+definition: A bank check drawn on insufficient funds to take advantage of the time interval required for collection.
+******
+word: kite
+part_of_speech: noun
+definition: A bank check that has been fraudulently altered to show a larger amount.
+******
+word: man
+part_of_speech: noun
+definition: An adult male human.
+******
+word: man
+part_of_speech: noun
+definition: A human regardless of sex or age; a person.
+******
+word: man
+part_of_speech: noun
+definition: A human or an adult male human belonging to a specific occupation, group, nationality, or other category. Often used in combination:  a milkman; a congressman; a freeman. 
+******
+word: man
+part_of_speech: noun
+definition: The human race; mankind:  man's quest for peace. 
+******
+word: man
+part_of_speech: noun
+definition: Zoology   A member of the genus Homo, family Hominidae, order Primates, class Mammalia, characterized by erect posture and an opposable thumb, especially a member of the only extant species, Homo sapiens, distinguished by a highly developed brain, the capacity for abstract reasoning, and the ability to communicate by means of organized speech and record information in a variety of symbolic systems.
+******
+word: man
+part_of_speech: noun
+definition: A male human endowed with qualities, such as strength, considered characteristic of manhood.
+******
+word: man
+part_of_speech: noun
+definition: Informal   A husband.
+******
+word: man
+part_of_speech: noun
+definition: Informal   A male lover or sweetheart.
+******
+word: man
+part_of_speech: noun
+definition: Workers.
+******
+word: man
+part_of_speech: noun
+definition: Enlisted personnel of the armed forces:  officers and men. 
+******
+word: man
+part_of_speech: noun
+definition: A male representative, as of a country or company:  our man in Tokyo. 
+******
+word: man
+part_of_speech: noun
+definition: A male servant or subordinate.
+******
+word: man
+part_of_speech: noun
+definition: Informal   Used as a familiar form of address for a man:  See here, my good man! 
+******
+word: man
+part_of_speech: noun
+definition: One who swore allegiance to a lord in the Middle Ages; a vassal.
+******
+word: man
+part_of_speech: noun
+definition: Games   Any of the pieces used in a board game, such as chess or checkers.
+******
+word: man
+part_of_speech: noun
+definition: Nautical   A ship. Often used in combination:  a merchantman; a man-of-war. 
+******
+word: man
+part_of_speech: noun
+definition: Slang   A person or group felt to be in a position of power or authority. Used with the: "Their writing mainly concerns the street life—the pimp, the junky, the forces of drug addiction, exploitation at the hands of 'the man'”  ( Black World). 
+******
+word: map
+part_of_speech: noun
+definition: A representation, usually on a plane surface, of a region of the earth or heavens.
+******
+word: map
+part_of_speech: noun
+definition: Something that suggests such a representation, as in clarity of representation.
+******
+word: map
+part_of_speech: noun
+definition: Mathematics   The correspondence of elements in one set to elements in the same set or another set.
+******
+word: map
+part_of_speech: noun
+definition: Slang   The human face.
+******
+word: map
+part_of_speech: noun
+definition: Genetics   A genetic map.
+******
+word: mom
+part_of_speech: noun
+definition: Informal   Mother.
+******
+word: pan
+part_of_speech: noun
+definition: A shallow, wide, open container, usually of metal and without a lid, used for holding liquids, cooking, and other domestic purposes.
+******
+word: pan
+part_of_speech: noun
+definition: A vessel similar in form to a pan, especially:
+******
+word: pan
+part_of_speech: noun
+definition: An open metal dish used to separate gold or other metal from gravel or waste by washing.
+******
+word: pan
+part_of_speech: noun
+definition: Either of the receptacles on a balance or pair of scales.
+******
+word: pan
+part_of_speech: noun
+definition: A vessel used for boiling and evaporating liquids.
+******
+word: pan
+part_of_speech: noun
+definition: A basin or depression in the earth, often containing mud or water.
+******
+word: pan
+part_of_speech: noun
+definition: A natural or artificial basin used to obtain salt by evaporating brine.
+******
+word: pan
+part_of_speech: noun
+definition: Hardpan.
+******
+word: pan
+part_of_speech: noun
+definition: A freely floating piece of ice that has broken off a larger floe.
+******
+word: pan
+part_of_speech: noun
+definition: The small cavity in the lock of a flintlock used to hold powder.
+******
+word: pan
+part_of_speech: noun
+definition: Music   A steel drum.
+******
+word: pan
+part_of_speech: noun
+definition: Slang   The face.
+******
+word: pan
+part_of_speech: noun
+definition: Informal   Severe criticism, especially a negative review:  gave the film a pan. 
+******
+word: pan
+part_of_speech: noun
+definition: A leaf of the betel vine.
+******
+word: pan
+part_of_speech: noun
+definition: A chewing preparation of this leaf with betel nuts, spices, and lime, used in the Far East.
+******
+word: pet
+part_of_speech: noun
+definition: An animal kept for amusement or companionship.
+******
+word: pet
+part_of_speech: noun
+definition: An object of the affections.
+******
+word: pet
+part_of_speech: noun
+definition: A person especially loved or indulged; a favorite:  the teacher's pet. 
+******
+word: pet
+part_of_speech: noun
+definition: A fit of bad temper or pique.
+******
+word: pie
+part_of_speech: noun
+definition: A baked food composed of a pastry shell filled with fruit, meat, cheese, or other ingredients, and usually covered with a pastry crust.
+******
+word: pie
+part_of_speech: noun
+definition: A layer cake having cream, custard, or jelly filling.
+******
+word: pie
+part_of_speech: noun
+definition: A whole that can be shared: "That would . . . enlarge the economic pie by making the most productive use of every investment dollar”  ( New York Times). 
+******
+word: pie
+part_of_speech: noun
+definition: See magpie.
+******
+word: pie
+part_of_speech: noun
+definition: A monetary unit formerly in use in India and Pakistan.
+******
+word: pie
+part_of_speech: noun
+definition: An almanac of services used in the English church before the Reformation.
+******
+word: pie
+part_of_speech: noun
+definition: Printing   Variant of pi2.
+******
+word: pig
+part_of_speech: noun
+definition: Any of several mammals of the family Suidae, having short legs, cloven hooves, bristly hair, and a cartilaginous snout used for digging, especially the domesticated hog, Sus scrofa domesticus, when young or of comparatively small size.
+******
+word: pig
+part_of_speech: noun
+definition: The edible parts of one of these mammals.
+******
+word: pig
+part_of_speech: noun
+definition: Informal   A person regarded as being piglike, greedy, or gross.
+******
+word: pig
+part_of_speech: noun
+definition: A crude block of metal, chiefly iron or lead, poured from a smelting furnace.
+******
+word: pig
+part_of_speech: noun
+definition: A mold in which such metal is cast.
+******
+word: pig
+part_of_speech: noun
+definition: Pig iron.
+******
+word: pig
+part_of_speech: noun
+definition: Offensive Slang   Used as a disparaging term for a police officer.
+******
+word: pig
+part_of_speech: noun
+definition: Slang   A member of the social or political establishment, especially one holding sexist or racist views.
+******
+word: pot
+part_of_speech: noun
+definition: Any of various usually domestic containers made of pottery, metal, or glass, as:
+******
+word: pot
+part_of_speech: noun
+definition: A round, fairly deep cooking vessel with a handle and often a lid.
+******
+word: pot
+part_of_speech: noun
+definition: A short round container for storing or serving food:  a jam pot; a mustard pot. 
+******
+word: pot
+part_of_speech: noun
+definition: A coffeepot.
+******
+word: pot
+part_of_speech: noun
+definition: A teapot.
+******
+word: pot
+part_of_speech: noun
+definition: Such a container and its contents:  a pot of stew; brewed a pot of coffee. 
+******
+word: pot
+part_of_speech: noun
+definition: A potful.
+******
+word: pot
+part_of_speech: noun
+definition: A large drinking cup; a tankard.
+******
+word: pot
+part_of_speech: noun
+definition: A drink of liquor contained in such a cup.
+******
+word: pot
+part_of_speech: noun
+definition: An artistic or decorative ceramic vessel of any shape.
+******
+word: pot
+part_of_speech: noun
+definition: A flowerpot.
+******
+word: pot
+part_of_speech: noun
+definition: Something, such as a chimney pot or chamber pot, that resembles a round cooking vessel in appearance or function.
+******
+word: pot
+part_of_speech: noun
+definition: A trap for eels, other fish, or crustaceans, typically consisting of a wicker or wire basket or cage.
+******
+word: pot
+part_of_speech: noun
+definition: Games   The total amount staked by all the players in one hand at cards. See Synonyms at bet.
+******
+word: pot
+part_of_speech: noun
+definition: Games   The area on a card table where stakes are placed.
+******
+word: pot
+part_of_speech: noun
+definition: Games   A shot in billiards or related games intended to send a ball into a pocket.
+******
+word: pot
+part_of_speech: noun
+definition: Informal   A common fund to which members of a group contribute.
+******
+word: pot
+part_of_speech: noun
+definition: Informal   A large amount. Often used in the plural:  made pots of money on their investment. 
+******
+word: pot
+part_of_speech: noun
+definition: Informal   A potshot.
+******
+word: pot
+part_of_speech: noun
+definition: Informal   A potbelly.
+******
+word: pot
+part_of_speech: noun
+definition: Informal   A potty or toilet.
+******
+word: pot
+part_of_speech: noun
+definition: See potentiometer.
+******
+word: pot
+part_of_speech: noun
+definition: Slang   Marijuana.
+******
+word: rat
+part_of_speech: noun
+definition: Any of various long-tailed rodents resembling mice but larger, especially one of the genus Rattus.
+******
+word: rat
+part_of_speech: noun
+definition: Any of various animals similar to one of these long-tailed rodents.
+******
+word: rat
+part_of_speech: noun
+definition: Slang   A despicable person, especially one who betrays or informs upon associates.
+******
+word: rat
+part_of_speech: noun
+definition: Slang   A scab laborer.
+******
+word: rat
+part_of_speech: noun
+definition: A pad of material, typically hair, worn as part of a woman's coiffure to puff out her own hair.
+******
+word: son
+part_of_speech: noun
+definition: One's male child.
+******
+word: son
+part_of_speech: noun
+definition: A male descendant.
+******
+word: son
+part_of_speech: noun
+definition: A man considered as if in a relationship of child to parent:  a son of the soil. 
+******
+word: son
+part_of_speech: noun
+definition: One personified or regarded as a male descendant.
+******
+word: son
+part_of_speech: noun
+definition: Used as a familiar form of address for a young man.
+******
+word: son
+part_of_speech: noun
+definition: Christianity   The second person of the Trinity.
+******
+word: sun
+part_of_speech: noun
+definition: A star that is the basis of the solar system and that sustains life on Earth, being the source of heat and light. It has a mean distance from Earth of about 150 million kilometers (93 million miles) a diameter of approximately 1,390,000 kilometers (864,000 miles) and a mass about 330,000 times that of Earth.
+******
+word: sun
+part_of_speech: noun
+definition: A star that is the center of a planetary system.
+******
+word: sun
+part_of_speech: noun
+definition: The radiant energy, especially heat and visible light, emitted by the sun; sunshine.
+******
+word: sun
+part_of_speech: noun
+definition: A sunlike object, representation, or design.
+******
+word: toe
+part_of_speech: noun
+definition: One of the digits of a vertebrate.
+******
+word: toe
+part_of_speech: noun
+definition: The forepart of a foot or hoof.
+******
+word: toe
+part_of_speech: noun
+definition: The terminal segment of an invertebrate's limb.
+******
+word: toe
+part_of_speech: noun
+definition: The part of a sock, shoe, or boot that covers the digits of the foot.
+******
+word: toe
+part_of_speech: noun
+definition: The lowest, outermost, or endmost part, as:
+******
+word: toe
+part_of_speech: noun
+definition: The part of the head of a golf club farthest from the shaft.
+******
+word: toe
+part_of_speech: noun
+definition: The part of a vertical shaft that turns in a bearing.
+******
+word: toe
+part_of_speech: noun
+definition: The lowest part of an embankment or dam.
+******
+word: tub
+part_of_speech: noun
+definition: An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing.
+******
+word: tub
+part_of_speech: noun
+definition: The amount that such a vessel can hold.
+******
+word: tub
+part_of_speech: noun
+definition: The contents of such a vessel.
+******
+word: tub
+part_of_speech: noun
+definition: A bathtub.
+******
+word: tub
+part_of_speech: noun
+definition: Informal   A bath taken in a bathtub.
+******
+word: tub
+part_of_speech: noun
+definition: Informal   A wide, clumsy, slow-moving boat.
+******
+word: tub
+part_of_speech: noun
+definition: A bucket used for conveying ore or coal up a mine shaft.
+******
+word: tub
+part_of_speech: noun
+definition: A coal car used in a mine.
+******
+word: van
+part_of_speech: noun
+definition: An enclosed boxlike motor vehicle having rear or side doors and side panels especially for transporting people.
+******
+word: van
+part_of_speech: noun
+definition: A covered or enclosed truck or wagon often used for transporting goods or livestock.
+******
+word: van
+part_of_speech: noun
+definition: Chiefly British   A closed railroad car used for carrying baggage or freight.
+******
+word: van
+part_of_speech: noun
+definition: The vanguard; the forefront.
+******
+word: van
+part_of_speech: noun
+definition: A wing.
+******
+word: van
+part_of_speech: noun
+definition: Archaic   A winnowing device, such as a fan.
+******
+word: apple
+part_of_speech: noun
+definition: A deciduous Eurasian tree (Malus pumila) having alternate simple leaves and white or pink flowers.
+******
+word: apple
+part_of_speech: noun
+definition: The firm, edible, usually rounded fruit of this tree.
+******
+word: apple
+part_of_speech: noun
+definition: Any of several other plants, especially those with fruits suggestive of the apple, such as the crab apple or custard apple.
+******
+word: apple
+part_of_speech: noun
+definition: The fruit of any of these plants.
+******
+word: arm
+part_of_speech: noun
+definition: An upper limb of the human body, connecting the hand and wrist to the shoulder.
+******
+word: arm
+part_of_speech: noun
+definition: A part similar to a human arm, such as the forelimb of an animal or a long part projecting from a central support in a machine.
+******
+word: arm
+part_of_speech: noun
+definition: Something, such as a sleeve on a garment or a support on a chair, that is designed to cover or support the human arm.
+******
+word: arm
+part_of_speech: noun
+definition: A relatively narrow extension jutting out from a large mass:  an arm of the sea.  See Synonyms at branch.
+******
+word: arm
+part_of_speech: noun
+definition: An administrative or functional branch, as of an organization.
+******
+word: arm
+part_of_speech: noun
+definition: Power or authority:  the long arm of the law. 
+******
+word: arm
+part_of_speech: noun
+definition: Sports   The skill of throwing or pitching a ball well.
+******
+word: arm
+part_of_speech: noun
+definition: A weapon, especially a firearm:  troops bearing arms; ICBMs, bombs, and other nuclear arms. 
+******
+word: arm
+part_of_speech: noun
+definition: A branch of a military force:  infantry, armor, and other combat arms. 
+******
+word: arm
+part_of_speech: noun
+definition: Warfare:  a call to arms against the invaders. 
+******
+word: arm
+part_of_speech: noun
+definition: Military service:  several million volunteers under arms; the profession of arms. 
+******
+word: arm
+part_of_speech: noun
+definition: Heraldry   Bearings.
+******
+word: arm
+part_of_speech: noun
+definition: Insignia, as of a state, an official, a family, or an organization.
+******
+word: banana
+part_of_speech: noun
+definition: Any of several treelike Asian herbs of the genus Musa, especially M. acuminata, having a terminal crown of large, entire leaves and a hanging cluster of fruits.
+******
+word: banana
+part_of_speech: noun
+definition: The elongated, edible fruit of these plants, having a thick yellowish to reddish skin and white, aromatic, seedless pulp.
+******
+word: bike
+part_of_speech: noun
+definition: A bicycle.
+******
+word: bike
+part_of_speech: noun
+definition: A motorcycle.
+******
+word: bike
+part_of_speech: noun
+definition: A motorbike.
+******
+word: bird
+part_of_speech: noun
+definition: Any of various warm-blooded, egg-laying, feathered vertebrates of the class Aves, having forelimbs modified to form wings.
+******
+word: bird
+part_of_speech: noun
+definition: Such an animal hunted as game.
+******
+word: bird
+part_of_speech: noun
+definition: Such an animal, especially a chicken or turkey, used as food:  put the bird in the oven. 
+******
+word: bird
+part_of_speech: noun
+definition: See clay pigeon.
+******
+word: bird
+part_of_speech: noun
+definition: Sports   See shuttlecock.
+******
+word: bird
+part_of_speech: noun
+definition: Slang   A rocket, guided missile, satellite, or airplane.
+******
+word: bird
+part_of_speech: noun
+definition: Slang   A person, especially one who is odd or remarkable:  a sly old bird. 
+******
+word: bird
+part_of_speech: noun
+definition: Chiefly British Slang   A young woman.
+******
+word: bird
+part_of_speech: noun
+definition: Slang   A loud sound expressing disapproval; a raspberry.
+******
+word: bird
+part_of_speech: noun
+definition: Slang   Discharge from employment:  lost a big sale and nearly got the bird. 
+******
+word: bird
+part_of_speech: noun
+definition: An obscene gesture of anger, defiance, or derision made by pointing or jabbing the middle finger upward.
+******
+word: chin
+part_of_speech: noun
+definition: The central forward portion of the lower jaw.
+******
+word: clam
+part_of_speech: noun
+definition: Any of various usually burrowing marine and freshwater bivalve mollusks of the class Pelecypoda, including members of the genera Venus and Mya, many of which are edible.
+******
+word: clam
+part_of_speech: noun
+definition: The soft edible body of such a mollusk.
+******
+word: clam
+part_of_speech: noun
+definition: Informal   A close-mouthed person, especially one who can keep a secret.
+******
+word: clam
+part_of_speech: noun
+definition: Slang   A dollar:  set me back 75 clams. 
+******
+word: clam
+part_of_speech: noun
+definition: A clamp or vise.
+******
+word: class
+part_of_speech: noun
+definition: A set, collection, group, or configuration containing members regarded as having certain attributes or traits in common; a kind or category.
+******
+word: class
+part_of_speech: noun
+definition: A division based on quality, rank, or grade, as:
+******
+word: class
+part_of_speech: noun
+definition: A grade of mail:  a package sent third class. 
+******
+word: class
+part_of_speech: noun
+definition: A quality of accommodation on public transport:  tourist class. 
+******
+word: class
+part_of_speech: noun
+definition: A social stratum whose members share certain economic, social, or cultural characteristics:  the lower-income classes. 
+******
+word: class
+part_of_speech: noun
+definition: Social rank or caste, especially high rank.
+******
+word: class
+part_of_speech: noun
+definition: Informal   Elegance of style, taste, and manner:  an actor with class. 
+******
+word: class
+part_of_speech: noun
+definition: A level of academic development, as in an elementary or secondary school.
+******
+word: class
+part_of_speech: noun
+definition: A group of students who are taught together because they have roughly the same level of academic development.
+******
+word: class
+part_of_speech: noun
+definition: A group of students or alumni who have the same year of graduation.
+******
+word: class
+part_of_speech: noun
+definition: A group of students who meet at a regularly scheduled time to study the same subject.
+******
+word: class
+part_of_speech: noun
+definition: The period during which such a group meets:  had to stay after class. 
+******
+word: class
+part_of_speech: noun
+definition: Biology   A taxonomic category ranking below a phylum or division and above an order. See Table at taxonomy.
+******
+word: class
+part_of_speech: noun
+definition: Statistics   An interval in a frequency distribution.
+******
+word: class
+part_of_speech: noun
+definition: Linguistics   A group of words belonging to the same grammatical category that share a particular set of morphological properties, such as a set of inflections.
+******
+word: clover
+part_of_speech: noun
+definition: Any of various herbs of the genus Trifolium in the pea family, having trifoliolate leaves and dense heads of small flowers and including species grown for forage, for erosion control, and as a source of nectar for honeybees.
+******
+word: clover
+part_of_speech: noun
+definition: Any of several other plants in the pea family, such as bush clover and sweet clover.
+******
+word: clover
+part_of_speech: noun
+definition: Any of several nonleguminous plants, such as owl's clover and water clover.
+******
+word: club
+part_of_speech: noun
+definition: A stout heavy stick, usually thicker at one end, suitable for use as a weapon; a cudgel.
+******
+word: club
+part_of_speech: noun
+definition: Sports   An implement used in some games to drive a ball, especially a stick with a protruding head used in golf.
+******
+word: club
+part_of_speech: noun
+definition: Games   A black figure shaped like a trefoil or clover leaf on certain playing cards.
+******
+word: club
+part_of_speech: noun
+definition: Games   A playing card with this figure.
+******
+word: club
+part_of_speech: noun
+definition: Games   The suit of cards represented by this figure.
+******
+word: club
+part_of_speech: noun
+definition: A group of people organized for a common purpose, especially a group that meets regularly:  a garden club. 
+******
+word: club
+part_of_speech: noun
+definition: The building, room, or other facility used for the meetings of an organized group.
+******
+word: club
+part_of_speech: noun
+definition: Sports   An athletic team or organization.
+******
+word: club
+part_of_speech: noun
+definition: A nightclub.
+******
+word: corn
+part_of_speech: noun
+definition: Any of numerous cultivated forms of a widely grown, usually tall annual cereal grass (Zea mays) bearing grains or kernels on large ears.
+******
+word: corn
+part_of_speech: noun
+definition: The grains or kernels of this plant, used as food for humans and livestock or for the extraction of an edible oil or starch. Also called Indian corn, maize.
+******
+word: corn
+part_of_speech: noun
+definition: An ear of this plant.
+******
+word: corn
+part_of_speech: noun
+definition: Chiefly British   Any of various cereal plants or grains, especially the principal crop cultivated in a particular region, such as wheat in England or oats in Scotland.
+******
+word: corn
+part_of_speech: noun
+definition: A single grain of a cereal plant.
+******
+word: corn
+part_of_speech: noun
+definition: A seed or fruit of various other plants, such as a peppercorn.
+******
+word: corn
+part_of_speech: noun
+definition: Corn snow.
+******
+word: corn
+part_of_speech: noun
+definition: Informal   Corn whiskey.
+******
+word: corn
+part_of_speech: noun
+definition: Slang   Something considered trite, dated, melodramatic, or unduly sentimental.
+******
+word: corn
+part_of_speech: noun
+definition: A horny thickening of the skin, usually on or near a toe, resulting from pressure or friction. Also called clavus.
+******
+word: crayon
+part_of_speech: noun
+definition: A stick of colored wax, charcoal, or chalk, used for drawing.
+******
+word: crayon
+part_of_speech: noun
+definition: A drawing made with one of these sticks.
+******
+word: crow
+part_of_speech: noun
+definition: Any of several large glossy black birds of the genus Corvus, having a characteristic raucous call, especially C. brachyrhynchos of North America.
+******
+word: crow
+part_of_speech: noun
+definition: A crowbar.
+******
+word: crow
+part_of_speech: noun
+definition: The shrill cry of a cock.
+******
+word: crow
+part_of_speech: noun
+definition: An inarticulate sound expressive of pleasure or delight.
+******
+word: crown
+part_of_speech: noun
+definition: An ornamental circlet or head covering, often made of precious metal set with jewels and worn as a symbol of sovereignty.
+******
+word: crown
+part_of_speech: noun
+definition: The power, position, or empire of a monarch or of a state governed by constitutional monarchy.
+******
+word: crown
+part_of_speech: noun
+definition: The monarch as head of state.
+******
+word: crown
+part_of_speech: noun
+definition: A distinction or reward for achievement, especially a title signifying championship in a sport.
+******
+word: crown
+part_of_speech: noun
+definition: Something resembling a diadem in shape.
+******
+word: crown
+part_of_speech: noun
+definition: A coin stamped with a crown or crowned head on one side.
+******
+word: crown
+part_of_speech: noun
+definition: A silver coin formerly used in Great Britain and worth five shillings.
+******
+word: crown
+part_of_speech: noun
+definition: Any one of several coins, such as the koruna, the krona, or the krone, having a name that means "crown.”
+******
+word: crown
+part_of_speech: noun
+definition: The top or highest part of the head.
+******
+word: crown
+part_of_speech: noun
+definition: The head itself.
+******
+word: crown
+part_of_speech: noun
+definition: The top or upper part of a hat.
+******
+word: crown
+part_of_speech: noun
+definition: The highest point or summit.
+******
+word: crown
+part_of_speech: noun
+definition: The highest, primary, or most valuable part, attribute, or state:  considered the rare Turkish stamp the crown of their collection. 
+******
+word: crown
+part_of_speech: noun
+definition: Dentistry   The part of a tooth that is covered by enamel and projects beyond the gum line.
+******
+word: crown
+part_of_speech: noun
+definition: Dentistry   An artificial substitute for the natural crown of a tooth.
+******
+word: crown
+part_of_speech: noun
+definition: Nautical   The lowest part of an anchor, where the arms are joined to the shank.
+******
+word: crown
+part_of_speech: noun
+definition: Architecture   The highest portion of an arch, including the keystone.
+******
+word: crown
+part_of_speech: noun
+definition: Botany   The upper part of a tree, which includes the branches and leaves.
+******
+word: crown
+part_of_speech: noun
+definition: Botany   The part of a plant, usually at ground level, where the stem and roots merge.
+******
+word: crown
+part_of_speech: noun
+definition: Botany   The persistent, mostly underground base of a perennial herb.
+******
+word: crown
+part_of_speech: noun
+definition: Botany   See corona.
+******
+word: crown
+part_of_speech: noun
+definition: The crest of an animal, especially of a bird.
+******
+word: crown
+part_of_speech: noun
+definition: The portion of a cut gem above the girdle.
+******
+word: crowd
+part_of_speech: noun
+definition: A large number of persons gathered together; a throng.
+******
+word: crowd
+part_of_speech: noun
+definition: The common people; the populace.
+******
+word: crowd
+part_of_speech: noun
+definition: A group of people united by a common characteristic, as age, interest, or vocation:  the over-30 crowd. 
+******
+word: crowd
+part_of_speech: noun
+definition: A group of people attending a public function; an audience:  The play drew a small but appreciative crowd. 
+******
+word: crowd
+part_of_speech: noun
+definition: A large number of things positioned or considered together.
+******
+word: crowd
+part_of_speech: noun
+definition: An ancient Celtic stringed instrument that was bowed or plucked. Also called crwth.
+******
+word: crowd
+part_of_speech: noun
+definition: Chiefly British   A fiddle.
+******
+word: crib
+part_of_speech: noun
+definition: A bed with high sides for a young child or baby.
+******
+word: crib
+part_of_speech: noun
+definition: A small building, usually with slatted sides, for storing corn.
+******
+word: crib
+part_of_speech: noun
+definition: A rack or trough for fodder; a manger.
+******
+word: crib
+part_of_speech: noun
+definition: A stall for cattle.
+******
+word: crib
+part_of_speech: noun
+definition: A small crude cottage or room.
+******
+word: crib
+part_of_speech: noun
+definition: Slang   One's home.
+******
+word: crib
+part_of_speech: noun
+definition: A framework to support or strengthen a mine or shaft.
+******
+word: crib
+part_of_speech: noun
+definition: A wicker basket.
+******
+word: crib
+part_of_speech: noun
+definition: A petty theft.
+******
+word: crib
+part_of_speech: noun
+definition: Plagiarism.
+******
+word: crib
+part_of_speech: noun
+definition: See pony.
+******
+word: crib
+part_of_speech: noun
+definition: Games   A set of cards made up from discards by each player in cribbage, used by the dealer.
+******
+word: desk
+part_of_speech: noun
+definition: A piece of furniture typically having a flat or sloping top for writing and often drawers or compartments.
+******
+word: desk
+part_of_speech: noun
+definition: A table, counter, or booth at which specified services or functions are performed:  an information desk; a reception desk. 
+******
+word: desk
+part_of_speech: noun
+definition: A department of a large organization in charge of a specified operation:  a newspaper's city desk. 
+******
+word: desk
+part_of_speech: noun
+definition: A lectern.
+******
+word: desk
+part_of_speech: noun
+definition: A music stand in an orchestra.
+******
+word: dime
+part_of_speech: noun
+definition: A coin of the United States or Canada worth ten cents.
+******
+word: dime
+part_of_speech: noun
+definition: Slang   A dime bag.
+******
+word: dirt
+part_of_speech: noun
+definition: Earth or soil.
+******
+word: dirt
+part_of_speech: noun
+definition: A filthy or soiling substance, such as mud or dust.
+******
+word: dirt
+part_of_speech: noun
+definition: Excrement.
+******
+word: dirt
+part_of_speech: noun
+definition: A squalid or filthy condition.
+******
+word: dirt
+part_of_speech: noun
+definition: One that is mean, contemptible, or vile.
+******
+word: dirt
+part_of_speech: noun
+definition: Obscene language or subject matter.
+******
+word: dirt
+part_of_speech: noun
+definition: Malicious or scandalous gossip.
+******
+word: dirt
+part_of_speech: noun
+definition: Information that embarrasses or accuses.
+******
+word: dirt
+part_of_speech: noun
+definition: Unethical behavior or practice; corruption.
+******
+word: dirt
+part_of_speech: noun
+definition: Material, such as gravel or slag, from which metal is extracted in mining.
+******
+word: dress
+part_of_speech: noun
+definition: Clothing; apparel.
+******
+word: dress
+part_of_speech: noun
+definition: A style of clothing:  folk dancers in peasant dress. 
+******
+word: dress
+part_of_speech: noun
+definition: A one-piece outer garment for women or girls.
+******
+word: dress
+part_of_speech: noun
+definition: Outer covering or appearance; guise:  an ancient ritual in modern dress. 
+******
+word: fang
+part_of_speech: noun
+definition: Any of the hollow or grooved teeth of a venomous snake with which it injects its poison.
+******
+word: fang
+part_of_speech: noun
+definition: Any of the canine teeth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.
+******
+word: fang
+part_of_speech: noun
+definition: A long, sharp, pointed tooth, especially a canine tooth.
+******
+word: fang
+part_of_speech: noun
+definition: The root of a tooth or a pronglike division of such a root.
+******
+word: fang
+part_of_speech: noun
+definition: A fanglike structure, especially a chelicera of a venomous spider.
+******
+word: field
+part_of_speech: noun
+definition: A broad, level, open expanse of land.
+******
+word: field
+part_of_speech: noun
+definition: A meadow:  a field of buttercups. 
+******
+word: field
+part_of_speech: noun
+definition: A cultivated expanse of land, especially one devoted to a particular crop:  a field of corn. 
+******
+word: field
+part_of_speech: noun
+definition: A portion of land or a geologic formation containing a specified natural resource.
+******
+word: field
+part_of_speech: noun
+definition: A wide unbroken expanse, as of ice.
+******
+word: field
+part_of_speech: noun
+definition: A battleground.
+******
+word: field
+part_of_speech: noun
+definition: A battle.
+******
+word: field
+part_of_speech: noun
+definition: The scene or an area of military operations or maneuvers.
+******
+word: field
+part_of_speech: noun
+definition: A military area away from headquarters.
+******
+word: field
+part_of_speech: noun
+definition: A background area, as on a flag, painting, or coin:  a blue insignia on a field of red. 
+******
+word: field
+part_of_speech: noun
+definition: Heraldry   The background of a shield or one of the divisions of the background.
+******
+word: field
+part_of_speech: noun
+definition: Sports   An area in which an athletic event takes place, especially the area inside or near to a running track, where field events are held.
+******
+word: field
+part_of_speech: noun
+definition: Sports   The portion of a playing field having specific dimensions on which the action of a game takes place.
+******
+word: field
+part_of_speech: noun
+definition: Sports   All the contestants or participants in an event, especially all the contestants except the favorite or the winner in a contest of more than two.
+******
+word: field
+part_of_speech: noun
+definition: Sports   The members of a team engaged in active play.
+******
+word: field
+part_of_speech: noun
+definition: Sports   The body of riders following a pack of hounds in hunting.
+******
+word: field
+part_of_speech: noun
+definition: An area of human activity or interest:  several fields of endeavor. 
+******
+word: field
+part_of_speech: noun
+definition: A topic, subject, or area of academic interest or specialization.
+******
+word: field
+part_of_speech: noun
+definition: Profession, employment, or business.
+******
+word: field
+part_of_speech: noun
+definition: An area or setting of practical activity or application outside an office, school, factory, or laboratory:  biologists working in the field; a product tested in the field. 
+******
+word: field
+part_of_speech: noun
+definition: An area or region where business activities are conducted:  sales representatives in the field. 
+******
+word: field
+part_of_speech: noun
+definition: Mathematics   A set of elements having two operations, designated addition and multiplication, satisfying the conditions that multiplication is distributive over addition, that the set is a group under addition, and that the elements with the exception of the additive identity form a group under multiplication.
+******
+word: field
+part_of_speech: noun
+definition: Physics   A region of space characterized by a physical property, such as gravitational or electromagnetic force or fluid pressure, having a determinable value at every point in the region.
+******
+word: field
+part_of_speech: noun
+definition: The usually circular area in which the image is rendered by the lens system of an optical instrument. Also called field of view.
+******
+word: field
+part_of_speech: noun
+definition: Computer Science   A defined area of a storage medium, such as a set of bit locations or a set of adjacent columns on a punch card, used to record a type of information consistently.
+******
+word: field
+part_of_speech: noun
+definition: Computer Science   An element of a database record in which one piece of information is stored.
+******
+word: field
+part_of_speech: noun
+definition: Computer Science   An interface element in a GUI that accepts the input of text.
+******
+word: flag
+part_of_speech: noun
+definition: A piece of cloth, usually rectangular, of distinctive color and design, used as a symbol, standard, signal, or emblem.
+******
+word: flag
+part_of_speech: noun
+definition: National or other allegiance, as symbolized by a flag:  ships of the same flag. 
+******
+word: flag
+part_of_speech: noun
+definition: A ship carrying the flag of an admiral; a flagship.
+******
+word: flag
+part_of_speech: noun
+definition: A marking device, such as a gummed strip of paper, attached to an object to attract attention or ease identification; a tab.
+******
+word: flag
+part_of_speech: noun
+definition: The masthead of a newspaper.
+******
+word: flag
+part_of_speech: noun
+definition: Music   A cross stroke that halves the value of a note to which it is added.
+******
+word: flag
+part_of_speech: noun
+definition: A distinctively shaped or marked tail, as of a dog or deer.
+******
+word: flag
+part_of_speech: noun
+definition: Computer Science   A variable or memory location that stores true-or-false, yes-or-no information.
+******
+word: flag
+part_of_speech: noun
+definition: A plant, such as an iris or cattail, that has long sword-shaped leaves.
+******
+word: flag
+part_of_speech: noun
+definition: A flagstone.
+******
+word: flower
+part_of_speech: noun
+definition: The reproductive structure of some seed-bearing plants, characteristically having either specialized male or female organs or both male and female organs, such as stamens and a pistil, enclosed in an outer envelope of petals and sepals.
+******
+word: flower
+part_of_speech: noun
+definition: Such a structure having showy or colorful parts; a blossom.
+******
+word: flower
+part_of_speech: noun
+definition: A plant that is cultivated or appreciated for its blossoms.
+******
+word: flower
+part_of_speech: noun
+definition: The condition or a time of having developed flowers:  The azaleas were in full flower. 
+******
+word: flower
+part_of_speech: noun
+definition: Something, such as an ornament or a figure of speech, that resembles a flower in shape, fineness, or attractiveness.
+******
+word: flower
+part_of_speech: noun
+definition: The period of highest development; the peak. See Synonyms at bloom1.
+******
+word: flower
+part_of_speech: noun
+definition: The highest example or best representative:  the flower of our generation. 
+******
+word: flower
+part_of_speech: noun
+definition: A natural development or outgrowth: "His attitude was simply a flower of his general good nature”  ( Henry James). 
+******
+word: flower
+part_of_speech: noun
+definition: Chemistry   A fine powder produced by condensation or sublimation of a compound.
+******
+word: fog
+part_of_speech: noun
+definition: Condensed water vapor in cloudlike masses lying close to the ground and limiting visibility.
+******
+word: fog
+part_of_speech: noun
+definition: An obscuring haze, as of atmospheric dust or smoke.
+******
+word: fog
+part_of_speech: noun
+definition: A mist or film clouding a surface, as of a window, lens, or mirror.
+******
+word: fog
+part_of_speech: noun
+definition: A cloud of vaporized liquid, especially a chemical spray used in fighting fires.
+******
+word: fog
+part_of_speech: noun
+definition: A state of mental vagueness or bewilderment.
+******
+word: fog
+part_of_speech: noun
+definition: Something that obscures or conceals; a haze:  shrouded their actions in a fog of disinformation. 
+******
+word: fog
+part_of_speech: noun
+definition: A blur on a developed photographic image.
+******
+word: fog
+part_of_speech: noun
+definition: A new growth of grass appearing on a field that has been mowed or grazed.
+******
+word: fog
+part_of_speech: noun
+definition: Tall, decaying grass left standing after the cutting or grazing season.
+******
+word: game
+part_of_speech: noun
+definition: An activity providing entertainment or amusement; a pastime:  party games; word games. 
+******
+word: game
+part_of_speech: noun
+definition: A competitive activity or sport in which players contend with each other according to a set of rules:  the game of basketball; the game of gin rummy. 
+******
+word: game
+part_of_speech: noun
+definition: A single instance of such an activity:  We lost the first game. 
+******
+word: game
+part_of_speech: noun
+definition: An organized athletic program or contest:  track-and-field games; took part in the winter games. 
+******
+word: game
+part_of_speech: noun
+definition: A period of competition or challenge:  It was too late in the game to change the schedule of the project. 
+******
+word: game
+part_of_speech: noun
+definition: The total number of points required to win a game:  One hundred points is game in bridge. 
+******
+word: game
+part_of_speech: noun
+definition: The score accumulated at any given time in a game:  The game is now 14 to 12. 
+******
+word: game
+part_of_speech: noun
+definition: The equipment needed for playing certain games:  packed the children's games in the car. 
+******
+word: game
+part_of_speech: noun
+definition: A particular style or manner of playing a game:  improved my tennis game with practice. 
+******
+word: game
+part_of_speech: noun
+definition: Informal   An active interest or pursuit, especially one involving competitive engagement or adherence to rules: "the way the system operates, the access game, the turf game, the image game”  ( Hedrick Smith). 
+******
+word: game
+part_of_speech: noun
+definition: Informal   A business or occupation; a line:  the insurance game. 
+******
+word: game
+part_of_speech: noun
+definition: Informal   An illegal activity; a racket.
+******
+word: game
+part_of_speech: noun
+definition: Informal   Evasive, trifling, or manipulative behavior:  wanted a straight answer, not more of their tiresome games. 
+******
+word: game
+part_of_speech: noun
+definition: Informal   A calculated strategy or approach; a scheme:  I saw through their game from the very beginning. 
+******
+word: game
+part_of_speech: noun
+definition: Mathematics   A model of a competitive situation that identifies interested parties and stipulates rules governing all aspects of the competition, used in game theory to determine the optimal course of action for an interested party.
+******
+word: game
+part_of_speech: noun
+definition: Wild animals, birds, or fish hunted for food or sport.
+******
+word: game
+part_of_speech: noun
+definition: The flesh of these animals, eaten as food.
+******
+word: game
+part_of_speech: noun
+definition: An object of attack, ridicule, or pursuit:  The press considered the candidate's indiscretions to be game. 
+******
+word: game
+part_of_speech: noun
+definition: Mockery; sport:  The older children teased and made game of the newcomer. 
+******
+word: heat
+part_of_speech: noun
+definition: A form of energy associated with the motion of atoms or molecules and capable of being transmitted through solid and fluid media by conduction, through fluid media by convection, and through empty space by radiation.
+******
+word: heat
+part_of_speech: noun
+definition: The transfer of energy from one body to another as a result of a difference in temperature or a change in phase.
+******
+word: heat
+part_of_speech: noun
+definition: Physics   The sensation or perception of such energy as warmth or hotness.
+******
+word: heat
+part_of_speech: noun
+definition: Physics   An abnormally high bodily temperature, as from a fever.
+******
+word: heat
+part_of_speech: noun
+definition: The condition of being hot.
+******
+word: heat
+part_of_speech: noun
+definition: A degree of warmth or hotness:  The burner was on low heat. 
+******
+word: heat
+part_of_speech: noun
+definition: The warming of a room or building by a furnace or another source of energy:  The house was cheap to rent, but the heat was expensive. 
+******
+word: heat
+part_of_speech: noun
+definition: A furnace or other source of warmth in a room or building:  The heat was on when we returned from work. 
+******
+word: heat
+part_of_speech: noun
+definition: Physics   A hot season; a spell of hot weather.
+******
+word: heat
+part_of_speech: noun
+definition: Intensity, as of passion, emotion, color, appearance, or effect.
+******
+word: heat
+part_of_speech: noun
+definition: The most intense or active stage:  the heat of battle. 
+******
+word: heat
+part_of_speech: noun
+definition: A burning sensation in the mouth produced by spicy flavoring in food.
+******
+word: heat
+part_of_speech: noun
+definition: Physics   Estrus.
+******
+word: heat
+part_of_speech: noun
+definition: Physics   One of a series of efforts or attempts.
+******
+word: heat
+part_of_speech: noun
+definition: Sports &amp; Games   One round of several in a competition, such as a race.
+******
+word: heat
+part_of_speech: noun
+definition: A preliminary contest held to determine finalists.
+******
+word: heat
+part_of_speech: noun
+definition: Informal   Physics   Pressure; stress.
+******
+word: heat
+part_of_speech: noun
+definition: Slang   An intensification of police activity in pursuing criminals.
+******
+word: heat
+part_of_speech: noun
+definition: Slang   The police. Used with the.
+******
+word: heat
+part_of_speech: noun
+definition: Slang   Physics   Adverse comments or hostile criticism:  Heat from the press forced the senator to resign. 
+******
+word: heat
+part_of_speech: noun
+definition: Slang   Physics   A firearm, especially a pistol.
+******
+word: hill
+part_of_speech: noun
+definition: A well-defined natural elevation smaller than a mountain.
+******
+word: hill
+part_of_speech: noun
+definition: A small heap, pile, or mound.
+******
+word: hill
+part_of_speech: noun
+definition: A mound of earth piled around and over a plant.
+******
+word: hill
+part_of_speech: noun
+definition: A plant thus covered.
+******
+word: hill
+part_of_speech: noun
+definition: An incline, especially of a road; a slope.
+******
+word: hill
+part_of_speech: noun
+definition: Capitol Hill. Often used with the.
+******
+word: hill
+part_of_speech: noun
+definition: The U.S. Congress. Often used with the.
+******
+word: home
+part_of_speech: noun
+definition: A place where one lives; a residence.
+******
+word: home
+part_of_speech: noun
+definition: The physical structure within which one lives, such as a house or apartment.
+******
+word: home
+part_of_speech: noun
+definition: A dwelling place together with the family or social unit that occupies it; a household.
+******
+word: home
+part_of_speech: noun
+definition: An environment offering security and happiness.
+******
+word: home
+part_of_speech: noun
+definition: A valued place regarded as a refuge or place of origin.
+******
+word: home
+part_of_speech: noun
+definition: The place, such as a country or town, where one was born or has lived for a long period.
+******
+word: home
+part_of_speech: noun
+definition: The native habitat, as of a plant or animal.
+******
+word: home
+part_of_speech: noun
+definition: The place where something is discovered, founded, developed, or promoted; a source.
+******
+word: home
+part_of_speech: noun
+definition: A headquarters; a home base.
+******
+word: home
+part_of_speech: noun
+definition: Baseball   Home plate.
+******
+word: home
+part_of_speech: noun
+definition: Games   Home base.
+******
+word: home
+part_of_speech: noun
+definition: An institution where people are cared for:  a home for the elderly. 
+******
+word: home
+part_of_speech: noun
+definition: Computer Science   The starting position of the cursor on a text-based computer display, usually in the upper left corner of the screen.
+******
+word: home
+part_of_speech: noun
+definition: Computer Science   A starting position within a computer application, such as the beginning of a line, file, or screen or the top of a chart or list.
+******
+word: horn
+part_of_speech: noun
+definition: One of the hard, usually permanent structures projecting from the head of certain mammals, such as cattle, sheep, goats, or antelopes, consisting of a bony core covered with a sheath of keratinous material.
+******
+word: horn
+part_of_speech: noun
+definition: A hard protuberance, such as an antler or projection on the head of a giraffe or rhinoceros, that is similar to or suggestive of a horn.
+******
+word: horn
+part_of_speech: noun
+definition: The hard smooth keratinous material forming the outer covering of the horns of cattle or related animals.
+******
+word: horn
+part_of_speech: noun
+definition: A natural or synthetic substance resembling this material.
+******
+word: horn
+part_of_speech: noun
+definition: A container, such as a powder horn, made from a horn.
+******
+word: horn
+part_of_speech: noun
+definition: Something having the shape of a horn, especially:
+******
+word: horn
+part_of_speech: noun
+definition: A horn of plenty; a cornucopia.
+******
+word: horn
+part_of_speech: noun
+definition: Either of the ends of a new moon.
+******
+word: horn
+part_of_speech: noun
+definition: The point of an anvil.
+******
+word: horn
+part_of_speech: noun
+definition: The pommel of a saddle.
+******
+word: horn
+part_of_speech: noun
+definition: An ear trumpet.
+******
+word: horn
+part_of_speech: noun
+definition: A device for projecting sound waves, as in a loudspeaker.
+******
+word: horn
+part_of_speech: noun
+definition: A hollow, metallic electromagnetic transmission antenna with a circular or rectangular cross section.
+******
+word: horn
+part_of_speech: noun
+definition: Music   A wind instrument made of an animal horn.
+******
+word: horn
+part_of_speech: noun
+definition: Music   A brass wind instrument, such as a trombone or tuba.
+******
+word: horn
+part_of_speech: noun
+definition: Music   A French horn.
+******
+word: horn
+part_of_speech: noun
+definition: Music   A wind instrument, such as a trumpet or saxophone, used in a jazz band.
+******
+word: horn
+part_of_speech: noun
+definition: A usually electrical signaling device that produces a loud resonant sound:  an automobile horn. 
+******
+word: horn
+part_of_speech: noun
+definition: Any of various noisemakers operated by blowing or by squeezing a hollow rubber ball.
+******
+word: horn
+part_of_speech: noun
+definition: Slang   A telephone.
+******
+word: hose
+part_of_speech: noun
+definition: Stockings; socks. Used only in the plural.
+******
+word: hose
+part_of_speech: noun
+definition: Close-fitting breeches or leggings reaching up to the hips and fastened to a doublet, formerly worn by men. Used only in the plural.
+******
+word: hose
+part_of_speech: noun
+definition: Breeches reaching down to the knees. Used only in the plural.
+******
+word: hose
+part_of_speech: noun
+definition: A flexible tube for conveying liquids or gases under pressure.
+******
+word: joke
+part_of_speech: noun
+definition: Something said or done to evoke laughter or amusement, especially an amusing story with a punch line.
+******
+word: joke
+part_of_speech: noun
+definition: A mischievous trick; a prank.
+******
+word: joke
+part_of_speech: noun
+definition: An amusing or ludicrous incident or situation.
+******
+word: joke
+part_of_speech: noun
+definition: Informal   Something not to be taken seriously; a triviality:  The accident was no joke. 
+******
+word: joke
+part_of_speech: noun
+definition: Informal   An object of amusement or laughter; a laughingstock:  His loud tie was the joke of the office. 
+******
+word: juice
+part_of_speech: noun
+definition: A fluid naturally contained in plant or animal tissue:  fruit juice; meat braised in its own juices. 
+******
+word: juice
+part_of_speech: noun
+definition: A bodily secretion:  digestive juices. 
+******
+word: juice
+part_of_speech: noun
+definition: The liquid contained in something that is chiefly solid.
+******
+word: juice
+part_of_speech: noun
+definition: A substance or quality that imparts identity and vitality; essence.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Vigorous life; vitality.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Political power or influence; clout.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Electric current.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Fuel for an engine.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Funds; money.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Alcoholic drink; liquor.
+******
+word: juice
+part_of_speech: noun
+definition: Slang   Racy or scandalous gossip.
+******
+word: lake
+part_of_speech: noun
+definition: A large inland body of fresh water or salt water.
+******
+word: lake
+part_of_speech: noun
+definition: A scenic pond, as in a park.
+******
+word: lake
+part_of_speech: noun
+definition: A large pool of liquid:  a lake of spilled coffee on my desk. 
+******
+word: lake
+part_of_speech: noun
+definition: A pigment consisting of organic coloring matter with an inorganic, usually metallic base or carrier, used in dyes, inks, and paints.
+******
+word: lake
+part_of_speech: noun
+definition: A deep red.
+******
+word: maid
+part_of_speech: noun
+definition: An unmarried girl or woman.
+******
+word: maid
+part_of_speech: noun
+definition: A virgin.
+******
+word: maid
+part_of_speech: noun
+definition: A woman servant.
+******
+word: maid
+part_of_speech: noun
+definition: A housemaid or chambermaid.
+******
+word: mask
+part_of_speech: noun
+definition: A covering worn on the face to conceal one's identity, as:
+******
+word: mask
+part_of_speech: noun
+definition: A covering, as of cloth, that has openings for the eyes, entirely or partly conceals the face, and is worn especially at a masquerade ball.
+******
+word: mask
+part_of_speech: noun
+definition: A grotesque or comical representation of a face, worn especially to frighten or amuse, as at Halloween.
+******
+word: mask
+part_of_speech: noun
+definition: A facial covering worn for ritual.
+******
+word: mask
+part_of_speech: noun
+definition: A figure of a head worn by actors in Greek and Roman drama to identify a character or trait and to amplify the voice.
+******
+word: mask
+part_of_speech: noun
+definition: A protective covering for the face or head.
+******
+word: mask
+part_of_speech: noun
+definition: A gas mask.
+******
+word: mask
+part_of_speech: noun
+definition: A usually rubber frame forming a watertight seal around the eyes and nose and containing a transparent covering for use in seeing underwater.
+******
+word: mask
+part_of_speech: noun
+definition: A covering for the nose and mouth that is used for inhaling oxygen or an anesthetic.
+******
+word: mask
+part_of_speech: noun
+definition: A covering worn over the nose and mouth, as by a surgeon or dentist, to prevent infection.
+******
+word: mask
+part_of_speech: noun
+definition: A mold of a person's face, often made after death.
+******
+word: mask
+part_of_speech: noun
+definition: An often grotesque representation of a head and face, used for ornamentation.
+******
+word: mask
+part_of_speech: noun
+definition: The face or facial markings of certain animals, such as foxes or dogs.
+******
+word: mask
+part_of_speech: noun
+definition: A face having a blank, fixed, or enigmatic expression.
+******
+word: mask
+part_of_speech: noun
+definition: Something, often a trait, that disguises or conceals: "If ever I saw misery under a mask, it was on her face”  ( Erskine Childers). 
+******
+word: mask
+part_of_speech: noun
+definition: A natural or artificial feature of terrain that conceals and protects military forces or installations.
+******
+word: mask
+part_of_speech: noun
+definition: An opaque border or pattern placed between a source of light and a photosensitive surface to prevent exposure of specified portions of the surface.
+******
+word: mask
+part_of_speech: noun
+definition: The translucent border framing a television picture tube and screen.
+******
+word: mask
+part_of_speech: noun
+definition: Computer Science   A pattern of characters, bits, or bytes used to control the elimination or retention of another pattern of characters, bits, or bytes.
+******
+word: mask
+part_of_speech: noun
+definition: A cosmetic preparation that is applied to the face and allowed to dry before being removed, used especially for cleansing and tightening the skin.
+******
+word: mask
+part_of_speech: noun
+definition: Variant of masque.
+******
+word: mask
+part_of_speech: noun
+definition: A person wearing a mask.
+******
+word: mice
+part_of_speech: noun
+definition: Plural of mouse.
+******
+word: milk
+part_of_speech: noun
+definition: A whitish liquid containing proteins, fats, lactose, and various vitamins and minerals that is produced by the mammary glands of all mature female mammals after they have given birth and serves as nourishment for their young.
+******
+word: milk
+part_of_speech: noun
+definition: The milk of cows, goats, or other animals, used as food by humans.
+******
+word: milk
+part_of_speech: noun
+definition: A liquid, such as coconut milk, milkweed sap, plant latex, or various medical emulsions, that is similar to milk in appearance.
+******
+word: mint
+part_of_speech: noun
+definition: A place where the coins of a country are manufactured by authority of the government.
+******
+word: mint
+part_of_speech: noun
+definition: A place or source of manufacture or invention.
+******
+word: mint
+part_of_speech: noun
+definition: An abundant amount, especially of money.
+******
+word: mint
+part_of_speech: noun
+definition: A member of the mint family.
+******
+word: mint
+part_of_speech: noun
+definition: Any of various plants of the genus Mentha, characteristically having aromatic foliage and nearly regular flowers. Some plants are cultivated for their aromatic oil and used for flavoring.
+******
+word: mint
+part_of_speech: noun
+definition: The foliage of some of these plants.
+******
+word: mint
+part_of_speech: noun
+definition: Any of various similar or related plants, such as the stone mint.
+******
+word: mint
+part_of_speech: noun
+definition: A candy flavored with mint.
+******
+word: meal
+part_of_speech: noun
+definition: The edible whole or coarsely ground grains of a cereal grass.
+******
+word: meal
+part_of_speech: noun
+definition: A granular substance produced by grinding.
+******
+word: meal
+part_of_speech: noun
+definition: The food served and eaten in one sitting.
+******
+word: meal
+part_of_speech: noun
+definition: A customary time or occasion of eating food.
+******
+word: meat
+part_of_speech: noun
+definition: The edible flesh of animals, especially that of mammals as opposed to that of fish or poultry.
+******
+word: meat
+part_of_speech: noun
+definition: The edible part, as of a piece of fruit or a nut.
+******
+word: meat
+part_of_speech: noun
+definition: The essence, substance, or gist:  the meat of the editorial. 
+******
+word: meat
+part_of_speech: noun
+definition: Slang   Something that one enjoys or excels in; a forte:  Tennis is his meat. 
+******
+word: meat
+part_of_speech: noun
+definition: Nourishment; food: "Love is not all: it is not meat nor drink”  ( Edna St. Vincent Millay). 
+******
+word: meat
+part_of_speech: noun
+definition: Vulgar Slang   The human body regarded as an object of sexual desire.
+******
+word: meat
+part_of_speech: noun
+definition: Vulgar Slang   The genitals.
+******
+word: moon
+part_of_speech: noun
+definition: The natural satellite of Earth, visible by reflection of sunlight and having a slightly elliptical orbit, approximately 356,000 kilometers (221,600 miles) distant at perigee and 406,997 kilometers (252,950 miles) at apogee. Its mean diameter is 3,475 kilometers (2,160 miles), its mass approximately one eightieth that of Earth, and its average period of revolution around Earth 29 days 12 hours 44 minutes calculated with respect to the sun.
+******
+word: moon
+part_of_speech: noun
+definition: A natural satellite revolving around a planet.
+******
+word: moon
+part_of_speech: noun
+definition: The moon as it appears at a particular time in its cycle of phases:  a gibbous moon. 
+******
+word: moon
+part_of_speech: noun
+definition: A month, especially a lunar month.
+******
+word: moon
+part_of_speech: noun
+definition: A disk, globe, or crescent resembling the natural satellite of Earth.
+******
+word: moon
+part_of_speech: noun
+definition: Moonlight.
+******
+word: moon
+part_of_speech: noun
+definition: Something unreasonable or unattainable:  They acted as if we were asking for the moon. 
+******
+word: moon
+part_of_speech: noun
+definition: Slang   The bared buttocks.
+******
+word: mother
+part_of_speech: noun
+definition: A female person who is pregnant with or gives birth to a child.
+******
+word: mother
+part_of_speech: noun
+definition: A female person whose egg unites with a sperm, resulting in the conception of a child.
+******
+word: mother
+part_of_speech: noun
+definition: A woman who adopts a child.
+******
+word: mother
+part_of_speech: noun
+definition: A woman who raises a child.
+******
+word: mother
+part_of_speech: noun
+definition: A female parent of an animal.
+******
+word: mother
+part_of_speech: noun
+definition: A female ancestor.
+******
+word: mother
+part_of_speech: noun
+definition: A woman who holds a position of authority or responsibility similar to that of a mother:  a den mother. 
+******
+word: mother
+part_of_speech: noun
+definition: Roman Catholic Church   A mother superior.
+******
+word: mother
+part_of_speech: noun
+definition: Roman Catholic Church   Used as a form of address for such a woman.
+******
+word: mother
+part_of_speech: noun
+definition: A woman who creates, originates, or founds something: "the discovery of radium, which made Marie Curie mother to the Atomic Age”  ( Alden Whitman). 
+******
+word: mother
+part_of_speech: noun
+definition: A creative source; an origin:  Philosophy is the mother of the sciences. 
+******
+word: mother
+part_of_speech: noun
+definition: Used as a title for a woman respected for her wisdom and age.
+******
+word: mother
+part_of_speech: noun
+definition: Maternal love and tenderness:  brought out the mother in her. 
+******
+word: mother
+part_of_speech: noun
+definition: The biggest or most significant example of its kind:  the mother of all battles. 
+******
+word: mother
+part_of_speech: noun
+definition: Vulgar Slang   Something considered extraordinary, as in disagreeableness, size, or intensity.
+******
+word: mother
+part_of_speech: noun
+definition: A stringy slime composed of yeast cells and bacteria that forms on the surface of fermenting liquids and is added to wine or cider to start the production of vinegar.
+******
+word: morning
+part_of_speech: noun
+definition: The first or early part of the day, lasting from midnight to noon or from sunrise to noon.
+******
+word: morning
+part_of_speech: noun
+definition: The dawn.
+******
+word: morning
+part_of_speech: noun
+definition: The first or early part; the beginning:  the morning of a new nation. 
+******
+word: name
+part_of_speech: noun
+definition: A word or words by which an entity is designated and distinguished from others.
+******
+word: name
+part_of_speech: noun
+definition: A word or group of words used to describe or evaluate, often disparagingly.
+******
+word: name
+part_of_speech: noun
+definition: Representation or repute, as opposed to reality:  a democracy in name, a police state in fact. 
+******
+word: name
+part_of_speech: noun
+definition: A reputation:  has a bad name. 
+******
+word: name
+part_of_speech: noun
+definition: A distinguished reputation:  made a name for himself as a drummer. 
+******
+word: name
+part_of_speech: noun
+definition: An illustrious or outstanding person:  joined several famous names for a photograph.  See Synonyms at celebrity.
+******
+word: nest
+part_of_speech: noun
+definition: A container or shelter made by a bird out of twigs, grass, or other material to hold its eggs and young.
+******
+word: nest
+part_of_speech: noun
+definition: A similar structure in which fish, insects, or other animals deposit eggs or keep their young.
+******
+word: nest
+part_of_speech: noun
+definition: A place in which young are reared; a lair.
+******
+word: nest
+part_of_speech: noun
+definition: A number of insects, birds, or other animals occupying such a place:  a nest of hornets. 
+******
+word: nest
+part_of_speech: noun
+definition: A place affording snug refuge or lodging; a home.
+******
+word: nest
+part_of_speech: noun
+definition: A place or environment that fosters rapid growth or development, especially of something undesirable; a hotbed:  a nest of criminal activity. 
+******
+word: nest
+part_of_speech: noun
+definition: Those who occupy or frequent such a place or environment.
+******
+word: nest
+part_of_speech: noun
+definition: A set of objects of graduated size that can be stacked together, each fitting within the one immediately larger:  a nest of tables. 
+******
+word: nest
+part_of_speech: noun
+definition: A cluster of similar things.
+******
+word: nest
+part_of_speech: noun
+definition: Computer Science   A set of data contained sequentially within another.
+******
+word: nest
+part_of_speech: noun
+definition: A group of weapons in a prepared position:  a machine-gun nest. 
+******
+word: nose
+part_of_speech: noun
+definition: The part of the human face or the forward part of the head of other vertebrates that contains the nostrils and organs of smell and forms the beginning of the respiratory tract.
+******
+word: nose
+part_of_speech: noun
+definition: The sense of smell:  a dog with a good nose. 
+******
+word: nose
+part_of_speech: noun
+definition: The ability to detect, sense, or discover as if by smell:  has a nose for gossip. 
+******
+word: nose
+part_of_speech: noun
+definition: The characteristic smell of a wine or liqueur; bouquet.
+******
+word: nose
+part_of_speech: noun
+definition: Informal   The nose considered as a symbol of prying:  Keep your nose out of my business. 
+******
+word: nose
+part_of_speech: noun
+definition: Something, such as the forward end of an aircraft, rocket, or submarine, that resembles a nose in shape or position.
+******
+word: nose
+part_of_speech: noun
+definition: A very short distance or narrow margin:  won the race by a nose. 
+******
+word: pear
+part_of_speech: noun
+definition: A widely cultivated tree (Pyrus communis) in the rose family, having glossy leaves, white flowers grouped in a corymb, and edible fruit.
+******
+word: pear
+part_of_speech: noun
+definition: The fruit of this tree, spherical at the base and tapering toward the stalk.
+******
+word: pen
+part_of_speech: noun
+definition: An instrument for writing or drawing with ink or similar fluid, especially:
+******
+word: pen
+part_of_speech: noun
+definition: A ballpoint pen.
+******
+word: pen
+part_of_speech: noun
+definition: A fountain pen.
+******
+word: pen
+part_of_speech: noun
+definition: A pen point.
+******
+word: pen
+part_of_speech: noun
+definition: A penholder and its pen point.
+******
+word: pen
+part_of_speech: noun
+definition: A quill.
+******
+word: pen
+part_of_speech: noun
+definition: An instrument for writing regarded as a means of expression: "Tyranny has no enemy so formidable as the pen”  ( William Cobbett). 
+******
+word: pen
+part_of_speech: noun
+definition: A writer or an author:  a hired pen. 
+******
+word: pen
+part_of_speech: noun
+definition: A style of writing:  wrote plays with a witty pen. 
+******
+word: pen
+part_of_speech: noun
+definition: Pinions.
+******
+word: pen
+part_of_speech: noun
+definition: The chitinous internal shell of a squid.
+******
+word: pen
+part_of_speech: noun
+definition: A fenced enclosure for animals.
+******
+word: pen
+part_of_speech: noun
+definition: The animals kept in such an enclosure.
+******
+word: pen
+part_of_speech: noun
+definition: Any of various enclosures, such as a bullpen or playpen, used for a variety of purposes.
+******
+word: pen
+part_of_speech: noun
+definition: A repair dock for submarines.
+******
+word: pen
+part_of_speech: noun
+definition: A female swan.
+******
+word: pen
+part_of_speech: noun
+definition: Informal   A penitentiary; a prison.
+******
+word: pencil
+part_of_speech: noun
+definition: A narrow, generally cylindrical implement for writing, drawing, or marking, consisting of a thin rod of graphite, colored wax, or similar substance encased in wood or held in a mechanical holder.
+******
+word: pencil
+part_of_speech: noun
+definition: Something shaped or used like a pencil, especially a narrow medicated or cosmetic stick:  an eyebrow pencil. 
+******
+word: pencil
+part_of_speech: noun
+definition: A style or technique in drawing or delineating.
+******
+word: pencil
+part_of_speech: noun
+definition: Descriptive skill: "His characters are drawn with a strong pencil”  ( Henry Hallam). 
+******
+word: pencil
+part_of_speech: noun
+definition: An artist's brush, especially a fine one.
+******
+word: pencil
+part_of_speech: noun
+definition: Physics   A beam of radiant energy in the form of a narrow cone or cylinder.
+******
+word: pencil
+part_of_speech: noun
+definition: Mathematics   A family of geometric objects, such as lines, that have a common property, such as passage through a given line in a given plane.
+******
+word: plant
+part_of_speech: noun
+definition: Botany   Any of various photosynthetic, eukaryotic, multicellular organisms of the kingdom Plantae characteristically producing embryos, containing chloroplasts, having cellulose cell walls, and lacking the power of locomotion.
+******
+word: plant
+part_of_speech: noun
+definition: Botany   A plant having no permanent woody stem; an herb.
+******
+word: plant
+part_of_speech: noun
+definition: A building or group of buildings for the manufacture of a product; a factory.
+******
+word: plant
+part_of_speech: noun
+definition: The equipment, including machinery, tools, instruments, and fixtures and the buildings containing them, necessary for an industrial or manufacturing operation.
+******
+word: plant
+part_of_speech: noun
+definition: The buildings, equipment, and fixtures of an institution:  the entire plant of a university. 
+******
+word: plant
+part_of_speech: noun
+definition: A person or thing put into place in order to mislead or function secretly, especially:
+******
+word: plant
+part_of_speech: noun
+definition: A person placed in a group of spectators to influence behavior.
+******
+word: plant
+part_of_speech: noun
+definition: A person stationed in a given location as a spy or observer.
+******
+word: plant
+part_of_speech: noun
+definition: A misleading piece of evidence placed so as to be discovered.
+******
+word: plant
+part_of_speech: noun
+definition: A remark or action in a play or narrative that becomes important later.
+******
+word: plant
+part_of_speech: noun
+definition: Slang   A scheming trick; a swindle.
+******
+word: rain
+part_of_speech: noun
+definition: Water condensed from atmospheric vapor and falling in drops.
+******
+word: rain
+part_of_speech: noun
+definition: A fall of such water; a rainstorm.
+******
+word: rain
+part_of_speech: noun
+definition: The descent of such water.
+******
+word: rain
+part_of_speech: noun
+definition: Rainy weather.
+******
+word: rain
+part_of_speech: noun
+definition: A rainy season.
+******
+word: rain
+part_of_speech: noun
+definition: A heavy or abundant fall:  a rain of fluffy cottonwood seeds; a rain of insults. 
+******
+word: river
+part_of_speech: noun
+definition: A large natural stream of water emptying into an ocean, lake, or other body of water and usually fed along its course by converging tributaries.
+******
+word: river
+part_of_speech: noun
+definition: A stream or abundant flow:  a river of tears. 
+******
+word: road
+part_of_speech: noun
+definition: An open, generally public way for the passage of vehicles, people, and animals.
+******
+word: road
+part_of_speech: noun
+definition: The surface of a road; a roadbed.
+******
+word: road
+part_of_speech: noun
+definition: A course or path:  the road to riches. 
+******
+word: road
+part_of_speech: noun
+definition: A railroad.
+******
+word: road
+part_of_speech: noun
+definition: Nautical   A roadstead. Often used in the plural.
+******
+word: rock
+part_of_speech: noun
+definition: Relatively hard, naturally formed mineral or petrified matter; stone.
+******
+word: rock
+part_of_speech: noun
+definition: A relatively small piece or fragment of such material.
+******
+word: rock
+part_of_speech: noun
+definition: A relatively large body of such material, as a cliff or peak.
+******
+word: rock
+part_of_speech: noun
+definition: A naturally formed aggregate of mineral matter constituting a significant part of the earth's crust.
+******
+word: rock
+part_of_speech: noun
+definition: One that is similar to or suggestive of a mass of stone in stability, firmness, or dependability:  The family has been his rock during this difficult time. 
+******
+word: rock
+part_of_speech: noun
+definition: Slang   Money.
+******
+word: rock
+part_of_speech: noun
+definition: Slang   A large gem, especially a diamond.
+******
+word: rock
+part_of_speech: noun
+definition: Slang   Crack cocaine.
+******
+word: rock
+part_of_speech: noun
+definition: A varicolored stick candy.
+******
+word: rock
+part_of_speech: noun
+definition: Rock candy.
+******
+word: rock
+part_of_speech: noun
+definition: A rocking motion.
+******
+word: rock
+part_of_speech: noun
+definition: The act of rocking.
+******
+word: rock
+part_of_speech: noun
+definition: Music   Rock 'n' roll.
+******
+word: room
+part_of_speech: noun
+definition: A space that is or may be occupied:  That easy chair takes up too much room. 
+******
+word: room
+part_of_speech: noun
+definition: An area separated by walls or partitions from other similar parts of the structure or building in which it is located:  the first room on the left; an unpainted room. 
+******
+word: room
+part_of_speech: noun
+definition: The people present in such an area:  The whole room laughed. 
+******
+word: room
+part_of_speech: noun
+definition: Living quarters; lodgings.
+******
+word: room
+part_of_speech: noun
+definition: Suitable opportunity; occasion.
+******
+word: rose
+part_of_speech: noun
+definition: A member of the rose family.
+******
+word: rose
+part_of_speech: noun
+definition: Any of numerous shrubs or vines of the genus Rosa, having prickly stems, pinnately compound leaves, and variously colored, often fragrant flowers.
+******
+word: rose
+part_of_speech: noun
+definition: The flower of any of these plants.
+******
+word: rose
+part_of_speech: noun
+definition: Any of various similar or related plants.
+******
+word: rose
+part_of_speech: noun
+definition: A dark pink to moderate red.
+******
+word: rose
+part_of_speech: noun
+definition: An ornament, such as a decorative knot, resembling a rose in form; a rosette.
+******
+word: rose
+part_of_speech: noun
+definition: A perforated nozzle for spraying water from a hose or sprinkling can.
+******
+word: rose
+part_of_speech: noun
+definition: A form of gem cut marked by a flat base and a faceted, hemispheric upper surface.
+******
+word: rose
+part_of_speech: noun
+definition: A gem, especially a diamond, cut in this manner.
+******
+word: rose
+part_of_speech: noun
+definition: A rose window.
+******
+word: rose
+part_of_speech: noun
+definition: A compass card or its representation, as on a map.
+******
+word: rose
+part_of_speech: noun
+definition: That which is marked by favor, success, or ease of execution:  Directing this play has been all roses since the new producer took over. 
+******
+word: seed
+part_of_speech: noun
+definition: A ripened plant ovule containing an embryo.
+******
+word: seed
+part_of_speech: noun
+definition: A propagative part of a plant, as a tuber or spore.
+******
+word: seed
+part_of_speech: noun
+definition: Seeds considered as a group.
+******
+word: seed
+part_of_speech: noun
+definition: The seed-bearing stage of a plant.
+******
+word: seed
+part_of_speech: noun
+definition: Something that resembles a seed, as a tiny bubble in a piece of glass.
+******
+word: seed
+part_of_speech: noun
+definition: A small amount of material used to start a chemical reaction.
+******
+word: seed
+part_of_speech: noun
+definition: A small crystal used to start a crystallization process.
+******
+word: seed
+part_of_speech: noun
+definition: Medicine   A form of a radioactive isotope that is used to localize and concentrate the amount of radiation administered to a body site, such as a tumor.
+******
+word: seed
+part_of_speech: noun
+definition: A source or beginning; a germ.
+******
+word: seed
+part_of_speech: noun
+definition: Offspring; progeny.
+******
+word: seed
+part_of_speech: noun
+definition: Family stock; ancestry.
+******
+word: seed
+part_of_speech: noun
+definition: Sperm; semen.
+******
+word: seed
+part_of_speech: noun
+definition: A seed oyster or oysters; spat.
+******
+word: seed
+part_of_speech: noun
+definition: Sports   A player who has been seeded for a tournament, often at a given rank:  a top seed. 
+******
+word: shape
+part_of_speech: noun
+definition: The characteristic surface configuration of a thing; an outline or contour. See Synonyms at form.
+******
+word: shape
+part_of_speech: noun
+definition: Something distinguished from its surroundings by its outline.
+******
+word: shape
+part_of_speech: noun
+definition: The contour of a person's body; the figure.
+******
+word: shape
+part_of_speech: noun
+definition: A definite distinctive form: "The bomb gave the shape of life, outer and inner, an irreversible charge; a sense of fatefulness would now lie on all things”  ( Alfred Kazin). 
+******
+word: shape
+part_of_speech: noun
+definition: A desirable form:  a fabric that holds its shape. 
+******
+word: shape
+part_of_speech: noun
+definition: A form or condition in which something may exist or appear; embodiment:  a god in the shape of a swan. 
+******
+word: shape
+part_of_speech: noun
+definition: Assumed or false appearance; guise.
+******
+word: shape
+part_of_speech: noun
+definition: A ghostly form; a phantom.
+******
+word: shape
+part_of_speech: noun
+definition: Something, such as a mold or pattern, used to give or determine form.
+******
+word: shape
+part_of_speech: noun
+definition: The proper condition of something necessary for action, effectiveness, or use:  an athlete in excellent shape. 
+******
+word: shoe
+part_of_speech: noun
+definition: A durable covering for the human foot, made of leather or similar material with a rigid sole and heel, usually extending no higher than the ankle.
+******
+word: shoe
+part_of_speech: noun
+definition: A horseshoe.
+******
+word: shoe
+part_of_speech: noun
+definition: A part or device that is located at the base of something or that functions as a protective covering, as:
+******
+word: shoe
+part_of_speech: noun
+definition: A strip of metal fitted onto the bottom of a sled runner.
+******
+word: shoe
+part_of_speech: noun
+definition: The base for the supports of the superstructure of a bridge.
+******
+word: shoe
+part_of_speech: noun
+definition: The ferrule on the end of a cane.
+******
+word: shoe
+part_of_speech: noun
+definition: The casing of a pneumatic tire.
+******
+word: shoe
+part_of_speech: noun
+definition: A device that retards or stops the motion of an object, as the part of a brake that presses against the wheel or drum.
+******
+word: shoe
+part_of_speech: noun
+definition: The sliding contact plate on an electric train or streetcar that conducts electricity from the third rail.
+******
+word: shoe
+part_of_speech: noun
+definition: A chute, as for conveying grain from a hopper.
+******
+word: shoe
+part_of_speech: noun
+definition: Games   A case from which playing cards are dealt one at a time.
+******
+word: shoe
+part_of_speech: noun
+definition: Informal   Position; status:  You would understand my decision if you put yourself in my shoes. 
+******
+word: shoe
+part_of_speech: noun
+definition: Informal   Plight:  I wouldn't want to be in her shoes. 
+******
+word: shop
+part_of_speech: noun
+definition: A small retail store or a specialty department in a large store.
+******
+word: shop
+part_of_speech: noun
+definition: An atelier; a studio.
+******
+word: shop
+part_of_speech: noun
+definition: A place for manufacturing or repairing goods or machinery.
+******
+word: shop
+part_of_speech: noun
+definition: A commercial or industrial establishment:  a printing shop. 
+******
+word: shop
+part_of_speech: noun
+definition: A business establishment; an office or a center of activity.
+******
+word: shop
+part_of_speech: noun
+definition: A home workshop.
+******
+word: shop
+part_of_speech: noun
+definition: A schoolroom fitted with machinery and tools for instruction in industrial arts.
+******
+word: shop
+part_of_speech: noun
+definition: The industrial arts as a technical science or course of study.
+******
+word: show
+part_of_speech: noun
+definition: A display; a manifestation:  made a show of strength. 
+******
+word: show
+part_of_speech: noun
+definition: A trace or indication, as of oil in a well.
+******
+word: show
+part_of_speech: noun
+definition: The discharge of bloody mucus from the vagina indicating the start of labor.
+******
+word: show
+part_of_speech: noun
+definition: The first discharge of blood in menstruation.
+******
+word: show
+part_of_speech: noun
+definition: A false appearance; a pretense:  only a show of kindness. 
+******
+word: show
+part_of_speech: noun
+definition: A striking appearance or display; a spectacle.
+******
+word: show
+part_of_speech: noun
+definition: A pompous or ostentatious display.
+******
+word: show
+part_of_speech: noun
+definition: Display or outward appearance:  This antique tea service is just for show. His smile was for show. 
+******
+word: show
+part_of_speech: noun
+definition: A public exhibition or entertainment.
+******
+word: show
+part_of_speech: noun
+definition: An exposition for the display or demonstration of commercial products:  an auto show. 
+******
+word: show
+part_of_speech: noun
+definition: A usually competitive exhibition of domestic animals:  won first place at the cat show. 
+******
+word: show
+part_of_speech: noun
+definition: A radio or television program.
+******
+word: show
+part_of_speech: noun
+definition: A movie.
+******
+word: show
+part_of_speech: noun
+definition: A theatrical troupe or company.
+******
+word: show
+part_of_speech: noun
+definition: Informal   An affair or undertaking:  ran the whole show. 
+******
+word: show
+part_of_speech: noun
+definition: Sports   Third place at the finish, as in a horserace.
+******
+word: sink
+part_of_speech: noun
+definition: A water basin fixed to a wall or floor and having a drainpipe and generally a piped supply of water.
+******
+word: sink
+part_of_speech: noun
+definition: A cesspool.
+******
+word: sink
+part_of_speech: noun
+definition: A sinkhole.
+******
+word: sink
+part_of_speech: noun
+definition: A natural or artificial means of absorbing or removing a substance or a form of energy from a system.
+******
+word: sink
+part_of_speech: noun
+definition: A place regarded as wicked and corrupt.
+******
+word: snail
+part_of_speech: noun
+definition: Any of numerous aquatic or terrestrial mollusks of the class Gastropoda, typically having a spirally coiled shell, broad retractile foot, and distinct head.
+******
+word: snail
+part_of_speech: noun
+definition: A slow-moving, lazy, or sluggish person.
+******
+word: snake
+part_of_speech: noun
+definition: Any of numerous scaly, legless, sometimes venomous reptiles of the suborder Serpentes or Ophidia (order Squamata), having a long, tapering, cylindrical body and found in most tropical and temperate regions.
+******
+word: snake
+part_of_speech: noun
+definition: A treacherous person. Also called snake in the grass.
+******
+word: snake
+part_of_speech: noun
+definition: A long, highly flexible metal wire or coil used for cleaning drains. Also called plumber's snake.
+******
+word: snake
+part_of_speech: noun
+definition: Economics   A fixing of the value of currencies to each other within defined parameters, which when graphed visually shows these currencies remaining parallel in value to each other as a unit despite fluctuations with other currencies.
+******
+word: snow
+part_of_speech: noun
+definition: Frozen precipitation in the form of white or translucent hexagonal ice crystals that fall in soft, white flakes.
+******
+word: snow
+part_of_speech: noun
+definition: A falling of snow; a snowstorm.
+******
+word: snow
+part_of_speech: noun
+definition: Something resembling snow, as:
+******
+word: snow
+part_of_speech: noun
+definition: The white specks on a television screen resulting from weak reception.
+******
+word: snow
+part_of_speech: noun
+definition: Slang   Cocaine.
+******
+word: snow
+part_of_speech: noun
+definition: Slang   Heroin.
+******
+word: soda
+part_of_speech: noun
+definition: Any of various forms of sodium carbonate.
+******
+word: soda
+part_of_speech: noun
+definition: Chemically combined sodium.
+******
+word: soda
+part_of_speech: noun
+definition: See carbonated water.
+******
+word: soda
+part_of_speech: noun
+definition: Chiefly Northeastern U.S., Eastern Missouri, &amp; Southwestern Illinois   See soft drink. See Regional Note at tonic.
+******
+word: soda
+part_of_speech: noun
+definition: A refreshment made from carbonated water, ice cream, and usually a flavoring.
+******
+word: soda
+part_of_speech: noun
+definition: Games   The card turned face up at the beginning of faro.
+******
+word: sofa
+part_of_speech: noun
+definition: A long upholstered seat typically with a back and arms.
+******
+word: star
+part_of_speech: noun
+definition: A self-luminous celestial body consisting of a mass of gas held together by its own gravity in which the energy generated by nuclear reactions in the interior is balanced by the outflow of energy to the surface, and the inward-directed gravitational forces are balanced by the outward-directed gas and radiation pressures.
+******
+word: star
+part_of_speech: noun
+definition: Any of the celestial bodies visible at night from Earth as relatively stationary, usually twinkling points of light.
+******
+word: star
+part_of_speech: noun
+definition: Something regarded as resembling such a celestial body.
+******
+word: star
+part_of_speech: noun
+definition: A graphic design having five or more radiating points, often used as a symbol of rank or merit.
+******
+word: star
+part_of_speech: noun
+definition: An artistic performer or athlete whose leading role or superior performance is acknowledged.
+******
+word: star
+part_of_speech: noun
+definition: One who is highly celebrated in a field or profession.
+******
+word: star
+part_of_speech: noun
+definition: An asterisk (*).
+******
+word: star
+part_of_speech: noun
+definition: The star key on a telephone:  For customer service, press star. 
+******
+word: star
+part_of_speech: noun
+definition: A white spot on the forehead of a horse.
+******
+word: star
+part_of_speech: noun
+definition: A planet or constellation of the zodiac believed in astrology to influence personal destiny.
+******
+word: star
+part_of_speech: noun
+definition: The future; destiny. Often used with the.
+******
+word: step
+part_of_speech: noun
+definition: The single complete movement of raising one foot and putting it down in another spot, as in walking.
+******
+word: step
+part_of_speech: noun
+definition: A manner of walking; a particular gait.
+******
+word: step
+part_of_speech: noun
+definition: A fixed rhythm or pace, as in marching:  keep step. 
+******
+word: step
+part_of_speech: noun
+definition: The sound of a footstep.
+******
+word: step
+part_of_speech: noun
+definition: A footprint:  steps in the mud. 
+******
+word: step
+part_of_speech: noun
+definition: The distance traversed by moving one foot ahead of the other.
+******
+word: step
+part_of_speech: noun
+definition: A very short distance:  just a step away. 
+******
+word: step
+part_of_speech: noun
+definition: Course; path:  turned her steps toward home. 
+******
+word: step
+part_of_speech: noun
+definition: One of a series of rhythmical, patterned movements of the feet used in a dance:  diagrammed the basic steps to the mambo. 
+******
+word: step
+part_of_speech: noun
+definition: A rest for the foot in ascending or descending.
+******
+word: step
+part_of_speech: noun
+definition: Stairs.
+******
+word: step
+part_of_speech: noun
+definition: Something, such as a ledge or an offset, that resembles a step of a stairway.
+******
+word: step
+part_of_speech: noun
+definition: One of a series of actions, processes, or measures taken to achieve a goal.
+******
+word: step
+part_of_speech: noun
+definition: A stage in a process:  followed every step in the instructions. 
+******
+word: step
+part_of_speech: noun
+definition: A degree in progress or a grade or rank in a scale:  a step up in the corporate hierarchy. 
+******
+word: step
+part_of_speech: noun
+definition: Music   The interval that separates two successive tones of a scale.
+******
+word: step
+part_of_speech: noun
+definition: Music   A degree of a scale.
+******
+word: step
+part_of_speech: noun
+definition: Nautical   The block in which the heel of a mast is fixed.
+******
+word: stew
+part_of_speech: noun
+definition: A dish cooked by stewing, especially a mixture of meat or fish and vegetables with stock.
+******
+word: stew
+part_of_speech: noun
+definition: A mixture likened to this dish.
+******
+word: stew
+part_of_speech: noun
+definition: Informal   Mental agitation:  in a stew over the lost keys. 
+******
+word: stew
+part_of_speech: noun
+definition: Archaic   A brothel. Often used in the plural.
+******
+word: stove
+part_of_speech: noun
+definition: An apparatus in which electricity or a fuel is used to furnish heat, as for cooking or warmth.
+******
+word: stove
+part_of_speech: noun
+definition: A device that produces heat for specialized, especially industrial, purposes.
+******
+word: stove
+part_of_speech: noun
+definition: A kiln.
+******
+word: stove
+part_of_speech: noun
+definition: Chiefly British   A hothouse.
+******
+word: straw
+part_of_speech: noun
+definition: Stalks of threshed grain, used as bedding and food for animals, for thatching, and for weaving or braiding, as into baskets.
+******
+word: straw
+part_of_speech: noun
+definition: A single stalk of threshed grain.
+******
+word: straw
+part_of_speech: noun
+definition: Something, such as a hat or basket, made of straw.
+******
+word: straw
+part_of_speech: noun
+definition: A slender tube used for sucking up a liquid.
+******
+word: straw
+part_of_speech: noun
+definition: Something of minimal value or importance.
+******
+word: straw
+part_of_speech: noun
+definition: Something with too little substance to provide support in a crisis:  Near the end we were grasping at straws. 
+******
+word: string
+part_of_speech: noun
+definition: A cord usually made of fiber, used for fastening, tying, or lacing.
+******
+word: string
+part_of_speech: noun
+definition: Something configured as a long, thin line:  limp strings of hair. 
+******
+word: string
+part_of_speech: noun
+definition: A plant fiber.
+******
+word: string
+part_of_speech: noun
+definition: A set of objects threaded together:  a string of beads. 
+******
+word: string
+part_of_speech: noun
+definition: A series of similar or related acts, events, or items arranged or falling in or as if in a line. See Synonyms at series.
+******
+word: string
+part_of_speech: noun
+definition: Computer Science   A set of consecutive characters.
+******
+word: string
+part_of_speech: noun
+definition: Informal   A set of animals, especially racehorses, belonging to a single owner; a stable.
+******
+word: string
+part_of_speech: noun
+definition: Informal   A scattered group of businesses under a single ownership or management:  a string of boutiques. 
+******
+word: string
+part_of_speech: noun
+definition: Sports   A group of players ranked according to ability within a team:  He made the second string. 
+******
+word: string
+part_of_speech: noun
+definition: Music   A cord stretched on an instrument and struck, plucked, or bowed to produce tones.
+******
+word: string
+part_of_speech: noun
+definition: Music   The section of a band or orchestra composed of stringed instruments.
+******
+word: string
+part_of_speech: noun
+definition: Music   Stringed instruments or their players considered as a group.
+******
+word: string
+part_of_speech: noun
+definition: Architecture   A stringboard.
+******
+word: string
+part_of_speech: noun
+definition: Architecture   A stringcourse.
+******
+word: string
+part_of_speech: noun
+definition: Games   The balk line in billiards.
+******
+word: string
+part_of_speech: noun
+definition: Sports   A complete game consisting of ten frames in bowling.
+******
+word: string
+part_of_speech: noun
+definition: Informal   A limiting or hidden condition. Often used in the plural:  a gift with no strings attached. 
+******
+word: summer
+part_of_speech: noun
+definition: The usually warmest season of the year, occurring between spring and autumn and constituting June, July, and August in the Northern Hemisphere, or, as calculated astronomically, extending from the summer solstice to the autumnal equinox.
+******
+word: summer
+part_of_speech: noun
+definition: A period of fruition, fulfillment, happiness, or beauty.
+******
+word: summer
+part_of_speech: noun
+definition: A year:  a girl of 13 summers. 
+******
+word: summer
+part_of_speech: noun
+definition: A heavy horizontal timber that serves as a supporting beam, especially for the floor above.
+******
+word: summer
+part_of_speech: noun
+definition: A lintel.
+******
+word: summer
+part_of_speech: noun
+definition: A large, heavy stone usually set on the top of a column or pilaster to support an arch or lintel.
+******
+word: swing
+part_of_speech: noun
+definition: The act or an instance of swinging; movement back and forth or in one particular direction.
+******
+word: swing
+part_of_speech: noun
+definition: The sweep or scope of something that swings:  The pendulum's swing is 12 inches. 
+******
+word: swing
+part_of_speech: noun
+definition: A blow or stroke executed with a sweeping motion of the arm.
+******
+word: swing
+part_of_speech: noun
+definition: The manner in which one swings something, such as a bat or golf club.
+******
+word: swing
+part_of_speech: noun
+definition: A shift from one attitude, position, or condition to another:  a swing to conservatism. 
+******
+word: swing
+part_of_speech: noun
+definition: Freedom of action:  The children have free swing in deciding what color to paint their room. 
+******
+word: swing
+part_of_speech: noun
+definition: A swaying, graceful motion:  has a swing to her walk. 
+******
+word: swing
+part_of_speech: noun
+definition: A sweep back and forth:  the swing of a bird across the sky. 
+******
+word: swing
+part_of_speech: noun
+definition: A course or tour that returns to the starting point:  a swing across the state while campaigning. 
+******
+word: swing
+part_of_speech: noun
+definition: A seat suspended from above, as by ropes, on which one can ride back and forth for recreation.
+******
+word: swing
+part_of_speech: noun
+definition: The normal rhythm of life or pace of activities:  back in the swing. 
+******
+word: swing
+part_of_speech: noun
+definition: A steady, vigorous rhythm or movement, as in verse.
+******
+word: swing
+part_of_speech: noun
+definition: A regular movement up or down, as in stock prices.
+******
+word: swing
+part_of_speech: noun
+definition: Music   A type of popular dance music developed about 1935 and based on jazz but employing a larger band, less improvisation, and simpler harmonic and rhythmic patterns.
+******
+word: swing
+part_of_speech: noun
+definition: Music   A ballroom dance performed to this music.
+******
+word: swing
+part_of_speech: noun
+definition: Music   A subtle, intuitively felt rhythmic quality or sense of rhythm.
+******
+word: table
+part_of_speech: noun
+definition: An article of furniture supported by one or more vertical legs and having a flat horizontal surface.
+******
+word: table
+part_of_speech: noun
+definition: The objects laid out for a meal on this article of furniture.
+******
+word: table
+part_of_speech: noun
+definition: The food and drink served at meals; fare:  kept an excellent table. 
+******
+word: table
+part_of_speech: noun
+definition: The company of people assembled around a table, as for a meal.
+******
+word: table
+part_of_speech: noun
+definition: Games   A piece of furniture serving as a playing surface, as for faro, roulette, or dice. Often used in the plural.
+******
+word: table
+part_of_speech: noun
+definition: Games   Either of the leaves of a backgammon board.
+******
+word: table
+part_of_speech: noun
+definition: Obsolete   Games   The game of backgammon.
+******
+word: table
+part_of_speech: noun
+definition: A plateau or tableland.
+******
+word: table
+part_of_speech: noun
+definition: A flat facet cut across the top of a precious stone.
+******
+word: table
+part_of_speech: noun
+definition: A stone or gem cut in this fashion.
+******
+word: table
+part_of_speech: noun
+definition: Music   The front part of the body of a stringed instrument.
+******
+word: table
+part_of_speech: noun
+definition: Music   The sounding board of a harp.
+******
+word: table
+part_of_speech: noun
+definition: Architecture   A raised or sunken rectangular panel on a wall.
+******
+word: table
+part_of_speech: noun
+definition: Architecture   A raised horizontal surface or continuous band on an exterior wall; a stringcourse.
+******
+word: table
+part_of_speech: noun
+definition: A part of the human palm framed by four lines, analyzed in palmistry.
+******
+word: table
+part_of_speech: noun
+definition: An orderly arrangement of data, especially one in which the data are arranged in columns and rows in an essentially rectangular form.
+******
+word: table
+part_of_speech: noun
+definition: An abbreviated list, as of contents; a synopsis.
+******
+word: table
+part_of_speech: noun
+definition: An engraved slab or tablet bearing an inscription or a device.
+******
+word: table
+part_of_speech: noun
+definition: Anatomy   The inner or outer flat layer of bones of the skull separated by the diploe.
+******
+word: table
+part_of_speech: noun
+definition: A system of laws or decrees; a code:  the tables of Moses. 
+******
+word: tank
+part_of_speech: noun
+definition: A large, often metallic container for holding or storing liquids or gases.
+******
+word: tank
+part_of_speech: noun
+definition: The amount that this container can hold:  buy a tank of gas. 
+******
+word: tank
+part_of_speech: noun
+definition: A usually artificial pool, pond, reservoir, or cistern, especially one used to hold water for drinking or for irrigation.
+******
+word: tank
+part_of_speech: noun
+definition: An enclosed, heavily armored combat vehicle that is armed with cannon and machine guns and moves on continuous tracks.
+******
+word: tank
+part_of_speech: noun
+definition: A tank top.
+******
+word: tank
+part_of_speech: noun
+definition: Slang   A jail or jail cell.
+******
+word: team
+part_of_speech: noun
+definition: Sports &amp; Games   A group on the same side, as in a game.
+******
+word: team
+part_of_speech: noun
+definition: A group organized to work together:  a team of engineers. 
+******
+word: team
+part_of_speech: noun
+definition: Two or more draft animals used to pull a vehicle or farm implement.
+******
+word: team
+part_of_speech: noun
+definition: A vehicle along with the animal or animals harnessed to it.
+******
+word: team
+part_of_speech: noun
+definition: A group of animals exhibited or performing together, as horses at an equestrian show.
+******
+word: team
+part_of_speech: noun
+definition: A brood or flock.
+******
+word: team
+part_of_speech: noun
+definition: Obsolete   Offspring; lineage.
+******
+word: tent
+part_of_speech: noun
+definition: A portable shelter, as of canvas, stretched over a supporting framework of poles with ropes and pegs.
+******
+word: tent
+part_of_speech: noun
+definition: Something resembling such a portable shelter in construction or outline: "her hair a dark tent, her face a thin triangle”  ( Anne Tyler). 
+******
+word: tent
+part_of_speech: noun
+definition: A small cylindrical plug of lint or gauze used to keep open or probe a wound or an orifice.
+******
+word: test
+part_of_speech: noun
+definition: A procedure for critical evaluation; a means of determining the presence, quality, or truth of something; a trial:  a test of one's eyesight; subjecting a hypothesis to a test; a test of an athlete's endurance. 
+******
+word: test
+part_of_speech: noun
+definition: A series of questions, problems, or physical responses designed to determine knowledge, intelligence, or ability.
+******
+word: test
+part_of_speech: noun
+definition: A basis for evaluation or judgment: "A test of democratic government is how Congress and the president work together”  ( Haynes Johnson). 
+******
+word: test
+part_of_speech: noun
+definition: Chemistry   A physical or chemical change by which a substance may be detected or its properties ascertained.
+******
+word: test
+part_of_speech: noun
+definition: Chemistry   A reagent used to cause or promote such a change.
+******
+word: test
+part_of_speech: noun
+definition: Chemistry   A positive result obtained.
+******
+word: test
+part_of_speech: noun
+definition: A cupel.
+******
+word: test
+part_of_speech: noun
+definition: A hard external covering, as that of certain amoebas, dinoflagellates, and sea urchins.
+******
+word: toes
+part_of_speech: noun
+definition: Plural form of toe
+******
+word: tree
+part_of_speech: noun
+definition: A perennial woody plant having a main trunk and usually a distinct crown.
+******
+word: tree
+part_of_speech: noun
+definition: A plant or shrub resembling a tree in form or size.
+******
+word: tree
+part_of_speech: noun
+definition: Something, such as a clothes tree, that resembles a tree in form.
+******
+word: tree
+part_of_speech: noun
+definition: A wooden beam, post, stake, or bar used as part of a framework or structure.
+******
+word: tree
+part_of_speech: noun
+definition: A saddletree.
+******
+word: tree
+part_of_speech: noun
+definition: A diagram that has branches in descending lines showing relationships as of hierarchy or lineage:  a family tree; a telephone tree. 
+******
+word: tree
+part_of_speech: noun
+definition: Computer Science   A structure for organizing or classifying data in which every item can be traced to a single origin through a unique path.
+******
+word: tree
+part_of_speech: noun
+definition: Archaic   A gallows.
+******
+word: tree
+part_of_speech: noun
+definition: Archaic   The cross on which Jesus was crucified.
+******
+word: vest
+part_of_speech: noun
+definition: A sleeveless garment, often having buttons down the front, worn usually over a shirt or blouse and sometimes as part of a three-piece suit.
+******
+word: vest
+part_of_speech: noun
+definition: A waist-length, sleeveless garment worn for protection:  a warm down vest; a bulletproof vest. 
+******
+word: vest
+part_of_speech: noun
+definition: A fabric trim worn to fill in the neckline of a woman's garment; a vestee.
+******
+word: vest
+part_of_speech: noun
+definition: Chiefly British   An undershirt.
+******
+word: vest
+part_of_speech: noun
+definition: Archaic   Clothing; raiment.
+******
+word: vest
+part_of_speech: noun
+definition: Obsolete   An ecclesiastical vestment.
+******
+word: water
+part_of_speech: noun
+definition: A clear, colorless, odorless, and tasteless liquid, H2O, essential for most plant and animal life and the most widely used of all solvents. Freezing point 0°C (32°F); boiling point 100°C (212°F); specific gravity (4°C) 1.0000; weight per gallon (15°C) 8.338 pounds (3.782 kilograms).
+******
+word: water
+part_of_speech: noun
+definition: Any of various forms of water:  waste water. 
+******
+word: water
+part_of_speech: noun
+definition: Naturally occurring mineral water, as at a spa. Often used in the plural.
+******
+word: water
+part_of_speech: noun
+definition: A body of water such as a sea, lake, river, or stream.
+******
+word: water
+part_of_speech: noun
+definition: A particular stretch of sea or ocean, especially that of a state or country:  escorted out of British waters. 
+******
+word: water
+part_of_speech: noun
+definition: A supply of water:  had to turn off the water while repairing the broken drain. 
+******
+word: water
+part_of_speech: noun
+definition: A water supply system.
+******
+word: water
+part_of_speech: noun
+definition: Any of the fluids normally secreted from the body, such as urine, perspiration, tears, or saliva.
+******
+word: water
+part_of_speech: noun
+definition: A fluid present in a body part in abnormal quantities as a result of injury or disease:  water on the knee. 
+******
+word: water
+part_of_speech: noun
+definition: The fluid surrounding a fetus in the uterus; amniotic fluid.
+******
+word: water
+part_of_speech: noun
+definition: An aqueous solution of a substance, especially a gas:  ammonia water. 
+******
+word: water
+part_of_speech: noun
+definition: A wavy finish or sheen, as of a fabric or metal.
+******
+word: water
+part_of_speech: noun
+definition: The valuation of the assets of a business firm beyond their real value.
+******
+word: water
+part_of_speech: noun
+definition: Stock issued in excess of paid-in capital.
+******
+word: water
+part_of_speech: noun
+definition: The transparency and luster of a gem.
+******
+word: water
+part_of_speech: noun
+definition: A level of excellence.
+******
+word: wing
+part_of_speech: noun
+definition: One of a pair of movable organs for flying, as the feather-covered modified forelimb of a bird or the skin-covered modified digits of the forelimb of a bat.
+******
+word: wing
+part_of_speech: noun
+definition: Any of usually four membranous organs for flying that extend from the thorax of an insect.
+******
+word: wing
+part_of_speech: noun
+definition: A winglike organ or structure used for flying, as the folds of skin of a flying squirrel or the enlarged pectoral fin of a flying fish.
+******
+word: wing
+part_of_speech: noun
+definition: Botany   A thin or membranous extension, such as of the fruit of the elm, maple, or ash or of the seed of the pine.
+******
+word: wing
+part_of_speech: noun
+definition: Botany   One of the lateral petals of the flower of a pea or of most plants in the pea family.
+******
+word: wing
+part_of_speech: noun
+definition: Informal   An arm of a human.
+******
+word: wing
+part_of_speech: noun
+definition: An airfoil whose principal function is providing lift, especially either of two such airfoils symmetrically positioned on each side of the fuselage of an aircraft.
+******
+word: wing
+part_of_speech: noun
+definition: Something that resembles a wing in appearance, function, or position relative to a main body.
+******
+word: wing
+part_of_speech: noun
+definition: The act or manner of flying.
+******
+word: wing
+part_of_speech: noun
+definition: A means of flight or rapid movement:  Fear lent wings to his feet. 
+******
+word: wing
+part_of_speech: noun
+definition: Something, such as a weathervane, that is moved by or moves against the air.
+******
+word: wing
+part_of_speech: noun
+definition: The sail of a ship.
+******
+word: wing
+part_of_speech: noun
+definition: Chiefly British   The fender of a motor vehicle.
+******
+word: wing
+part_of_speech: noun
+definition: A folding section, as of a double door or of a movable partition.
+******
+word: wing
+part_of_speech: noun
+definition: Either of the two side projections on the back of a wing chair.
+******
+word: wing
+part_of_speech: noun
+definition: A flat of theatrical scenery projecting onto the stage from the side.
+******
+word: wing
+part_of_speech: noun
+definition: The unseen backstage area on either side of the stage of a proscenium theater.
+******
+word: wing
+part_of_speech: noun
+definition: A structure attached to and connected internally with the side of a main building.
+******
+word: wing
+part_of_speech: noun
+definition: A section of a large building devoted to a specific purpose:  the children's wing of the hospital. 
+******
+word: wing
+part_of_speech: noun
+definition: A group affiliated with or subordinate to an older or larger organization.
+******
+word: wing
+part_of_speech: noun
+definition: Either of two groups with opposing views within a larger group; a faction.
+******
+word: wing
+part_of_speech: noun
+definition: A section of a party, legislature, or community holding distinct, especially dissenting, political views:  the conservative wing. 
+******
+word: wing
+part_of_speech: noun
+definition: Either the left or right flank of an army or a naval fleet.
+******
+word: wing
+part_of_speech: noun
+definition: An air force unit larger than a group but smaller than a division.
+******
+word: wing
+part_of_speech: noun
+definition: Sports   Either of the forward positions played near the sideline, especially in hockey.
+******
+word: wing
+part_of_speech: noun
+definition: Sports   A player who plays such a position.
+******
+word: wing
+part_of_speech: noun
+definition: An outspread pair of stylized bird's wings worn as insignia by qualified pilots or air crew members.
+******
+word: winter
+part_of_speech: noun
+definition: The usually coldest season of the year, occurring between autumn and spring, extending in the Northern Hemisphere from the winter solstice to the vernal equinox, and popularly considered to be constituted by December, January, and February.
+******
+word: winter
+part_of_speech: noun
+definition: A year as expressed through the recurrence of the winter season.
+******
+word: winter
+part_of_speech: noun
+definition: A period of time characterized by coldness, misery, barrenness, or death.
+******
+word: woman
+part_of_speech: noun
+definition: An adult female human.
+******
+word: woman
+part_of_speech: noun
+definition: Women considered as a group; womankind: "Woman feels the invidious distinctions of sex exactly as the black man does those of color”  ( Elizabeth Cady Stanton). 
+******
+word: woman
+part_of_speech: noun
+definition: An adult female human belonging to a specified occupation, group, nationality, or other category. Often used in combination:  an Englishwoman; congresswoman; a saleswoman. 
+******
+word: woman
+part_of_speech: noun
+definition: Feminine quality or aspect; womanliness.
+******
+word: woman
+part_of_speech: noun
+definition: A female servant or subordinate.
+******
+word: woman
+part_of_speech: noun
+definition: Informal   A wife.
+******
+word: woman
+part_of_speech: noun
+definition: Informal   A female lover or sweetheart. See Usage Notes at lady, man, person.

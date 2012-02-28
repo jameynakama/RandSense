@@ -1,0 +1,6 @@
+SENTENCE -> SUBJECT PREDICATE
+SUBJECT -> NP
+NP -> ARTICLE noun | ARTICLE adjective noun
+ARTICLE -> definite-article | indefinite-article
+PREDICATE -> VP
+VP -> verb-transitive NP | verb-intransitive

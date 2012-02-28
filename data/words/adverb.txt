@@ -1,0 +1,8 @@
+******
+word: bang
+part_of_speech: adverb
+definition: Exactly; precisely:  The arrow hit bang on the target. 
+******
+word: bang
+part_of_speech: adverb
+definition: Suddenly; abruptly:  cut the conversation bang off. 

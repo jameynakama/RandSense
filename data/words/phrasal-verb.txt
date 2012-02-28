@@ -1,0 +1,752 @@
+******
+word: poop
+part_of_speech: phrasal-verb
+definition: poop out  Slang   To quit because of exhaustion:  poop out of a race. 
+******
+word: poop
+part_of_speech: phrasal-verb
+definition: poop out  Slang   To decide not to participate, especially at the last moment.
+******
+word: howl
+part_of_speech: phrasal-verb
+definition: howl down  To drown out or silence by loud derisive calls:  The candidate was howled down at the town meeting. 
+******
+word: add
+part_of_speech: phrasal-verb
+definition: add up  To be reasonable, plausible, or consistent; make sense:  The witness's testimony simply did not add up. 
+******
+word: add
+part_of_speech: phrasal-verb
+definition: add up  To amount to an expected total:  a bill that didn't add up. 
+******
+word: add
+part_of_speech: phrasal-verb
+definition: add up  To formulate an opinion of:  added up the other competitors in one glance. 
+******
+word: bang
+part_of_speech: phrasal-verb
+definition: bang away  To speak or ask questions in a rapid, aggressive manner:  reporters banging away at the official during the press conference. 
+******
+word: bang
+part_of_speech: phrasal-verb
+definition: bang away  To work diligently and often at length:  banged away at the project until it was finished. 
+******
+word: bang
+part_of_speech: phrasal-verb
+definition: bang up  To damage extensively:  banged up the car. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call back  To communicate the need for (someone) to return from one situation or location to a previous one:  Management called the laid-off workers back. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call back  To telephone or radio (a person) who has called previously:  I called her back at noon. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call back  To recall (a defective product) for repair:  The company has called back all such models built in 1990. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call down  To find fault with; reprimand:  The teacher called me down for disobedience. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call down  To invoke, as from heaven.
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call for  To appear, as on someone else's premises, in order to get:  My chauffeur will call for you at seven. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call for  To be an appropriate occasion for:  This news calls for champagne. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call for  To require; demand:  work that calls for patience. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call forth  To evoke; elicit:  a love song that calls forth sad memories. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call in  To take out of circulation:  calling in silver dollars. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call in  To summon for assistance or consultation:  call in a specialist. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call in  To communicate with another by telephone:  Has the boss called in today? 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call off  To cancel or postpone:  call off a trip; called the trip off. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call off  To restrain or recall:  Call off your dogs. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call on  To order or request to undertake a particular activity:  called on our friends to help. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call out  To cause to assemble; summon:  call out the guard. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call out  To challenge to a duel.
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call up  To summon to active military service:  called up reserve troops for active duty. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call up  To cause one to remember; bring to mind:  stories that call up old times. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call up  To bring forth for action or discussion; raise.
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call upon  To order; require:  I call upon you to tell the truth. 
+******
+word: call
+part_of_speech: phrasal-verb
+definition: call upon  To make a demand or a series of demands on:  Social institutions are now being called upon to provide assistance to the homeless. 
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop back  Football   To back away from the line of scrimmage.
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop behind  To fall behind:  dropped behind the rest of the class during her illness. 
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop by  To stop in for a short visit.
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop off  To fall asleep.
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop off  To decrease:  Sales dropped off in the fourth quarter. 
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop out  To withdraw from participation, as in a game, club, or school.
+******
+word: drop
+part_of_speech: phrasal-verb
+definition: drop out  To withdraw from established society, especially because of disillusion with conventional values.
+******
+word: fix
+part_of_speech: phrasal-verb
+definition: fix up  To improve the appearance or condition of; refurbish.
+******
+word: fix
+part_of_speech: phrasal-verb
+definition: fix up  To provide; equip.
+******
+word: fix
+part_of_speech: phrasal-verb
+definition: fix up  Informal   To provide a companion on a date for:  fixed me up with an escort at the last minute. 
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang back  To be averse; hold back.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang in  Informal   To persevere:  decided to hang in despite his illness. 
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang off  To hold back; be averse.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang on  To cling tightly to something.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang on  To continue persistently; persevere.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang on  To keep a telephone connection open.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang on  To wait for a short period of time.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang together  To stand united; stick together: "We must all hang together, or assuredly we shall all hang separately”  ( Benjamin Franklin). 
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang together  To constitute a coherent totality:  diverse plot lines that did not hang together. 
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang up  To suspend on a hook or hanger.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang up  To replace (a telephone receiver) on its base or cradle.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang up  To end a telephone conversation.
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang up  To delay or impede; hinder:  Budget problems hung up the project for months. 
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang up  To become halted or snagged:  The fishing line hung up on a rock. 
+******
+word: hang
+part_of_speech: phrasal-verb
+definition: hang up  Informal   To have or cause to have emotional difficulties or inhibitions.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick about  To move from place to place.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick around  Informal   To treat badly; abuse.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick around  Informal   To move from place to place: "spent the next three years in Italy, kicking around the country on a motor scooter”  ( Charles E. Claffey). 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick around  Informal   To give thought or consideration to; ponder or discuss.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick back  To recoil unexpectedly and violently.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick back  Informal   To take it easy; relax:  kicked back at home and watched TV. 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick back  Slang   To return (stolen items).
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick back  Slang   To pay a kickback.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick in  Informal   To contribute (one's share):  kicked in a few dollars for the office party. 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick in  Informal   To become operative or take effect: "His pituitary kicked in, and his growth was suddenly vertical”  ( Kenneth Browser). 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick in  Slang   To die.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick off  Sports   To begin or resume play with a kickoff.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick off  Informal   To begin; start:  kicked off the promotional tour with a press conference. 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick off  Slang   To die.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick out  Slang   To throw out; dismiss.
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick over  To begin to fire:  The engine finally kicked over. 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick up  Informal   To increase in amount or force; intensify:  A sandstorm kicked up while we drove through the desert. 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick up  Informal   To stir up (trouble):  kicked up a row. 
+******
+word: kick
+part_of_speech: phrasal-verb
+definition: kick up  Informal   To show signs of disorder:  His ulcer has kicked up again. 
+******
+word: lock
+part_of_speech: phrasal-verb
+definition: lock out  To withhold work from (employees) during a labor dispute.
+******
+word: mix
+part_of_speech: phrasal-verb
+definition: mix down  Electronics   To combine all of the audio components of a recording into a final soundtrack or mix.
+******
+word: mix
+part_of_speech: phrasal-verb
+definition: mix up  To confuse; confound:  His explanation just mixed me up more. I always mix up the twins. 
+******
+word: mix
+part_of_speech: phrasal-verb
+definition: mix up  To involve or implicate:  He got himself mixed up with the wrong people. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  To spread out; unfold:  A green valley opened up before us. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  To begin operation:  The new store opens up next month. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  To begin firing:  The artillery opened up at dawn. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  Informal   To speak freely and candidly:  At last the frightened witness opened up and told the truth. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  To make an opening in by cutting:  The surgeon opened up the patient's chest. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  To make available or accessible:  open up new markets. 
+******
+word: open
+part_of_speech: phrasal-verb
+definition: open up  Informal   To accelerate. Used of a motor vehicle.
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass away  To pass out of existence; end.
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass away  To die.
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass for  To be accepted as or believed to be:  You could pass for a teenager. The fake painting passed for an original. 
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass off  To offer, sell, or put into circulation (an imitation) as genuine:  pass off glass as a gemstone. 
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass off  To present (one's self) as other than what one is:  tried to pass himself off as a banker. 
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass out  To lose consciousness.
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass over  To leave out; disregard.
+******
+word: pass
+part_of_speech: phrasal-verb
+definition: pass up  Informal   To let go by; reject:  pass up a chance for promotion; an opportunity too good to pass up. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk around  To persuade:  I talked them around to my point of view. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk around  To speak indirectly about:  talked around the subject but never got to the point. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk at  To address orally with no regard for or interest in a reaction or response.
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk back  To make an impertinent or insolent reply.
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk back  To make a belligerent response:  heavy guns talking back. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk down  To depreciate:  talked down the importance of the move. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk down  To speak with insulting condescension:  talked down to her subordinates. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk down  To silence (a person), especially by speaking in a loud and domineering manner.
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk down  To direct and control (the flight of an aircraft during an approach for landing) by radioed instructions either from the ground or a nearby aircraft.
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk out  To discuss (a matter) exhaustively:  I talked out the problem with a therapist. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk out  To resolve or settle by discussion.
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk out  Chiefly British   To block (proposed legislation) by filibustering.
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk over  To consider thoroughly in conversation; discuss:  talked the matter over. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk over  To win (someone) over by persuasion:  talked them over to our side. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk up  To speak in favor of; promote:  talked the candidate up; talked up the new product. 
+******
+word: talk
+part_of_speech: phrasal-verb
+definition: talk up  To speak up in a frank, often insolent manner.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn away  To send away; dismiss:  turned away the clerk. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn away  To repel:  The poor location of the house turned away prospective buyers. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn away  To avert; deflect:  turned away all criticism. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn back  To reverse one's direction of motion:  stopped on the road and had to turn back. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn back  To drive back and away:  turned back the uninvited comers. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn back  To halt the advance of:  turned back the advancing army. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn back  To fold down:  Turn back the page's corner to save your place in the book. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn down  To diminish the speed, volume, intensity, or flow of:  Turn down the radio, please. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn down  To reject or refuse, as a person, advice, or a suggestion:  turned down the invitation. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn down  To fold or be capable of folding down:  turn a collar down; a collar that turns down. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn in  To hand in; give over:  turned in the final exam. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn in  To inform on or deliver:  The criminal turned herself in. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn in  To produce:  turns in a consistent performance every day. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn in  Informal   To go to bed:  I turned in early last night. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  To stop the operation, activity, or flow of; shut off:  turned off the television. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  To affect with dislike, displeasure, or revulsion:  That song really turns me off. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  To affect with boredom:  The play turned the audience off. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  To lose or cause to lose interest; withdraw:  turning off to materialism. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  To cease paying attention to:  The student turned off the boring lecture and daydreamed. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  To divert; deflect.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn off  Chiefly British   To dismiss (an employee).
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn on  To cause to begin the operation, activity, or flow of:  Turn on the light bulb. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn on  To begin to display, employ, or exude:  turn on the charm. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn on  To take or cause to take a mind-altering drug, especially for the first time.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn on  To be or cause to become interested, pleasurably excited, or stimulated. Often used with to:  My aunt turned me on to jazz. She turned on to surfing this summer. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn on  To excite or become excited sexually.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To shut off:  turned out the lights. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To arrive or assemble, as for a public event or entertainment:  Many protesters have turned out. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To produce, as by a manufacturing process; make:  an assembly line turning out cars. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To be found to be, as after experience or trial:  The rookie turned out to be the team's best hitter. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To end up; result:  The cake turned out beautifully. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To equip; outfit:  troops that were turned out lavishly 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  Informal   To get out of bed.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn out  To evict; expel:  The tenants were turned out. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To bring the bottom to the top or vice versa; invert.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To shift the position of, as by rolling from one side to the other.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To shift one's position by rolling from one side to the other.
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To rotate; cycle:  The engine turned over but wouldn't start. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To think about; consider:  turned over the problem in her mind. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To transfer to another; surrender:  turned over the illegal funds. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  Sports   To lose possession of (the ball).
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To do business to the extent or amount of:  turn over a million dollars a year. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn over  To seem to lurch or heave convulsively:  My stomach turned over. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn to  To begin work:  If you quit dawdling and just turn to, your chores will be done soon. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To increase the speed, volume, intensity, or flow of:  Turn up the radio. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To find:  She turned up the missing keys under her briefcase. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To be found:  The papers will turn up sooner or later. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To make an appearance; arrive:  Many old friends turned up at the reunion. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To fold or be capable of folding up:  turning up his cuffs; cuffs that will turn up. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To happen unexpectedly:  Something turned up, so I couldn't go. 
+******
+word: turn
+part_of_speech: phrasal-verb
+definition: turn up  To be evident:  a sculptor whose name turns up in the art circles. 
+******
+word: use
+part_of_speech: phrasal-verb
+definition: use up  To consume completely:  used up all our money. 
+******
+word: walk
+part_of_speech: phrasal-verb
+definition: walk out  To go on strike.
+******
+word: walk
+part_of_speech: phrasal-verb
+definition: walk out  To leave suddenly, often as a signal of disapproval.
+******
+word: walk
+part_of_speech: phrasal-verb
+definition: walk over  Informal   To treat badly or contemptuously.
+******
+word: walk
+part_of_speech: phrasal-verb
+definition: walk over  Informal   To gain an easy or uncontested victory over.
+******
+word: walk
+part_of_speech: phrasal-verb
+definition: walk through  To perform (a play, for example) in a perfunctory fashion, as at a first rehearsal.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work in  To insert or introduce:  worked in a request for money. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work in  To make an opening for, as in a schedule:  said the doctor would try to work her in. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work in  To cause to be inserted by repeated or continuous effort.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work into  To insert or introduce into.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work into  To make an opening for (someone or something) in:  worked a few field trips into the semester's calendar. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work into  To cause to be inserted in by repeated or continuous effort:  worked the pick into the lock. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work off  To get rid of by work or effort:  work off extra pounds; work off a debt. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To accomplish by work or effort.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To find a solution for; solve:  worked out the equations; worked out their personal differences. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To formulate or develop:  work out a plan. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To discharge (an obligation or debt) with labor in place of money.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To prove successful, effective, or satisfactory:  The new strategy may not work out. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To have a specified result:  The ratio works out to an odd number. It worked out that everyone left on the same train. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To engage in strenuous exercise for physical conditioning.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work out  To exhaust (a mine, for example).
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work over  To do for a second time; rework.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work over  Slang   To inflict severe physical damage on; beat up.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work up  To arouse the emotions of; excite.
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work up  To increase one's skill, responsibility, efficiency, or status through work:  worked up to 30 sit-ups a day; worked up to store manager. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work up  To intensify gradually:  The film works up to a thrilling climax. 
+******
+word: work
+part_of_speech: phrasal-verb
+definition: work up  To develop or produce by mental or physical effort:  worked up a patient profile; worked up an appetite. 

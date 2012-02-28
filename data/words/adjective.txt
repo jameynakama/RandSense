@@ -1,0 +1,4816 @@
+******
+word: adorable
+part_of_speech: adjective
+definition: Delightful, lovable, and charming:  an adorable set of twins. 
+******
+word: adorable
+part_of_speech: adjective
+definition: Worthy of adoration.
+******
+word: beautiful
+part_of_speech: adjective
+definition: Having qualities that delight the senses, especially the sense of sight.
+******
+word: beautiful
+part_of_speech: adjective
+definition: Excellent; wonderful.
+******
+word: clean
+part_of_speech: adjective
+definition: Free from dirt, stain, or impurities; unsoiled.
+******
+word: clean
+part_of_speech: adjective
+definition: Free from foreign matter or pollution; unadulterated:  clean air; clean drinking water. 
+******
+word: clean
+part_of_speech: adjective
+definition: Not infected:  a clean wound. 
+******
+word: clean
+part_of_speech: adjective
+definition: Producing relatively little pollution:  a clean fuel; a cleaner, more efficient engine. 
+******
+word: clean
+part_of_speech: adjective
+definition: Producing relatively little radioactive fallout or contamination:  a clean nuclear bomb. 
+******
+word: clean
+part_of_speech: adjective
+definition: Having no imperfections or blemishes; regular or even:  a clean edge; a smooth, clean joint. 
+******
+word: clean
+part_of_speech: adjective
+definition: Not ornate or intricate; spare: "the clean lines and exquisite proportions of early modernism”  ( Judith Thurman). 
+******
+word: clean
+part_of_speech: adjective
+definition: Sharply defined; clear-cut:  a clean outline against the sky. 
+******
+word: clean
+part_of_speech: adjective
+definition: Free from clumsiness; deft; adroit:  a clean throw. 
+******
+word: clean
+part_of_speech: adjective
+definition: Devoid of restrictions or encumbrances:  a clean bill of health. 
+******
+word: clean
+part_of_speech: adjective
+definition: Thorough; complete:  a clean getaway. 
+******
+word: clean
+part_of_speech: adjective
+definition: Having few alterations or corrections; legible:  clean manuscript. 
+******
+word: clean
+part_of_speech: adjective
+definition: Blank:  a clean page. 
+******
+word: clean
+part_of_speech: adjective
+definition: Morally pure; virtuous:  led a clean life. 
+******
+word: clean
+part_of_speech: adjective
+definition: Having no marks of discredit or offense:  a clean voting record. 
+******
+word: clean
+part_of_speech: adjective
+definition: Fit for all readers, listeners, or audiences; not ribald or obscene:  a clean joke. 
+******
+word: clean
+part_of_speech: adjective
+definition: Honest or fair:  a clean fighter; a clean competition. 
+******
+word: clean
+part_of_speech: adjective
+definition: Slang   Not carrying concealed weapons or drugs.
+******
+word: clean
+part_of_speech: adjective
+definition: Slang   Innocent of a suspected crime.
+******
+word: clean
+part_of_speech: adjective
+definition: Informal   Free from narcotics addiction.
+******
+word: clean
+part_of_speech: adjective
+definition: Informal   Showing no evidence of using banned or performance-enhancing substances:  proven to be clean before the race. 
+******
+word: drab
+part_of_speech: adjective
+definition: Of a dull grayish to yellowish brown.
+******
+word: drab
+part_of_speech: adjective
+definition: Of a light olive brown or khaki color.
+******
+word: drab
+part_of_speech: adjective
+definition: Faded and dull in appearance.
+******
+word: drab
+part_of_speech: adjective
+definition: Dull or commonplace in character; dreary:  a drab personality.  See Synonyms at dull.
+******
+word: elegant
+part_of_speech: adjective
+definition: Characterized by or exhibiting refined, tasteful beauty of manner, form, or style. See Synonyms at delicate.
+******
+word: fancy
+part_of_speech: adjective
+definition: Highly decorated:  a fancy hat. 
+******
+word: fancy
+part_of_speech: adjective
+definition: Arising in the fancy; capricious.
+******
+word: fancy
+part_of_speech: adjective
+definition: Executed with skill; complex or intricate:  the fancy footwork of a figure skater. 
+******
+word: fancy
+part_of_speech: adjective
+definition: Of superior grade; fine:  fancy preserves. 
+******
+word: fancy
+part_of_speech: adjective
+definition: Excessive or exorbitant:  paid a fancy price for the car. 
+******
+word: fancy
+part_of_speech: adjective
+definition: Bred for unusual qualities or special points.
+******
+word: glamorous
+part_of_speech: adjective
+definition: Full of or characterized by glamour.
+******
+word: handsome
+part_of_speech: adjective
+definition: Pleasing and dignified in form or appearance. See Synonyms at beautiful.
+******
+word: handsome
+part_of_speech: adjective
+definition: Generous or copious:  a handsome reward.  See Synonyms at liberal.
+******
+word: handsome
+part_of_speech: adjective
+definition: Marked by or requiring skill dexterity:  did some handsome maneuvers on the skating rink. 
+******
+word: handsome
+part_of_speech: adjective
+definition: Appropriate or fitting:  a handsome location for the new school. 
+******
+word: handsome
+part_of_speech: adjective
+definition: Large:  a handsome price; won by a handsome margin. 
+******
+word: long
+part_of_speech: adjective
+definition: Extending or traveling a relatively great distance.
+******
+word: long
+part_of_speech: adjective
+definition: Having relatively great height; tall.
+******
+word: long
+part_of_speech: adjective
+definition: Having the greater length of two or the greatest length of several:  the long edge of the door. 
+******
+word: long
+part_of_speech: adjective
+definition: Of relatively great duration:  a long time. 
+******
+word: long
+part_of_speech: adjective
+definition: Of a specified linear extent or duration:  a mile long; an hour long. 
+******
+word: long
+part_of_speech: adjective
+definition: Made up of many members or items:  a long shopping list. 
+******
+word: long
+part_of_speech: adjective
+definition: Extending beyond an average or standard:  a long game. 
+******
+word: long
+part_of_speech: adjective
+definition: Extending or landing beyond a given boundary, limit, or goal:  Her first serve was long. 
+******
+word: long
+part_of_speech: adjective
+definition: Tediously protracted; lengthy:  a long speech. 
+******
+word: long
+part_of_speech: adjective
+definition: Concerned with distant issues; far-reaching:  took a long view of the geopolitical issues. 
+******
+word: long
+part_of_speech: adjective
+definition: Involving substantial chance; risky:  long odds. 
+******
+word: long
+part_of_speech: adjective
+definition: Having an abundance or excess of: "politicians whose résumés are long on competence”  ( Margaret Garrard Warner). 
+******
+word: long
+part_of_speech: adjective
+definition: Having a holding of a commodity or security in expectation of a rise in price:  long on soybeans. 
+******
+word: long
+part_of_speech: adjective
+definition: Linguistics   Having a comparatively great duration. Used of a vowel or consonant.
+******
+word: long
+part_of_speech: adjective
+definition: Grammar   Of, relating to, or being the English speech sounds (ā, ē, ī, ō, o͞o) that are tense vowels or diphthongs.
+******
+word: long
+part_of_speech: adjective
+definition: Stressed or accented. Used of a syllable in accentual prosody.
+******
+word: long
+part_of_speech: adjective
+definition: Being of relatively great duration. Used of a syllable in quantitative prosody.
+******
+word: magnificent
+part_of_speech: adjective
+definition: Splendid in appearance; grand:  a magnificent palace. 
+******
+word: magnificent
+part_of_speech: adjective
+definition: Grand or noble in thought or deed; exalted.
+******
+word: magnificent
+part_of_speech: adjective
+definition: Outstanding of its kind; superlative:  a magnificent place for sailing.  See Synonyms at grand.
+******
+word: old-fashioned
+part_of_speech: adjective
+definition: Of a style or method formerly in vogue; outdated.
+******
+word: old-fashioned
+part_of_speech: adjective
+definition: Attached to or favoring methods, ideas, or customs of an earlier time:  old-fashioned parents. 
+******
+word: plain
+part_of_speech: adjective
+definition: Free from obstructions; open; clear:  in plain view. 
+******
+word: plain
+part_of_speech: adjective
+definition: Obvious to the mind; evident:  make one's intention plain.  See Synonyms at apparent.
+******
+word: plain
+part_of_speech: adjective
+definition: Not elaborate or complicated; simple:  plain food. 
+******
+word: plain
+part_of_speech: adjective
+definition: Straightforward; frank or candid:  plain talk. 
+******
+word: plain
+part_of_speech: adjective
+definition: Not mixed with other substances; pure:  plain water. 
+******
+word: plain
+part_of_speech: adjective
+definition: Common in rank or station; average; ordinary:  a plain man. 
+******
+word: plain
+part_of_speech: adjective
+definition: Not pretentious; unaffected.
+******
+word: plain
+part_of_speech: adjective
+definition: Marked by little or no ornamentation or decoration.
+******
+word: plain
+part_of_speech: adjective
+definition: Not dyed, twilled, or patterned:  a plain fabric. 
+******
+word: plain
+part_of_speech: adjective
+definition: Lacking beauty or distinction:  a plain face. 
+******
+word: plain
+part_of_speech: adjective
+definition: Sheer; utter; unqualified:  plain stupidity. 
+******
+word: plain
+part_of_speech: adjective
+definition: Archaic   Having no visible elevation or depression; flat; level.
+******
+word: quaint
+part_of_speech: adjective
+definition: Charmingly odd, especially in an old-fashioned way: "Sarah Orne Jewett . . . was dismissed by one critic as merely a New England old maid who wrote quaint, plotless sketches of late 19th-century coastal Maine”  ( James McManus). 
+******
+word: quaint
+part_of_speech: adjective
+definition: Unfamiliar or unusual in character; strange:  quaint dialect words.  See Synonyms at strange.
+******
+word: quaint
+part_of_speech: adjective
+definition: Cleverly made; artful.
+******
+word: sparkling
+part_of_speech: adjective
+definition: Of an object, reflecting light as if giving off tiny sparks.
+******
+word: sparkling
+part_of_speech: adjective
+definition: Of a beverage, especially an alcoholic beverage, containing dissolved carbon dioxide (either naturally or that has been added) that comes out of solution in the form of many tiny bubbles.
+******
+word: ugliest
+part_of_speech: adjective
+definition: Superlative form of ugly.
+******
+word: unsightly
+part_of_speech: adjective
+definition: Unpleasant or offensive to look at; unattractive. See Synonyms at ugly.
+******
+word: wide-eyed
+part_of_speech: adjective
+definition: Having the eyes completely opened, as in wonder.
+******
+word: wide-eyed
+part_of_speech: adjective
+definition: Innocent; credulous.
+******
+word: red
+part_of_speech: adjective
+definition: Having a color resembling that of blood.
+******
+word: red
+part_of_speech: adjective
+definition: Reddish in color or having parts that are reddish in color:  a red dog; a red oak. 
+******
+word: red
+part_of_speech: adjective
+definition: Having a reddish or coppery skin color.
+******
+word: red
+part_of_speech: adjective
+definition: Offensive   Of or being a Native American.
+******
+word: red
+part_of_speech: adjective
+definition: Having a ruddy or flushed complexion:  red with embarrassment. 
+******
+word: red
+part_of_speech: adjective
+definition: Communist.
+******
+word: orange
+part_of_speech: adjective
+definition: Of the color orange.
+******
+word: orange
+part_of_speech: adjective
+definition: Made from oranges.
+******
+word: orange
+part_of_speech: adjective
+definition: Tasting or smelling like oranges.
+******
+word: yellow
+part_of_speech: adjective
+definition: Of the color yellow.
+******
+word: yellow
+part_of_speech: adjective
+definition: Having a yellow-brown skin color.
+******
+word: yellow
+part_of_speech: adjective
+definition: Offensive   Of or being a person of Asian origin.
+******
+word: yellow
+part_of_speech: adjective
+definition: Slang   Cowardly.
+******
+word: green
+part_of_speech: adjective
+definition: Of the color green.
+******
+word: green
+part_of_speech: adjective
+definition: Abounding in or covered with green growth or foliage:  the green woods. 
+******
+word: green
+part_of_speech: adjective
+definition: Made with green or leafy vegetables:  a green salad. 
+******
+word: green
+part_of_speech: adjective
+definition: Characterized by mild or temperate weather:  a green climate. 
+******
+word: green
+part_of_speech: adjective
+definition: Youthful; vigorous:  at the green age of 18. 
+******
+word: green
+part_of_speech: adjective
+definition: Not mature or ripe; young:  green tomatoes. 
+******
+word: green
+part_of_speech: adjective
+definition: Brand-new; fresh.
+******
+word: green
+part_of_speech: adjective
+definition: Not yet fully processed, especially:
+******
+word: green
+part_of_speech: adjective
+definition: Not aged:  green wood. 
+******
+word: green
+part_of_speech: adjective
+definition: Not cured or tanned:  green pelts. 
+******
+word: green
+part_of_speech: adjective
+definition: Lacking training or experience. See Synonyms at young.
+******
+word: green
+part_of_speech: adjective
+definition: Lacking sophistication or worldly experience; naive.
+******
+word: green
+part_of_speech: adjective
+definition: Easily duped or deceived; gullible.
+******
+word: green
+part_of_speech: adjective
+definition: Having a sickly or unhealthy pallor indicative of nausea or jealousy, for example.
+******
+word: green
+part_of_speech: adjective
+definition: Beneficial to the environment:  green recycling policies. 
+******
+word: green
+part_of_speech: adjective
+definition: Favoring or supporting environmentalism:  green legislators who strengthened pollution controls. 
+******
+word: blue
+part_of_speech: adjective
+definition: Of the color blue.
+******
+word: blue
+part_of_speech: adjective
+definition: Bluish or having parts that are blue or bluish, as the blue spruce and the blue whale.
+******
+word: blue
+part_of_speech: adjective
+definition: Having a gray or purplish color, as from cold or contusion.
+******
+word: blue
+part_of_speech: adjective
+definition: Wearing blue.
+******
+word: blue
+part_of_speech: adjective
+definition: Gloomy; depressed. See Synonyms at depressed.
+******
+word: blue
+part_of_speech: adjective
+definition: Dismal; dreary:  a blue day. 
+******
+word: blue
+part_of_speech: adjective
+definition: Puritanical; strict.
+******
+word: blue
+part_of_speech: adjective
+definition: Aristocratic; patrician.
+******
+word: blue
+part_of_speech: adjective
+definition: Indecent; risqué:  a blue joke; a blue movie. 
+******
+word: purple
+part_of_speech: adjective
+definition: Of the color purple.
+******
+word: purple
+part_of_speech: adjective
+definition: Royal or imperial; regal.
+******
+word: purple
+part_of_speech: adjective
+definition: Elaborate and ornate:  purple prose. 
+******
+word: gray
+part_of_speech: adjective
+definition: Of or relating to an achromatic color of any lightness between the extremes of black and white.
+******
+word: gray
+part_of_speech: adjective
+definition: Dull or dark:  a gray, rainy afternoon. 
+******
+word: gray
+part_of_speech: adjective
+definition: Lacking in cheer; gloomy:  a gray mood. 
+******
+word: gray
+part_of_speech: adjective
+definition: Having gray hair; hoary.
+******
+word: gray
+part_of_speech: adjective
+definition: Old or venerable.
+******
+word: gray
+part_of_speech: adjective
+definition: Intermediate in character or position, as with regard to a subjective matter:  the gray area between their differing opinions on the film's morality. 
+******
+word: black
+part_of_speech: adjective
+definition: Being of the color black, producing or reflecting comparatively little light and having no predominant hue.
+******
+word: black
+part_of_speech: adjective
+definition: Having little or no light:  a black, moonless night. 
+******
+word: black
+part_of_speech: adjective
+definition: Of or belonging to a racial group having brown to black skin, especially one of African origin:  the Black population of South Africa. 
+******
+word: black
+part_of_speech: adjective
+definition: Of or belonging to an American ethnic group descended from African peoples having dark skin; African-American.
+******
+word: black
+part_of_speech: adjective
+definition: Very dark in color:  rich black soil; black, wavy hair. 
+******
+word: black
+part_of_speech: adjective
+definition: Soiled, as from soot; dirty:  feet black from playing outdoors. 
+******
+word: black
+part_of_speech: adjective
+definition: Evil; wicked:  the pirates' black deeds. 
+******
+word: black
+part_of_speech: adjective
+definition: Cheerless and depressing; gloomy:  black thoughts. 
+******
+word: black
+part_of_speech: adjective
+definition: Being or characterized by morbid or grimly satiric humor:  a black comedy. 
+******
+word: black
+part_of_speech: adjective
+definition: Marked by anger or sullenness:  gave me a black look. 
+******
+word: black
+part_of_speech: adjective
+definition: Attended with disaster; calamitous:  a black day; the stock market crash on Black Friday. 
+******
+word: black
+part_of_speech: adjective
+definition: Deserving of, indicating, or incurring censure or dishonor: "Man ... has written one of his blackest records as a destroyer on the oceanic islands”  ( Rachel Carson). 
+******
+word: black
+part_of_speech: adjective
+definition: Wearing clothing of the darkest visual hue:  the black knight. 
+******
+word: black
+part_of_speech: adjective
+definition: Served without milk or cream:  black coffee. 
+******
+word: black
+part_of_speech: adjective
+definition: Appearing to emanate from a source other than the actual point of origin. Used chiefly of intelligence operations:  black propaganda; black radio transmissions. 
+******
+word: black
+part_of_speech: adjective
+definition: Disclosed, for reasons of security, only to an extremely limited number of authorized persons; very highly classified:  black programs in the Defense Department; the Pentagon's black budget. 
+******
+word: black
+part_of_speech: adjective
+definition: Chiefly British   Boycotted as part of a labor union action.
+******
+word: white
+part_of_speech: adjective
+definition: Being of the color white; devoid of hue, as new snow.
+******
+word: white
+part_of_speech: adjective
+definition: Approaching the color white, as:
+******
+word: white
+part_of_speech: adjective
+definition: Weakly colored; almost colorless; pale:  white wine. 
+******
+word: white
+part_of_speech: adjective
+definition: Pale gray; silvery and lustrous:  white hair. 
+******
+word: white
+part_of_speech: adjective
+definition: Bloodless; blanched.
+******
+word: white
+part_of_speech: adjective
+definition: Light or whitish in color or having light or whitish parts. Used with animal and plant names.
+******
+word: white
+part_of_speech: adjective
+definition: Of or belonging to a racial group having light skin coloration, especially one of European origin:  voting patterns within the white population. 
+******
+word: white
+part_of_speech: adjective
+definition: Not written or printed on; blank.
+******
+word: white
+part_of_speech: adjective
+definition: Unsullied; pure.
+******
+word: white
+part_of_speech: adjective
+definition: Habited in white:  white nuns. 
+******
+word: white
+part_of_speech: adjective
+definition: Accompanied by or mantled with snow:  a white Christmas. 
+******
+word: white
+part_of_speech: adjective
+definition: Incandescent:  white flames. 
+******
+word: white
+part_of_speech: adjective
+definition: Intensely heated; impassioned:  white with fury. 
+******
+word: white
+part_of_speech: adjective
+definition: Ultraconservative or reactionary.
+******
+word: white
+part_of_speech: adjective
+definition: With milk added. Used of tea or coffee.
+******
+word: alive
+part_of_speech: adjective
+definition: Having life; living. See Synonyms at living.
+******
+word: alive
+part_of_speech: adjective
+definition: In existence or operation; active:  keep your hopes alive. 
+******
+word: alive
+part_of_speech: adjective
+definition: Full of living or moving things; abounding:  a pool alive with trout. 
+******
+word: alive
+part_of_speech: adjective
+definition: Full of activity or animation; lively:  a face alive with mischief. 
+******
+word: better
+part_of_speech: adjective
+definition: Greater in excellence or higher in quality.
+******
+word: better
+part_of_speech: adjective
+definition: More useful, suitable, or desirable:  found a better way to go; a suit with a better fit than that one. 
+******
+word: better
+part_of_speech: adjective
+definition: More highly skilled or adept:  I am better at math than English. 
+******
+word: better
+part_of_speech: adjective
+definition: Greater or larger:  argued for the better part of an hour. 
+******
+word: better
+part_of_speech: adjective
+definition: More advantageous or favorable; improved:  a better chance of success. 
+******
+word: better
+part_of_speech: adjective
+definition: Healthier or more fit than before:  The patient is better today. 
+******
+word: careful
+part_of_speech: adjective
+definition: Attentive to potential danger, error, or harm; cautious:  was careful when crossing the busy street; gave a careful answer. 
+******
+word: careful
+part_of_speech: adjective
+definition: Thorough and painstaking in action or execution; conscientious:  a careful search; careful art restorers. 
+******
+word: careful
+part_of_speech: adjective
+definition: Protective; solicitous:  Be careful of his feelings. 
+******
+word: careful
+part_of_speech: adjective
+definition: Full of cares or anxiety: "Thou art careful and troubled about many things”  ( Luke 10:41). 
+******
+word: clever
+part_of_speech: adjective
+definition: Mentally quick and original; bright.
+******
+word: clever
+part_of_speech: adjective
+definition: Nimble with the hands or body; dexterous.
+******
+word: clever
+part_of_speech: adjective
+definition: Exhibiting quick-wittedness:  a clever story. 
+******
+word: clever
+part_of_speech: adjective
+definition: New England   Easily managed; docile: "Oxen must be pretty clever to be bossed around the way they are”  ( Dialect Notes). 
+******
+word: clever
+part_of_speech: adjective
+definition: New England   Affable but not especially smart.
+******
+word: clever
+part_of_speech: adjective
+definition: Chiefly Southern U.S.   Good-natured; amiable. See Regional Note at ugly.
+******
+word: dead
+part_of_speech: adjective
+definition: Having lost life; no longer alive.
+******
+word: dead
+part_of_speech: adjective
+definition: Marked for certain death; doomed:  was marked as a dead man by the assassin. 
+******
+word: dead
+part_of_speech: adjective
+definition: Having the physical appearance of death:  a dead pallor. 
+******
+word: dead
+part_of_speech: adjective
+definition: Lacking feeling or sensitivity; numb or unresponsive:  Passersby were dead to our pleas for help. 
+******
+word: dead
+part_of_speech: adjective
+definition: Weary and worn-out; exhausted.
+******
+word: dead
+part_of_speech: adjective
+definition: Not having the capacity to live; inanimate or inert.
+******
+word: dead
+part_of_speech: adjective
+definition: Not having the capacity to produce or sustain life; barren:  dead soil. 
+******
+word: dead
+part_of_speech: adjective
+definition: No longer in existence, use, or operation.
+******
+word: dead
+part_of_speech: adjective
+definition: No longer having significance or relevance.
+******
+word: dead
+part_of_speech: adjective
+definition: Physically inactive; dormant:  a dead volcano. 
+******
+word: dead
+part_of_speech: adjective
+definition: Not commercially productive; idle:  dead capital. 
+******
+word: dead
+part_of_speech: adjective
+definition: Not circulating or running; stagnant:  dead water; dead air. 
+******
+word: dead
+part_of_speech: adjective
+definition: Devoid of human or vehicular activity; quiet:  a dead town. 
+******
+word: dead
+part_of_speech: adjective
+definition: Lacking all animation, excitement, or activity; dull:  The party being dead, we left early. 
+******
+word: dead
+part_of_speech: adjective
+definition: Having no resonance. Used of sounds: "One characteristic of compact discs we all can hear is dead sound. It may be pure but it has no life”  ( Musical Heritage Review). 
+******
+word: dead
+part_of_speech: adjective
+definition: Having grown cold; having been extinguished:  dead coals; a dead flame. 
+******
+word: dead
+part_of_speech: adjective
+definition: Lacking elasticity or bounce:  That tennis ball is dead. 
+******
+word: dead
+part_of_speech: adjective
+definition: Out of operation because of a fault or breakdown:  The motor is dead. 
+******
+word: dead
+part_of_speech: adjective
+definition: Sudden; abrupt:  a dead stop. 
+******
+word: dead
+part_of_speech: adjective
+definition: Complete; utter:  dead silence. 
+******
+word: dead
+part_of_speech: adjective
+definition: Exact; unerring.  the dead center of a target. 
+******
+word: dead
+part_of_speech: adjective
+definition: Sports   Out of play. Used of a ball.
+******
+word: dead
+part_of_speech: adjective
+definition: Lacking connection to a source of electric current.
+******
+word: dead
+part_of_speech: adjective
+definition: Drained of electric charge; discharged:  a dead battery. 
+******
+word: easy
+part_of_speech: adjective
+definition: Capable of being accomplished or acquired with ease; posing no difficulty:  an easy victory; an easy problem. 
+******
+word: easy
+part_of_speech: adjective
+definition: Requiring or exhibiting little effort or endeavor; undemanding:  took the easy way out of her problems; wasn't satisfied with easy answers. 
+******
+word: easy
+part_of_speech: adjective
+definition: Free from worry, anxiety, trouble, or pain:  My mind was easy, knowing that I had done my best. 
+******
+word: easy
+part_of_speech: adjective
+definition: Affording comfort or relief; soothing:  soft light that was easy on the eyes. 
+******
+word: easy
+part_of_speech: adjective
+definition: Prosperous; well-off:  easy living; easy circumstances. 
+******
+word: easy
+part_of_speech: adjective
+definition: Causing little hardship or distress:  an easy penalty; a habit that isn't easy to give up. 
+******
+word: easy
+part_of_speech: adjective
+definition: Socially at ease:  an easy, good-natured manner. 
+******
+word: easy
+part_of_speech: adjective
+definition: Relaxed in attitude; easygoing:  an easy disposition. 
+******
+word: easy
+part_of_speech: adjective
+definition: Not strict or severe; lenient:  an easy teacher; easy standards. 
+******
+word: easy
+part_of_speech: adjective
+definition: Readily exploited, imposed on, or tricked:  an easy mark; an easy victim. 
+******
+word: easy
+part_of_speech: adjective
+definition: Not hurried or forced; moderate:  an easy pace; an easy walk around the block. 
+******
+word: easy
+part_of_speech: adjective
+definition: Light; gentle:  an easy tap on the shoulder. 
+******
+word: easy
+part_of_speech: adjective
+definition: Not steep or abrupt; gradual:  an easy climb. 
+******
+word: easy
+part_of_speech: adjective
+definition: Economics   Less in demand and therefore readily obtainable:  Commodities are easier this quarter. 
+******
+word: easy
+part_of_speech: adjective
+definition: Economics   Plentiful and therefore at low interest rates:  easy money. 
+******
+word: easy
+part_of_speech: adjective
+definition: Promiscuous; loose.
+******
+word: famous
+part_of_speech: adjective
+definition: Well or widely known. See Synonyms at noted.
+******
+word: famous
+part_of_speech: adjective
+definition: First-rate; excellent:  had a famous time at the party. 
+******
+word: gifted
+part_of_speech: adjective
+definition: Endowed with great natural ability, intelligence, or talent:  a gifted child; a gifted pianist. 
+******
+word: gifted
+part_of_speech: adjective
+definition: Revealing special talent:  a gifted rendition of the aria. 
+******
+word: helpful
+part_of_speech: adjective
+definition: Providing assistance; useful.
+******
+word: important
+part_of_speech: adjective
+definition: Strongly affecting the course of events or the nature of things; significant:  an important message that must get through; close friends who are important to me. 
+******
+word: important
+part_of_speech: adjective
+definition: Having or suggesting a consciousness of high position or authority; authoritative:  recited the decree with an important air. 
+******
+word: important
+part_of_speech: adjective
+definition: Obsolete   Importunate.
+******
+word: inexpensive
+part_of_speech: adjective
+definition: Not high in price; cheap.
+******
+word: mushy
+part_of_speech: adjective
+definition: Resembling mush in consistency; soft.
+******
+word: mushy
+part_of_speech: adjective
+definition: Informal   Excessively sentimental. See Synonyms at sentimental.
+******
+word: mushy
+part_of_speech: adjective
+definition: Informal   Given to or displaying mawkish affection or amorousness.
+******
+word: odd
+part_of_speech: adjective
+definition: Deviating from what is ordinary, usual, or expected; strange or peculiar:  an odd name; odd behavior.  See Synonyms at strange.
+******
+word: odd
+part_of_speech: adjective
+definition: Being in excess of the indicated or approximate number, extent, or degree. Often used in combination:  invited 30-odd guests. 
+******
+word: odd
+part_of_speech: adjective
+definition: Constituting a remainder:  had some odd dollars left over. 
+******
+word: odd
+part_of_speech: adjective
+definition: Small in amount:  jingled the odd change in my pockets. 
+******
+word: odd
+part_of_speech: adjective
+definition: Being one of an incomplete pair or set:  an odd shoe. 
+******
+word: odd
+part_of_speech: adjective
+definition: Remaining after others have been paired or grouped.
+******
+word: odd
+part_of_speech: adjective
+definition: Mathematics   Designating an integer not divisible by two, such as 1, 3, and 5.
+******
+word: odd
+part_of_speech: adjective
+definition: Not expected, regular, or planned:  called at odd intervals. 
+******
+word: odd
+part_of_speech: adjective
+definition: Remote; out-of-the-way:  found the antique shop in an odd corner of town. 
+******
+word: powerful
+part_of_speech: adjective
+definition: Having or capable of exerting power.
+******
+word: powerful
+part_of_speech: adjective
+definition: Effective or potent:  a powerful drug. 
+******
+word: powerful
+part_of_speech: adjective
+definition: Chiefly Upper Southern U.S.   Great: "[Everybody had] a powerful lot to say about faith and good works and free grace and preforeordestination, and I don't know what all”  ( Mark Twain). 
+******
+word: rich
+part_of_speech: adjective
+definition: Possessing great material wealth: "Now that he was rich he was not thought ignorant any more, but simply eccentric”  ( Mavis Gallant). 
+******
+word: rich
+part_of_speech: adjective
+definition: Having great worth or value:  a rich harvest of grain. 
+******
+word: rich
+part_of_speech: adjective
+definition: Magnificent; sumptuous:  a rich brocade. 
+******
+word: rich
+part_of_speech: adjective
+definition: Having an abundant supply:  rich in ideas. 
+******
+word: rich
+part_of_speech: adjective
+definition: Abounding, especially in natural resources:  rich land. 
+******
+word: rich
+part_of_speech: adjective
+definition: Meaningful and significant: "a rich sense of the transaction between writer and reader”  ( William Zinsser). 
+******
+word: rich
+part_of_speech: adjective
+definition: Very productive and therefore financially profitable:  rich seams of coal. 
+******
+word: rich
+part_of_speech: adjective
+definition: Containing a large amount of choice ingredients, such as butter, sugar, or eggs, and therefore unusually heavy or sweet:  a rich dessert. 
+******
+word: rich
+part_of_speech: adjective
+definition: Having or exuding a strong or pungent aroma: "Texas air is so rich you can nourish off it like it was food”  ( Edna Ferber). 
+******
+word: rich
+part_of_speech: adjective
+definition: Pleasantly full and mellow:  a rich tenor voice. 
+******
+word: rich
+part_of_speech: adjective
+definition: Warm and strong in color:  a rich brown velvet. 
+******
+word: rich
+part_of_speech: adjective
+definition: Containing a large proportion of fuel to air:  a rich gas mixture. 
+******
+word: rich
+part_of_speech: adjective
+definition: Informal   Highly amusing.
+******
+word: shy
+part_of_speech: adjective
+definition: Easily startled; timid.
+******
+word: shy
+part_of_speech: adjective
+definition: Drawing back from contact or familiarity with others; retiring or reserved.
+******
+word: shy
+part_of_speech: adjective
+definition: Marked by reserve or diffidence:  a shy glance. 
+******
+word: shy
+part_of_speech: adjective
+definition: Distrustful; wary:  shy of strangers. 
+******
+word: shy
+part_of_speech: adjective
+definition: Not having paid an amount due, as one's ante in poker.
+******
+word: shy
+part_of_speech: adjective
+definition: Short; lacking:  Eleven is one shy of a dozen. 
+******
+word: tender
+part_of_speech: adjective
+definition: Easily crushed or bruised; fragile:  a tender petal. 
+******
+word: tender
+part_of_speech: adjective
+definition: Easily chewed or cut:  tender beef. 
+******
+word: tender
+part_of_speech: adjective
+definition: Young and vulnerable:  of tender age. 
+******
+word: tender
+part_of_speech: adjective
+definition: Frail; delicate.
+******
+word: tender
+part_of_speech: adjective
+definition: Sensitive to frost or severe cold; not hardy:  tender green shoots. 
+******
+word: tender
+part_of_speech: adjective
+definition: Easily hurt; sensitive:  tender skin. 
+******
+word: tender
+part_of_speech: adjective
+definition: Painful; sore:  a tender tooth. 
+******
+word: tender
+part_of_speech: adjective
+definition: Considerate and protective; solicitous:  a tender mother; his tender concern. 
+******
+word: tender
+part_of_speech: adjective
+definition: Characterized by or expressing gentle emotions; loving:  a tender glance; a tender ballad. 
+******
+word: tender
+part_of_speech: adjective
+definition: Given to sympathy or sentimentality; soft:  a tender heart. 
+******
+word: tender
+part_of_speech: adjective
+definition: Nautical   Likely to heel easily under sail; crank.
+******
+word: uninterested
+part_of_speech: adjective
+definition: Without an interest:  uninterested parties. 
+******
+word: uninterested
+part_of_speech: adjective
+definition: Not having a financial interest.
+******
+word: uninterested
+part_of_speech: adjective
+definition: Marked by or exhibiting a lack of interest. See Usage Note at disinterested.
+******
+word: vast
+part_of_speech: adjective
+definition: Very great in size, number, amount, or quantity.
+******
+word: vast
+part_of_speech: adjective
+definition: Very great in area or extent; immense.
+******
+word: vast
+part_of_speech: adjective
+definition: Very great in degree or intensity. See Synonyms at enormous.
+******
+word: wrong
+part_of_speech: adjective
+definition: Not in conformity with fact or truth; incorrect or erroneous.
+******
+word: wrong
+part_of_speech: adjective
+definition: Contrary to conscience, morality, or law; immoral or wicked.
+******
+word: wrong
+part_of_speech: adjective
+definition: Unfair; unjust.
+******
+word: wrong
+part_of_speech: adjective
+definition: Not required, intended, or wanted:  took a wrong turn. 
+******
+word: wrong
+part_of_speech: adjective
+definition: Not fitting or suitable; inappropriate or improper:  said the wrong thing. 
+******
+word: wrong
+part_of_speech: adjective
+definition: Not in accord with established usage, method, or procedure:  the wrong way to shuck clams. 
+******
+word: wrong
+part_of_speech: adjective
+definition: Not functioning properly; out of order.
+******
+word: wrong
+part_of_speech: adjective
+definition: Unacceptable or undesirable according to social convention.
+******
+word: wrong
+part_of_speech: adjective
+definition: Designating the side, as of a garment, that is less finished and not intended to show:  socks worn wrong side out. 
+******
+word: angry
+part_of_speech: adjective
+definition: Feeling or showing anger; incensed or enraged:  angry at a rude neighbor; angry with a salesclerk.  
+******
+word: angry
+part_of_speech: adjective
+definition: Indicative of or resulting from anger:  an angry silence. 
+******
+word: angry
+part_of_speech: adjective
+definition: Having a menacing aspect; threatening:  angry clouds on the horizon. 
+******
+word: angry
+part_of_speech: adjective
+definition: Chiefly New England &amp; Midland U.S.   Inflamed and painful:  an angry sore. 
+******
+word: bewildered
+part_of_speech: adjective
+definition: Baffled, confused, mystified, at a loss, or uncertain.
+******
+word: clumsy
+part_of_speech: adjective
+definition: Lacking physical coordination, skill, or grace; awkward.
+******
+word: clumsy
+part_of_speech: adjective
+definition: Awkwardly constructed; unwieldy:  clumsy wooden shoes; a clumsy sentence. 
+******
+word: clumsy
+part_of_speech: adjective
+definition: Gauche; inept:  a clumsy excuse. 
+******
+word: defeated
+part_of_speech: adjective
+definition: subjugated, beaten, overcome
+******
+word: embarrassed
+part_of_speech: adjective
+definition: Having a feeling of shameful discomfort.
+******
+word: fierce
+part_of_speech: adjective
+definition: Having a savage and violent nature; ferocious. See Synonyms at cruel.
+******
+word: fierce
+part_of_speech: adjective
+definition: Extremely severe or violent; terrible: "the fierce thunders roar me their music”  ( Ezra Pound). 
+******
+word: fierce
+part_of_speech: adjective
+definition: Extremely intense or ardent:  fierce loyalty.  See Synonyms at intense.
+******
+word: fierce
+part_of_speech: adjective
+definition: Strenuously active or resolute:  a fierce attempt to escape. 
+******
+word: fierce
+part_of_speech: adjective
+definition: Informal   Very difficult or unpleasant:  a fierce exam. 
+******
+word: fierce
+part_of_speech: adjective
+definition: Savage or threatening in appearance.
+******
+word: grumpy
+part_of_speech: adjective
+definition: Surly and peevish; cranky.
+******
+word: helpless
+part_of_speech: adjective
+definition: Unable to help oneself; powerless or incompetent.
+******
+word: helpless
+part_of_speech: adjective
+definition: Lacking support or protection:  They were left helpless in the storm. 
+******
+word: helpless
+part_of_speech: adjective
+definition: Impossible to control; involuntary:  helpless laughter. 
+******
+word: itchy
+part_of_speech: adjective
+definition: Having or causing an itching sensation.
+******
+word: itchy
+part_of_speech: adjective
+definition: Restless or nervous.
+******
+word: jealous
+part_of_speech: adjective
+definition: Fearful or wary of being supplanted; apprehensive of losing affection or position.
+******
+word: jealous
+part_of_speech: adjective
+definition: Resentful or bitter in rivalry; envious:  jealous of the success of others. 
+******
+word: jealous
+part_of_speech: adjective
+definition: Inclined to suspect rivalry.
+******
+word: jealous
+part_of_speech: adjective
+definition: Having to do with or arising from feelings of envy, apprehension, or bitterness:  jealous thoughts. 
+******
+word: jealous
+part_of_speech: adjective
+definition: Vigilant in guarding something:  We are jealous of our good name. 
+******
+word: jealous
+part_of_speech: adjective
+definition: Intolerant of disloyalty or infidelity; autocratic:  a jealous God. 
+******
+word: lazy
+part_of_speech: adjective
+definition: Resistant to work or exertion; disposed to idleness.
+******
+word: lazy
+part_of_speech: adjective
+definition: Slow-moving; sluggish:  a lazy river. 
+******
+word: lazy
+part_of_speech: adjective
+definition: Conducive to idleness or indolence:  a lazy summer day. 
+******
+word: lazy
+part_of_speech: adjective
+definition: Depicted as reclining or lying on its side. Used of a brand on livestock.
+******
+word: mysterious
+part_of_speech: adjective
+definition: Of, relating to, or being a mystery:  mysterious and infinite truths. 
+******
+word: mysterious
+part_of_speech: adjective
+definition: Simultaneously arousing wonder and inquisitiveness, and eluding explanation or comprehension:  a mysterious visitor; mysterious conduct. 
+******
+word: nervous
+part_of_speech: adjective
+definition: Of or relating to the nerves or nervous system:  nervous tissue. 
+******
+word: nervous
+part_of_speech: adjective
+definition: Stemming from or affecting the nerves or nervous system:  a nervous disorder. 
+******
+word: nervous
+part_of_speech: adjective
+definition: Easily agitated or distressed; high-strung or jumpy.
+******
+word: nervous
+part_of_speech: adjective
+definition: Marked by or having a feeling of unease or apprehension:  nervous moments before takeoff. 
+******
+word: nervous
+part_of_speech: adjective
+definition: Vigorous in style or feeling; spirited: "the nervous thrust of a modern creation”  ( Henry A. Kissinger). 
+******
+word: nervous
+part_of_speech: adjective
+definition: Archaic   Strong; sinewy.
+******
+word: obnoxious
+part_of_speech: adjective
+definition: Very annoying or objectionable; offensive or odious: "I know no method to secure the repeal of bad or obnoxious laws so effective as their stringent execution”  ( Ulysses S. Grant). 
+******
+word: obnoxious
+part_of_speech: adjective
+definition: Archaic   Exposed to harm, injury, or evil: "The town ... now lies obnoxious to its foes”  ( John Bunyan). 
+******
+word: obnoxious
+part_of_speech: adjective
+definition: Archaic   Deserving of or liable to censure.
+******
+word: panicky
+part_of_speech: adjective
+definition: In a state of panic.
+******
+word: repulsive
+part_of_speech: adjective
+definition: Causing repugnance or aversion; disgusting. See Synonyms at offensive.
+******
+word: repulsive
+part_of_speech: adjective
+definition: Tending to repel or drive off.
+******
+word: repulsive
+part_of_speech: adjective
+definition: Physics   Opposing in direction:  a repulsive force. 
+******
+word: scary
+part_of_speech: adjective
+definition: Causing fright or alarm.
+******
+word: scary
+part_of_speech: adjective
+definition: Easily scared; very timid.
+******
+word: thoughtless
+part_of_speech: adjective
+definition: Marked by or showing lack of due thought or care; careless. See Synonyms at careless.
+******
+word: thoughtless
+part_of_speech: adjective
+definition: Inconsiderate; inattentive:  a thoughtless remark. 
+******
+word: thoughtless
+part_of_speech: adjective
+definition: Lacking thought:  The debate turned into thoughtless bickering. 
+******
+word: uptight
+part_of_speech: adjective
+definition: Slang   Tense; nervous.
+******
+word: uptight
+part_of_speech: adjective
+definition: Slang   Financially pressed; destitute.
+******
+word: uptight
+part_of_speech: adjective
+definition: Slang   Outraged; angry.
+******
+word: uptight
+part_of_speech: adjective
+definition: Slang   Rigidly conventional, as in manners, opinions, and tastes: "She sees this headlong, headstrong, plunge into worldliness as a protracted process of shucking the shame of her uptight upbringing”  ( James Wolcott). 
+******
+word: worried
+part_of_speech: adjective
+definition: Thinking about unpleasant things that have happened or that might happen; feeling afraid and unhappy.
+******
+word: agreeable
+part_of_speech: adjective
+definition: To one's liking; pleasing:  agreeable weather. 
+******
+word: agreeable
+part_of_speech: adjective
+definition: Suitable; conformable:  a practice agreeable to the law. 
+******
+word: agreeable
+part_of_speech: adjective
+definition: Ready to consent or submit:  I am agreeable to your plan. 
+******
+word: brave
+part_of_speech: adjective
+definition: Possessing or displaying courage; valiant.
+******
+word: brave
+part_of_speech: adjective
+definition: Making a fine display; impressive or showy: "a coat of brave red lipstick on a mouth so wrinkled that it didn't even have a clear outline”  ( Anne Tyler). 
+******
+word: brave
+part_of_speech: adjective
+definition: Excellent; great: "The Romans were like brothers/In the brave days of old”  ( Thomas Macaulay). 
+******
+word: calm
+part_of_speech: adjective
+definition: Nearly or completely motionless; undisturbed:  the calm surface of the lake. 
+******
+word: calm
+part_of_speech: adjective
+definition: Not excited or agitated; composed:  The President was calm throughout the global crisis. 
+******
+word: delightful
+part_of_speech: adjective
+definition: Greatly pleasing.
+******
+word: eager
+part_of_speech: adjective
+definition: Having or showing keen interest, intense desire, or impatient expectancy. See Usage Note at anxious.
+******
+word: eager
+part_of_speech: adjective
+definition: Obsolete   Tart; sharp; cutting.
+******
+word: faithful
+part_of_speech: adjective
+definition: Adhering firmly and devotedly, as to a person, cause, or idea; loyal.
+******
+word: faithful
+part_of_speech: adjective
+definition: Engaging in sex only with one's spouse or only with one's partner in a sexual relationship.
+******
+word: faithful
+part_of_speech: adjective
+definition: Having or full of faith.
+******
+word: faithful
+part_of_speech: adjective
+definition: Worthy of trust or belief; reliable.
+******
+word: faithful
+part_of_speech: adjective
+definition: Consistent with truth or actuality:  a faithful reproduction of the portrait. 
+******
+word: gentle
+part_of_speech: adjective
+definition: Considerate or kindly in disposition; amiable and tender.
+******
+word: gentle
+part_of_speech: adjective
+definition: Not harsh or severe; mild and soft:  a gentle scolding; a gentle tapping at the window. 
+******
+word: gentle
+part_of_speech: adjective
+definition: Easily managed or handled; docile:  a gentle horse. 
+******
+word: gentle
+part_of_speech: adjective
+definition: Not steep or sudden; gradual:  a gentle incline. 
+******
+word: gentle
+part_of_speech: adjective
+definition: Of good family; wellborn:  a child of gentle birth. 
+******
+word: gentle
+part_of_speech: adjective
+definition: Suited to one of good breeding; refined and polite:  a gentle greeting to a stranger. 
+******
+word: gentle
+part_of_speech: adjective
+definition: Archaic   Noble; chivalrous:  a gentle knight. 
+******
+word: happy
+part_of_speech: adjective
+definition: Characterized by good luck; fortunate.
+******
+word: happy
+part_of_speech: adjective
+definition: Enjoying, showing, or marked by pleasure, satisfaction, or joy.
+******
+word: happy
+part_of_speech: adjective
+definition: Being especially well-adapted; felicitous:  a happy turn of phrase. 
+******
+word: happy
+part_of_speech: adjective
+definition: Cheerful; willing:  happy to help. 
+******
+word: happy
+part_of_speech: adjective
+definition: Characterized by a spontaneous or obsessive inclination to use something. Often used in combination:  trigger-happy. 
+******
+word: happy
+part_of_speech: adjective
+definition: Enthusiastic about or involved with to a disproportionate degree. Often used in combination:  money-happy; clothes-happy. 
+******
+word: jolly
+part_of_speech: adjective
+definition: Full of good humor and high spirits.
+******
+word: jolly
+part_of_speech: adjective
+definition: Exhibiting or occasioning happiness or mirth; cheerful:  a jolly tune. 
+******
+word: jolly
+part_of_speech: adjective
+definition: Greatly pleasing; enjoyable:  had a jolly time. 
+******
+word: kind
+part_of_speech: adjective
+definition: Of a friendly, generous, or warm-hearted nature.
+******
+word: kind
+part_of_speech: adjective
+definition: Showing sympathy or understanding; charitable:  a kind word. 
+******
+word: kind
+part_of_speech: adjective
+definition: Humane; considerate:  kind to animals. 
+******
+word: kind
+part_of_speech: adjective
+definition: Forbearing; tolerant:  Our neighbor was very kind about the window we broke. 
+******
+word: kind
+part_of_speech: adjective
+definition: Generous; liberal:  kind words of praise. 
+******
+word: kind
+part_of_speech: adjective
+definition: Agreeable; beneficial:  a dry climate kind to asthmatics. 
+******
+word: lively
+part_of_speech: adjective
+definition: Full of life and energy; vigorous:  a lively baby. 
+******
+word: lively
+part_of_speech: adjective
+definition: Full of spirit; gay and animated:  a lively tune. 
+******
+word: lively
+part_of_speech: adjective
+definition: Marked by animated intelligence:  a lively discussion. 
+******
+word: lively
+part_of_speech: adjective
+definition: Invigorating; refreshing.
+******
+word: lively
+part_of_speech: adjective
+definition: Effervescent; sparkling.
+******
+word: lively
+part_of_speech: adjective
+definition: Keen; brisk:  gave the kitchen floor a lively sweeping. 
+******
+word: lively
+part_of_speech: adjective
+definition: Rebounding readily upon impact; resilient:  a lively tennis ball.  See Synonyms at active.
+******
+word: nice
+part_of_speech: adjective
+definition: Pleasing and agreeable in nature:  had a nice time. 
+******
+word: nice
+part_of_speech: adjective
+definition: Having a pleasant or attractive appearance:  a nice dress; a nice face. 
+******
+word: nice
+part_of_speech: adjective
+definition: Exhibiting courtesy and politeness:  a nice gesture. 
+******
+word: nice
+part_of_speech: adjective
+definition: Of good character and reputation; respectable.
+******
+word: nice
+part_of_speech: adjective
+definition: Overdelicate or fastidious; fussy.
+******
+word: nice
+part_of_speech: adjective
+definition: Showing or requiring great precision or sensitive discernment; subtle:  a nice distinction; a nice sense of style. 
+******
+word: nice
+part_of_speech: adjective
+definition: Done with delicacy and skill:  a nice bit of craft. 
+******
+word: nice
+part_of_speech: adjective
+definition: Used as an intensive with and:  nice and warm. 
+******
+word: nice
+part_of_speech: adjective
+definition: Obsolete   Wanton; profligate: "For when mine hours/Were nice and lucky, men did ransom lives/Of me for jests”  ( Shakespeare). 
+******
+word: nice
+part_of_speech: adjective
+definition: Obsolete   Affectedly modest; coy: "Ere . . . /The nice Morn on th' Indian steep,/From her cabin'd loop-hole peep”  ( John Milton). 
+******
+word: obedient
+part_of_speech: adjective
+definition: Dutifully complying with the commands, orders, or instructions of one in authority.
+******
+word: proud
+part_of_speech: adjective
+definition: Feeling pleasurable satisfaction over an act, possession, quality, or relationship by which one measures one's stature or self-worth:  proud of one's child; proud to serve one's country. 
+******
+word: proud
+part_of_speech: adjective
+definition: Occasioning or being a reason for pride: "On January 1, 1900, Americans and Europeans greeted the twentieth century in the proud and certain belief that the next hundred years would make all things possible”  ( W. Bruce Lincoln). 
+******
+word: proud
+part_of_speech: adjective
+definition: Feeling or showing justifiable self-respect.
+******
+word: proud
+part_of_speech: adjective
+definition: Filled with or showing excessive self-esteem.
+******
+word: proud
+part_of_speech: adjective
+definition: Of great dignity; honored:  a proud name. 
+******
+word: proud
+part_of_speech: adjective
+definition: Majestic; magnificent:  proud alpine peaks. 
+******
+word: proud
+part_of_speech: adjective
+definition: Spirited. Used of an animal:  proud steeds. 
+******
+word: relieved
+part_of_speech: adjective
+definition: Experiencing or exhibiting relief.
+******
+word: silly
+part_of_speech: adjective
+definition: Exhibiting a lack of wisdom or good sense; foolish. See Synonyms at foolish.
+******
+word: silly
+part_of_speech: adjective
+definition: Lacking seriousness or responsibleness; frivolous:  indulged in silly word play; silly pet names for each other. 
+******
+word: silly
+part_of_speech: adjective
+definition: Semiconscious; dazed:  knocked silly by the impact. 
+******
+word: thankful
+part_of_speech: adjective
+definition: Aware and appreciative of a benefit; grateful.
+******
+word: thankful
+part_of_speech: adjective
+definition: Expressive of gratitude:  a thankful smile. 
+******
+word: victorious
+part_of_speech: adjective
+definition: Being the winner in a contest or struggle:  the victorious army. 
+******
+word: victorious
+part_of_speech: adjective
+definition: Characteristic of or expressing a sense of victory or fulfillment:  a victorious cheer. 
+******
+word: witty
+part_of_speech: adjective
+definition: Possessing or demonstrating wit in speech or writing; very clever and humorous.
+******
+word: witty
+part_of_speech: adjective
+definition: Characterized by or having the nature of wit; funny or jocular:  a witty saying. 
+******
+word: witty
+part_of_speech: adjective
+definition: Quick to discern and express amusing insights or relationships.
+******
+word: witty
+part_of_speech: adjective
+definition: Entertainingly and strikingly clever or original in concept, design, or performance:  a witty sculpture; witty choreography. 
+******
+word: zealous
+part_of_speech: adjective
+definition: Filled with or motivated by zeal; fervent.
+******
+word: broad
+part_of_speech: adjective
+definition: Wide in extent from side to side:  a broad river; broad shoulders. 
+******
+word: broad
+part_of_speech: adjective
+definition: Large in expanse; spacious:  a broad lawn. 
+******
+word: broad
+part_of_speech: adjective
+definition: Having a certain width from side to side:  A sidewalk three feet broad. 
+******
+word: broad
+part_of_speech: adjective
+definition: Full; open:  broad daylight. 
+******
+word: broad
+part_of_speech: adjective
+definition: Covering a wide scope; general:  a broad rule. 
+******
+word: broad
+part_of_speech: adjective
+definition: Liberal; tolerant:  had broad views regarding social services.  See Synonyms at broad-minded.
+******
+word: broad
+part_of_speech: adjective
+definition: Relating to or covering the main facts or the essential points.
+******
+word: broad
+part_of_speech: adjective
+definition: Plain and clear; obvious:  gave us a broad hint to leave. 
+******
+word: broad
+part_of_speech: adjective
+definition: Obsolete   Outspoken.
+******
+word: broad
+part_of_speech: adjective
+definition: Vulgar; ribald:  a broad joke. 
+******
+word: broad
+part_of_speech: adjective
+definition: Strikingly regional or dialectal:  a broad Southern accent. 
+******
+word: broad
+part_of_speech: adjective
+definition: Linguistics   Pronounced with the tongue placed low and flat and with the oral cavity wide open, like the a in father.
+******
+word: chubby
+part_of_speech: adjective
+definition: Rounded and plump. See Synonyms at fat.
+******
+word: crooked
+part_of_speech: adjective
+definition: Having or marked by bends, curves, or angles.
+******
+word: crooked
+part_of_speech: adjective
+definition: Informal   Dishonest or unscrupulous; fraudulent.
+******
+word: curved
+part_of_speech: adjective
+definition: Having a curve or curves.
+******
+word: deep
+part_of_speech: adjective
+definition: Extending far downward below a surface:  a deep hole in the river ice. 
+******
+word: deep
+part_of_speech: adjective
+definition: Extending far inward from an outer surface:  a deep cut. 
+******
+word: deep
+part_of_speech: adjective
+definition: Extending far backward from front to rear:  a deep walk-in refrigerator. 
+******
+word: deep
+part_of_speech: adjective
+definition: Extending far from side to side from a center:  a deep yard surrounding the house. 
+******
+word: deep
+part_of_speech: adjective
+definition: Far distant down or in:  deep in the woods. 
+******
+word: deep
+part_of_speech: adjective
+definition: Coming from or penetrating to a depth:  a deep sigh. 
+******
+word: deep
+part_of_speech: adjective
+definition: Sports   Located or taking place near the outer boundaries of the area of play:  deep left field. 
+******
+word: deep
+part_of_speech: adjective
+definition: Extending a specific distance in a given direction:  snow four feet deep. 
+******
+word: deep
+part_of_speech: adjective
+definition: Far distant in time or space:  deep in the past. 
+******
+word: deep
+part_of_speech: adjective
+definition: Difficult to penetrate or understand; recondite:  a deep metaphysical theory. 
+******
+word: deep
+part_of_speech: adjective
+definition: Of a mysterious or obscure nature:  a deep secret; ancient and deep tribal rites. 
+******
+word: deep
+part_of_speech: adjective
+definition: Very learned or intellectual; wise:  a deep philosopher. 
+******
+word: deep
+part_of_speech: adjective
+definition: Exhibiting great cunning or craft:  deep political machinations. 
+******
+word: deep
+part_of_speech: adjective
+definition: Of a grave or extreme nature:  deep trouble; deepest deceit. 
+******
+word: deep
+part_of_speech: adjective
+definition: Very absorbed or involved:  deep in thought; deep in financial difficulties. 
+******
+word: deep
+part_of_speech: adjective
+definition: Profound in quality or feeling:  a deep trance; deep devotion. 
+******
+word: deep
+part_of_speech: adjective
+definition: Rich and intense in shade. Used of a color:  a deep red. 
+******
+word: deep
+part_of_speech: adjective
+definition: Low in pitch; resonant:  a deep voice. 
+******
+word: deep
+part_of_speech: adjective
+definition: Covered or surrounded to a designated degree. Often used in combination:  waist-deep in the water; ankle-deep in snow. 
+******
+word: deep
+part_of_speech: adjective
+definition: Large in quantity or size; big:  deep cuts in the budget. 
+******
+word: deep
+part_of_speech: adjective
+definition: Sports   Having a sufficient number of capable reserve players:  That team is not very deep. 
+******
+word: flat
+part_of_speech: adjective
+definition: Having a horizontal surface without a slope, tilt, or curvature.
+******
+word: flat
+part_of_speech: adjective
+definition: Having a smooth, even, level surface:  a skirt sewed with fine flat seams. 
+******
+word: flat
+part_of_speech: adjective
+definition: Having a relatively broad surface in relation to thickness or depth:  a flat board.  See Synonyms at level.
+******
+word: flat
+part_of_speech: adjective
+definition: Stretched out or lying at full length along the ground; prone.
+******
+word: flat
+part_of_speech: adjective
+definition: Free of qualification; absolute:  a flat refusal. 
+******
+word: flat
+part_of_speech: adjective
+definition: Fixed; unvarying:  a flat rate. 
+******
+word: flat
+part_of_speech: adjective
+definition: Lacking interest or excitement; dull:  a flat scenario. 
+******
+word: flat
+part_of_speech: adjective
+definition: Lacking in flavor:  a flat stew that needs salt. 
+******
+word: flat
+part_of_speech: adjective
+definition: Having lost effervescence or sparkle:  flat beer. 
+******
+word: flat
+part_of_speech: adjective
+definition: Deflated. Used of a tire.
+******
+word: flat
+part_of_speech: adjective
+definition: Electrically discharged. Used of a storage battery.
+******
+word: flat
+part_of_speech: adjective
+definition: Of or relating to a horizontal line that displays no ups or downs and signifies the absence of physiological activity:  A flat electroencephalogram indicates a loss of brain function. 
+******
+word: flat
+part_of_speech: adjective
+definition: Commercially inactive; sluggish:  flat sales for the month. 
+******
+word: flat
+part_of_speech: adjective
+definition: Unmodulated; monotonous:  a flat voice. 
+******
+word: flat
+part_of_speech: adjective
+definition: Lacking variety in tint or shading; uniform: "The sky was bright but flat, the color of oyster shells”  ( Anne Tyler). 
+******
+word: flat
+part_of_speech: adjective
+definition: Not glossy; mat:  flat paint. 
+******
+word: flat
+part_of_speech: adjective
+definition: Music   Being below the correct pitch.
+******
+word: flat
+part_of_speech: adjective
+definition: Music   Being one half step lower than the corresponding natural key:  the key of B flat. 
+******
+word: flat
+part_of_speech: adjective
+definition: Designating the vowel a as pronounced in bad or cat.
+******
+word: flat
+part_of_speech: adjective
+definition: Nautical   Taut. Used of a sail.
+******
+word: high
+part_of_speech: adjective
+definition: Having a relatively great elevation; extending far upward:  a high mountain; a high tower. 
+******
+word: high
+part_of_speech: adjective
+definition: Extending a specified distance upward:  a cabinet ten feet high. 
+******
+word: high
+part_of_speech: adjective
+definition: Far or farther from a reference point:  was too high in the offensive zone to take a shot. 
+******
+word: high
+part_of_speech: adjective
+definition: Being at or near the peak or culminating stage:  the high tourist season; high summer. 
+******
+word: high
+part_of_speech: adjective
+definition: Advanced in development or complexity:  high forms of animal life; higher mathematics. 
+******
+word: high
+part_of_speech: adjective
+definition: Far removed in time; remote:  high antiquity. 
+******
+word: high
+part_of_speech: adjective
+definition: Slightly spoiled or tainted; gamy. Used of meat.
+******
+word: high
+part_of_speech: adjective
+definition: Having a bad smell; malodorous.
+******
+word: high
+part_of_speech: adjective
+definition: Having a pitch corresponding to a relatively large number of sound-wave cycles per second:  the high tones of a flute. 
+******
+word: high
+part_of_speech: adjective
+definition: Raised in pitch; not soft or hushed:  a high voice. 
+******
+word: high
+part_of_speech: adjective
+definition: Situated relatively far from the equator:  a high latitude. 
+******
+word: high
+part_of_speech: adjective
+definition: Of great importance:  set a high priority on funding the housing program. 
+******
+word: high
+part_of_speech: adjective
+definition: Eminent in rank or status:  a high official. 
+******
+word: high
+part_of_speech: adjective
+definition: Serious; grave:  high crimes and misdemeanors. 
+******
+word: high
+part_of_speech: adjective
+definition: Constituting a climax; crucial:  The chase scene is the high point of the film. 
+******
+word: high
+part_of_speech: adjective
+definition: Characterized by lofty or stirring events or themes:  high adventure; high drama. 
+******
+word: high
+part_of_speech: adjective
+definition: Lofty or exalted in quality or character:  a person of high morals. 
+******
+word: high
+part_of_speech: adjective
+definition: Greater than usual or expected, as in quantity, magnitude, cost, or degree: "A high price has to be paid for the happy marriage with the four healthy children”  ( Doris Lessing). 
+******
+word: high
+part_of_speech: adjective
+definition: Favorable:  He has a high opinion of himself. 
+******
+word: high
+part_of_speech: adjective
+definition: Of great force or violence:  high winds. 
+******
+word: high
+part_of_speech: adjective
+definition: Indicating excitement or euphoria:  high spirits. 
+******
+word: high
+part_of_speech: adjective
+definition: Slang   Intoxicated by or as if by alcohol or a drug, such as cocaine or marijuana.
+******
+word: high
+part_of_speech: adjective
+definition: Luxurious; extravagant:  high living. 
+******
+word: high
+part_of_speech: adjective
+definition: Linguistics   Of or relating to vowels produced with part of the tongue close to the palate, as in the vowel of tree.
+******
+word: high
+part_of_speech: adjective
+definition: Of, relating to, or being the gear configuration or setting, as in an automotive transmission, that produces the greatest vehicular speed with respect to engine speed.
+******
+word: hollow
+part_of_speech: adjective
+definition: Having a cavity, gap, or space within:  a hollow wall. 
+******
+word: hollow
+part_of_speech: adjective
+definition: Deeply indented or concave; sunken: "His bearded face already has a set, hollow look”  ( Conor Cruise O'Brien). 
+******
+word: hollow
+part_of_speech: adjective
+definition: Without substance or character:  a hollow person.  See Synonyms at vain.
+******
+word: hollow
+part_of_speech: adjective
+definition: Devoid of truth or validity; specious: "Theirs is at best a hollow form of flattery”  ( Annalyn Swan). 
+******
+word: hollow
+part_of_speech: adjective
+definition: Having a reverberating, sepulchral sound:  hollow footsteps. 
+******
+word: low
+part_of_speech: adjective
+definition: Having little relative height; not high or tall.
+******
+word: low
+part_of_speech: adjective
+definition: Rising only slightly above surrounding surfaces.
+******
+word: low
+part_of_speech: adjective
+definition: Situated or placed below normal height:  a low lighting fixture. 
+******
+word: low
+part_of_speech: adjective
+definition: Situated below the surrounding surfaces:  water standing in low spots. 
+******
+word: low
+part_of_speech: adjective
+definition: Dead and buried.
+******
+word: low
+part_of_speech: adjective
+definition: Cut to show the wearer's neck and chest; décolleté:  a low neckline. 
+******
+word: low
+part_of_speech: adjective
+definition: Near or at the horizon:  The sun is low in the sky. 
+******
+word: low
+part_of_speech: adjective
+definition: Close or closer to a reference point:  was low in the offensive zone, near the goal. 
+******
+word: low
+part_of_speech: adjective
+definition: Linguistics   Produced with part or all of the tongue depressed, as a, pronounced (ä), in father. Used of vowels.
+******
+word: low
+part_of_speech: adjective
+definition: Of less than usual or average depth; shallow:  The river is low. 
+******
+word: low
+part_of_speech: adjective
+definition: Humble in status or character; lowly:  of low birth. 
+******
+word: low
+part_of_speech: adjective
+definition: Biology   Of relatively simple structure in the scale of living organisms.
+******
+word: low
+part_of_speech: adjective
+definition: Unrefined; coarse:  low humor. 
+******
+word: low
+part_of_speech: adjective
+definition: Violating standards of morality or decency; base:  a low stunt to pull.  See Synonyms at mean2.
+******
+word: low
+part_of_speech: adjective
+definition: Lacking strength or vigor; weak.
+******
+word: low
+part_of_speech: adjective
+definition: Lacking liveliness or good spirits; discouraged or dejected.
+******
+word: low
+part_of_speech: adjective
+definition: Below average in degree, intensity, or amount:  a low temperature. 
+******
+word: low
+part_of_speech: adjective
+definition: Below an average or a standard:  low wages; a low level of communication. 
+******
+word: low
+part_of_speech: adjective
+definition: Ranked near the beginning of an ascending series or scale:  a low number; a low grade of oil. 
+******
+word: low
+part_of_speech: adjective
+definition: Relating to or being latitudes nearest to the equator.
+******
+word: low
+part_of_speech: adjective
+definition: Relatively small. Used of a cost, price, or other value:  a low fee; a low income. 
+******
+word: low
+part_of_speech: adjective
+definition: Having a pitch corresponding to a relatively small number of sound-wave cycles per second.
+******
+word: low
+part_of_speech: adjective
+definition: Not loud; soft:  a low murmur. 
+******
+word: low
+part_of_speech: adjective
+definition: Being near total depletion:  My savings account is low. 
+******
+word: low
+part_of_speech: adjective
+definition: Not adequately provided or equipped; short:  low on supplies. 
+******
+word: low
+part_of_speech: adjective
+definition: Depreciatory; disparaging:  a low opinion of him. 
+******
+word: low
+part_of_speech: adjective
+definition: Brought down or reduced in health or wealth:  in a low state. 
+******
+word: low
+part_of_speech: adjective
+definition: Of, relating to, or being the gear configuration or setting, as in an automotive transmission, that produces the least vehicular speed with respect to engine speed.
+******
+word: narrow
+part_of_speech: adjective
+definition: Of small or limited width, especially in comparison with length.
+******
+word: narrow
+part_of_speech: adjective
+definition: Limited in area or scope; cramped.
+******
+word: narrow
+part_of_speech: adjective
+definition: Lacking flexibility; rigid:  narrow opinions. 
+******
+word: narrow
+part_of_speech: adjective
+definition: Barely sufficient; close:  a narrow margin of victory. 
+******
+word: narrow
+part_of_speech: adjective
+definition: Painstakingly thorough or attentive; meticulous:  narrow scrutiny. 
+******
+word: narrow
+part_of_speech: adjective
+definition: Linguistics   Tense.
+******
+word: round
+part_of_speech: adjective
+definition: Being such that every part of the surface or the circumference is equidistant from the center:  a round ball. 
+******
+word: round
+part_of_speech: adjective
+definition: Moving in or forming a circle.
+******
+word: round
+part_of_speech: adjective
+definition: Shaped like a cylinder; cylindrical.
+******
+word: round
+part_of_speech: adjective
+definition: Rather rounded in shape:  the child's round face. 
+******
+word: round
+part_of_speech: adjective
+definition: Full in physique; plump:  a round figure. 
+******
+word: round
+part_of_speech: adjective
+definition: Linguistics   Formed or articulated with the lips in a rounded shape:  a round vowel. 
+******
+word: round
+part_of_speech: adjective
+definition: Full in tone; sonorous.
+******
+word: round
+part_of_speech: adjective
+definition: Whole or complete; full:  a round dozen. 
+******
+word: round
+part_of_speech: adjective
+definition: Mathematics   Expressed or designated as a whole number or integer; not fractional.
+******
+word: round
+part_of_speech: adjective
+definition: Not exact; approximate:  a round estimate. 
+******
+word: round
+part_of_speech: adjective
+definition: Large; considerable:  a round sum of money. 
+******
+word: round
+part_of_speech: adjective
+definition: Brought to satisfactory conclusion or completion; finished.
+******
+word: round
+part_of_speech: adjective
+definition: Outspoken; blunt:  a round scolding. 
+******
+word: round
+part_of_speech: adjective
+definition: Done with full force; unrestrained:  gave me a round thrashing. 
+******
+word: shallow
+part_of_speech: adjective
+definition: Measuring little from bottom to top or surface; lacking physical depth.
+******
+word: shallow
+part_of_speech: adjective
+definition: Lacking depth of intellect, emotion, or knowledge: "This is a shallow parody of America”  ( Lloyd Rose). 
+******
+word: shallow
+part_of_speech: adjective
+definition: Marked by insufficient inhalation of air; weak:  shallow respirations. 
+******
+word: shallow
+part_of_speech: adjective
+definition: In the part of a playing area that is closer to home plate:  shallow left field. 
+******
+word: skinny
+part_of_speech: adjective
+definition: Very thin. See Synonyms at lean2.
+******
+word: skinny
+part_of_speech: adjective
+definition: Of, relating to, or resembling skin.
+******
+word: square
+part_of_speech: adjective
+definition: Having four equal sides and four right angles.
+******
+word: square
+part_of_speech: adjective
+definition: Forming a right angle.
+******
+word: square
+part_of_speech: adjective
+definition: Expressed in units measuring area:  square feet. 
+******
+word: square
+part_of_speech: adjective
+definition: Having a specified length in each of two equal dimensions:  a room that is 12 feet square. 
+******
+word: square
+part_of_speech: adjective
+definition: Having a base that is a square:  a square pyramid. 
+******
+word: square
+part_of_speech: adjective
+definition: Nautical   Set at right angles to the mast and keel. Used of the yards of a square-rigged ship.
+******
+word: square
+part_of_speech: adjective
+definition: Approximately rectangular and equilateral in cross section:  a square house. 
+******
+word: square
+part_of_speech: adjective
+definition: Characterized by blocklike solidity or sturdiness.
+******
+word: square
+part_of_speech: adjective
+definition: Honest; direct:  a square answer. 
+******
+word: square
+part_of_speech: adjective
+definition: Just; equitable:  a square deal. 
+******
+word: square
+part_of_speech: adjective
+definition: Having all accounts settled; even.
+******
+word: square
+part_of_speech: adjective
+definition: Sports   Even; tied.
+******
+word: square
+part_of_speech: adjective
+definition: Slang   Rigidly conventional; dull.
+******
+word: steep
+part_of_speech: adjective
+definition: Having a sharp inclination; precipitous.
+******
+word: steep
+part_of_speech: adjective
+definition: At a rapid or precipitous rate:  a steep rise in salaries. 
+******
+word: steep
+part_of_speech: adjective
+definition: Excessive; stiff:  a steep price. 
+******
+word: steep
+part_of_speech: adjective
+definition: Ambitious; difficult:  a steep undertaking. 
+******
+word: straight
+part_of_speech: adjective
+definition: Extending continuously in the same direction without curving:  a straight line. 
+******
+word: straight
+part_of_speech: adjective
+definition: Having no waves or bends:  straight hair. 
+******
+word: straight
+part_of_speech: adjective
+definition: Not bent or bowed; rigid or erect:  a straight, strong back. 
+******
+word: straight
+part_of_speech: adjective
+definition: Sports   Of or relating to a midair position in diving or gymnastics in which the body is held rigid without bending at the hips or knees.
+******
+word: straight
+part_of_speech: adjective
+definition: Perfectly horizontal or vertical; level or even:  The mirror isn't straight. 
+******
+word: straight
+part_of_speech: adjective
+definition: Direct and candid:  a straight answer. 
+******
+word: straight
+part_of_speech: adjective
+definition: Following a direct or correct method or approach; systematic:  straight reasoning. 
+******
+word: straight
+part_of_speech: adjective
+definition: Coming from a reliable source; factual:  a straight tip; straight information. 
+******
+word: straight
+part_of_speech: adjective
+definition: Showing or marked by honesty or fair-mindedness:  straight business dealings. 
+******
+word: straight
+part_of_speech: adjective
+definition: Right; correct:  made sure the facts were straight in the report. 
+******
+word: straight
+part_of_speech: adjective
+definition: Neatly arranged; orderly:  The room is straight again. 
+******
+word: straight
+part_of_speech: adjective
+definition: Uninterrupted; consecutive:  sick for five straight days; their fourth straight victory. 
+******
+word: straight
+part_of_speech: adjective
+definition: Having the parts or details in correct sequence.
+******
+word: straight
+part_of_speech: adjective
+definition: Games   Constituting a straight in poker.
+******
+word: straight
+part_of_speech: adjective
+definition: Characterized by undeviating support, as of a principle or a political party:  always votes a straight party line; a straight Democrat. 
+******
+word: straight
+part_of_speech: adjective
+definition: Not deviating from what is considered socially normal, usual, or acceptable; conventional.
+******
+word: straight
+part_of_speech: adjective
+definition: Conventional to an extreme degree.
+******
+word: straight
+part_of_speech: adjective
+definition: Heterosexual.
+******
+word: straight
+part_of_speech: adjective
+definition: Slang   Not being under the influence of alcohol or drugs.
+******
+word: straight
+part_of_speech: adjective
+definition: Not deviating from the normal or strict form:  straight Freudian analysis. 
+******
+word: straight
+part_of_speech: adjective
+definition: Not altered, embellished, or modified:  does straight comedy. 
+******
+word: straight
+part_of_speech: adjective
+definition: Concerned with serious or important matters:  a straight drama without comedy or music. 
+******
+word: straight
+part_of_speech: adjective
+definition: Of or relating to a straight man.
+******
+word: straight
+part_of_speech: adjective
+definition: Not mixed with anything else; undiluted:  straight bourbon. 
+******
+word: straight
+part_of_speech: adjective
+definition: Sold without discount regardless of the amount purchased.
+******
+word: big
+part_of_speech: adjective
+definition: Of considerable size, number, quantity, magnitude, or extent; large. See Synonyms at large.
+******
+word: big
+part_of_speech: adjective
+definition: Of great force; strong:  a big wind; in a big rage. 
+******
+word: big
+part_of_speech: adjective
+definition: Obsolete   Of great strength.
+******
+word: big
+part_of_speech: adjective
+definition: Mature or grown-up:  big enough to take the bus by herself. 
+******
+word: big
+part_of_speech: adjective
+definition: Older or eldest. Used especially of a sibling:  My big brother is leaving for college next week. 
+******
+word: big
+part_of_speech: adjective
+definition: Pregnant:  big with child. 
+******
+word: big
+part_of_speech: adjective
+definition: Filled up; brimming over:  felt big with love. 
+******
+word: big
+part_of_speech: adjective
+definition: Having or exercising considerable authority, control, or influence:  a big official; a big chief. 
+******
+word: big
+part_of_speech: adjective
+definition: Conspicuous in position, wealth, or importance; prominent:  a big figure in the peace movement. 
+******
+word: big
+part_of_speech: adjective
+definition: Of great significance; momentous:  a big decision; a big victory. 
+******
+word: big
+part_of_speech: adjective
+definition: Informal   Widely liked, used, or practiced; popular: "For public opinion . . . has grown harsh and yuppie-bashing is big”  ( Sally Jacobs). 
+******
+word: big
+part_of_speech: adjective
+definition: Informal   Self-important; cocky:  You're too big for your own good. 
+******
+word: big
+part_of_speech: adjective
+definition: Loud and firm; resounding:  a big voice. 
+******
+word: big
+part_of_speech: adjective
+definition: Bountiful; generous:  had a big heart. 
+******
+word: colossal
+part_of_speech: adjective
+definition: Of a size, extent, or degree that elicits awe or taxes belief; immense. See Synonyms at enormous.
+******
+word: fat
+part_of_speech: adjective
+definition: Having much or too much fat or flesh; plump or obese.
+******
+word: fat
+part_of_speech: adjective
+definition: Full of fat or oil; greasy.
+******
+word: fat
+part_of_speech: adjective
+definition: Abounding in desirable elements.
+******
+word: fat
+part_of_speech: adjective
+definition: Fertile or productive; rich: "It was a fine, green, fat landscape”  ( Robert Louis Stevenson). 
+******
+word: fat
+part_of_speech: adjective
+definition: Having an abundance or amplitude; well-stocked:  a fat larder. 
+******
+word: fat
+part_of_speech: adjective
+definition: Yielding profit or plenty; lucrative or rewarding:  a fat promotion. 
+******
+word: fat
+part_of_speech: adjective
+definition: Prosperous; wealthy:  grew fat on illegal profits. 
+******
+word: fat
+part_of_speech: adjective
+definition: Thick; large:  a fat book. 
+******
+word: fat
+part_of_speech: adjective
+definition: Puffed up; swollen:  a fat lip. 
+******
+word: gigantic
+part_of_speech: adjective
+definition: Relating to or suggestive of a giant.
+******
+word: gigantic
+part_of_speech: adjective
+definition: Exceedingly large of its kind:  a gigantic toadstool. 
+******
+word: gigantic
+part_of_speech: adjective
+definition: Very large or extensive:  a gigantic corporation.  See Synonyms at enormous.
+******
+word: great
+part_of_speech: adjective
+definition: Very large in size.
+******
+word: great
+part_of_speech: adjective
+definition: Larger in size than others of the same kind.
+******
+word: great
+part_of_speech: adjective
+definition: Large in quantity or number:  A great throng awaited us.  See Synonyms at large.
+******
+word: great
+part_of_speech: adjective
+definition: Extensive in time or distance:  a great delay. 
+******
+word: great
+part_of_speech: adjective
+definition: Remarkable or outstanding in magnitude, degree, or extent:  a great crisis. 
+******
+word: great
+part_of_speech: adjective
+definition: Of outstanding significance or importance:  a great work of art. 
+******
+word: great
+part_of_speech: adjective
+definition: Chief or principal:  the great house on the estate. 
+******
+word: great
+part_of_speech: adjective
+definition: Superior in quality or character; noble: "For he was great, ere fortune made him so”  ( John Dryden). 
+******
+word: great
+part_of_speech: adjective
+definition: Powerful; influential:  one of the great nations of the West. 
+******
+word: great
+part_of_speech: adjective
+definition: Eminent; distinguished:  a great leader. 
+******
+word: great
+part_of_speech: adjective
+definition: Grand; aristocratic.
+******
+word: great
+part_of_speech: adjective
+definition: Informal   Enthusiastic:  a great lover of music. 
+******
+word: great
+part_of_speech: adjective
+definition: Informal   Very skillful:  great at algebra. 
+******
+word: great
+part_of_speech: adjective
+definition: Informal   Very good; first-rate:  We had a great time at the dance. 
+******
+word: great
+part_of_speech: adjective
+definition: Being one generation removed from the relative specified. Often used in combination:  a great-granddaughter. 
+******
+word: great
+part_of_speech: adjective
+definition: Archaic   Pregnant.
+******
+word: huge
+part_of_speech: adjective
+definition: Of exceedingly great size, extent, or quantity. See Synonyms at enormous.
+******
+word: huge
+part_of_speech: adjective
+definition: Of exceedingly great scope or nature:  the huge influence of the Hellenic world. 
+******
+word: immense
+part_of_speech: adjective
+definition: Extremely large; huge.
+******
+word: immense
+part_of_speech: adjective
+definition: Of boundless or immeasurable size or extent. See Synonyms at enormous.
+******
+word: immense
+part_of_speech: adjective
+definition: Informal   Surpassingly good; excellent.
+******
+word: large
+part_of_speech: adjective
+definition: Of greater than average size, extent, quantity, or amount; big.
+******
+word: large
+part_of_speech: adjective
+definition: Of greater than average scope, breadth, or capacity; comprehensive.
+******
+word: large
+part_of_speech: adjective
+definition: Important; significant:  had a large role in the negotiations; a large producer of paper goods. 
+******
+word: large
+part_of_speech: adjective
+definition: Understanding and tolerant; liberal:  a large and generous spirit. 
+******
+word: large
+part_of_speech: adjective
+definition: Of great magnitude or intensity; grand: "a rigid resistance to the large emotions”  ( Stephen Koch). 
+******
+word: large
+part_of_speech: adjective
+definition: Pretentious; boastful. Used of speech or manners.
+******
+word: large
+part_of_speech: adjective
+definition: Obsolete   Gross; coarse. Used of speech or language.
+******
+word: large
+part_of_speech: adjective
+definition: Nautical   Favorable. Used of a wind.
+******
+word: little
+part_of_speech: adjective
+definition: Small in size:  a little dining room.  See Synonyms at small.
+******
+word: little
+part_of_speech: adjective
+definition: Short in extent or duration; brief:  There is little time left. 
+******
+word: little
+part_of_speech: adjective
+definition: Small in quantity or degree:  little money. 
+******
+word: little
+part_of_speech: adjective
+definition: Unimportant; trivial:  a little matter. 
+******
+word: little
+part_of_speech: adjective
+definition: Narrow; petty:  mean little comments; a little mind consumed with trivia. 
+******
+word: little
+part_of_speech: adjective
+definition: Without much power or influence; of minor status.
+******
+word: little
+part_of_speech: adjective
+definition: Being at an early stage of growth; young:  a little child. 
+******
+word: little
+part_of_speech: adjective
+definition: Younger or youngest. Used especially of a sibling:  My little brother is leaving for college next week. 
+******
+word: mammoth
+part_of_speech: adjective
+definition: Of enormous size; huge. See Synonyms at enormous.
+******
+word: massive
+part_of_speech: adjective
+definition: Consisting of or making up a large mass; bulky, heavy, and solid:  a massive piece of furniture. 
+******
+word: massive
+part_of_speech: adjective
+definition: Large or imposing, as in quantity, scope, degree, intensity, or scale: "Local defense must be reinforced by the further deterrent of massive retaliatory power”  ( John Foster Dulles).  See Synonyms at heavy.
+******
+word: massive
+part_of_speech: adjective
+definition: Large in comparison with the usual amount:  a massive dose of a drug. 
+******
+word: massive
+part_of_speech: adjective
+definition: Pathology   Affecting a large area of bodily tissue; widespread and severe:  massive gangrene. 
+******
+word: massive
+part_of_speech: adjective
+definition: Mineralogy   Lacking internal crystalline structure; amorphous.
+******
+word: massive
+part_of_speech: adjective
+definition: Geology   Without internal structure or layers and homogeneous in composition. Used of a rock.
+******
+word: miniature
+part_of_speech: adjective
+definition: Being on a small or greatly reduced scale. See Synonyms at small.
+******
+word: petite
+part_of_speech: adjective
+definition: Small, slender, and trim. Used of a girl or woman. See Synonyms at small.
+******
+word: puny
+part_of_speech: adjective
+definition: Of inferior size, strength, or significance; weak:  a puny physique; puny excuses. 
+******
+word: puny
+part_of_speech: adjective
+definition: Chiefly Southern U.S.   Sickly; ill.
+******
+word: scrawny
+part_of_speech: adjective
+definition: Gaunt and bony. See Synonyms at lean2.
+******
+word: short
+part_of_speech: adjective
+definition: Having little length; not long.
+******
+word: short
+part_of_speech: adjective
+definition: Having little height; not tall.
+******
+word: short
+part_of_speech: adjective
+definition: Extending or traveling not far or not far enough:  a short toss. 
+******
+word: short
+part_of_speech: adjective
+definition: Lasting a brief time:  a short holiday. 
+******
+word: short
+part_of_speech: adjective
+definition: Appearing to pass quickly:  finished the job in a few short months. 
+******
+word: short
+part_of_speech: adjective
+definition: Not lengthy; succinct:  short and to the point. 
+******
+word: short
+part_of_speech: adjective
+definition: Rudely brief; abrupt.
+******
+word: short
+part_of_speech: adjective
+definition: Easily provoked; irascible.
+******
+word: short
+part_of_speech: adjective
+definition: Inadequate; insufficient:  oil in short supply; were short on experience. 
+******
+word: short
+part_of_speech: adjective
+definition: Lacking in length or amount:  a board that is short two inches. 
+******
+word: short
+part_of_speech: adjective
+definition: Lacking in breadth or scope:  a short view of the problem. 
+******
+word: short
+part_of_speech: adjective
+definition: Deficient in retentiveness:  a short memory. 
+******
+word: short
+part_of_speech: adjective
+definition: Not owning the stocks or commodities one is selling in anticipation of a fall in prices.
+******
+word: short
+part_of_speech: adjective
+definition: Of or relating to a short sale.
+******
+word: short
+part_of_speech: adjective
+definition: Containing a large amount of shortening; flaky:  a short pie crust. 
+******
+word: short
+part_of_speech: adjective
+definition: Not ductile; brittle:  short iron. 
+******
+word: short
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being a speech sound of relatively brief duration, as the first vowel sound in the Latin word mălus, "evil,” as compared with the same or a similar sound of relatively long duration, as the first vowel sound in the Latin word mālus, "apple tree.”
+******
+word: short
+part_of_speech: adjective
+definition: Grammar   Of, relating to, or being a vowel sound in English, such as the vowel sound (ă) in pat or (o͝o) in put, that is descended from a vowel of brief duration.
+******
+word: short
+part_of_speech: adjective
+definition: Unstressed; unaccented. Used of a syllable in accentual prosody.
+******
+word: short
+part_of_speech: adjective
+definition: Being of relatively brief duration. Used of a syllable in quantitative prosody.
+******
+word: short
+part_of_speech: adjective
+definition: Slang   Close to the end of a tour of military duty.
+******
+word: small
+part_of_speech: adjective
+definition: Being below the average in size or magnitude.
+******
+word: small
+part_of_speech: adjective
+definition: Limited in importance or significance; trivial:  a small matter. 
+******
+word: small
+part_of_speech: adjective
+definition: Limited in degree or scope:  small farm operations. 
+******
+word: small
+part_of_speech: adjective
+definition: Lacking position, influence, or status; minor: "A crowd of small writers had vainly attempted to rival Addison”  ( Thomas Macaulay). 
+******
+word: small
+part_of_speech: adjective
+definition: Unpretentious; modest:  made a small living; helped the cause in my own small way. 
+******
+word: small
+part_of_speech: adjective
+definition: Not fully grown; very young.
+******
+word: small
+part_of_speech: adjective
+definition: Narrow in outlook; petty:  a small mind. 
+******
+word: small
+part_of_speech: adjective
+definition: Having been belittled; humiliated:  Their comments made me feel small. 
+******
+word: small
+part_of_speech: adjective
+definition: Diluted; weak. Used of alcoholic beverages.
+******
+word: small
+part_of_speech: adjective
+definition: Lacking force or volume:  a small voice. 
+******
+word: tall
+part_of_speech: adjective
+definition: Having greater than ordinary height:  a tall woman. 
+******
+word: tall
+part_of_speech: adjective
+definition: Having considerable height, especially in relation to width; lofty:  tall trees. 
+******
+word: tall
+part_of_speech: adjective
+definition: Having a specified height:  a plant three feet tall. 
+******
+word: tall
+part_of_speech: adjective
+definition: Informal   Fanciful or exaggerated; boastful:  tall tales of heroic exploits. 
+******
+word: tall
+part_of_speech: adjective
+definition: Impressively great or difficult:  a tall order to fill. 
+******
+word: tall
+part_of_speech: adjective
+definition: Archaic   Excellent; fine.
+******
+word: teeny
+part_of_speech: adjective
+definition: Informal   Tiny.
+******
+word: tiny
+part_of_speech: adjective
+definition: Extremely small; minute. See Synonyms at small.
+******
+word: ancient
+part_of_speech: adjective
+definition: Of great age; very old.
+******
+word: ancient
+part_of_speech: adjective
+definition: Of or relating to times long past, especially those of the historical period before the fall of the Western Roman Empire (A.D. 476). See Synonyms at old.
+******
+word: ancient
+part_of_speech: adjective
+definition: Old-fashioned; antiquated.
+******
+word: ancient
+part_of_speech: adjective
+definition: Having the qualities associated with age, wisdom, or long use; venerable.
+******
+word: brief
+part_of_speech: adjective
+definition: Short in time, duration, length, or extent.
+******
+word: brief
+part_of_speech: adjective
+definition: Succinct; concise:  a brief account of the incident. 
+******
+word: brief
+part_of_speech: adjective
+definition: Curt; abrupt.
+******
+word: early
+part_of_speech: adjective
+definition: Of or occurring near the beginning of a given series, period of time, or course of events:  in the early morning; scored two runs in the early innings. 
+******
+word: early
+part_of_speech: adjective
+definition: Of or belonging to a previous or remote period of time:  the early inhabitants of the British Isles. 
+******
+word: early
+part_of_speech: adjective
+definition: Of or belonging to an initial stage of development:  an early form of life; an early computer. 
+******
+word: early
+part_of_speech: adjective
+definition: Occurring, developing, or appearing before the expected or usual time:  an early spring; an early retirement. 
+******
+word: early
+part_of_speech: adjective
+definition: Maturing or developing relatively soon:  an early variety of tomato. 
+******
+word: early
+part_of_speech: adjective
+definition: Occurring in the near future:  Observers predicted an early end to the negotiations. 
+******
+word: fast
+part_of_speech: adjective
+definition: Acting, moving, or capable of acting or moving quickly; swift.
+******
+word: fast
+part_of_speech: adjective
+definition: Accomplished in relatively little time:  a fast visit. 
+******
+word: fast
+part_of_speech: adjective
+definition: Acquired quickly with little effort and sometimes unscrupulously:  made a fast buck scalping tickets. 
+******
+word: fast
+part_of_speech: adjective
+definition: Quick to understand or learn; mentally agile:  a class for the faster students. 
+******
+word: fast
+part_of_speech: adjective
+definition: Indicating a time somewhat ahead of the actual time:  The clock is fast. 
+******
+word: fast
+part_of_speech: adjective
+definition: Allowing rapid movement or action:  a fast running track. 
+******
+word: fast
+part_of_speech: adjective
+definition: Designed for or compatible with a short exposure time:  fast film. 
+******
+word: fast
+part_of_speech: adjective
+definition: Disposed to dissipation; wild:  ran with a fast crowd. 
+******
+word: fast
+part_of_speech: adjective
+definition: Flouting conventional moral standards; sexually promiscuous.
+******
+word: fast
+part_of_speech: adjective
+definition: Resistant, as to destruction or fading:  fast colors. 
+******
+word: fast
+part_of_speech: adjective
+definition: Firmly fixed or fastened:  a fast grip. 
+******
+word: fast
+part_of_speech: adjective
+definition: Fixed firmly in place; secure:  shutters that are fast against the rain. 
+******
+word: fast
+part_of_speech: adjective
+definition: Firm in loyalty:  fast friends. 
+******
+word: fast
+part_of_speech: adjective
+definition: Lasting; permanent:  fast rules and regulations. 
+******
+word: fast
+part_of_speech: adjective
+definition: Deep; sound:  in a fast sleep. 
+******
+word: late
+part_of_speech: adjective
+definition: Coming, occurring, or remaining after the correct, usual, or expected time; delayed:  The bus is late.  See Synonyms at tardy.
+******
+word: late
+part_of_speech: adjective
+definition: Beginning after or continuing past the usual or expected hour:  a late breakfast; a late meeting. 
+******
+word: late
+part_of_speech: adjective
+definition: Occurring at an advanced hour, especially well into the evening or night:  a late movie on television; the late flight to Denver. 
+******
+word: late
+part_of_speech: adjective
+definition: Of or toward the end or more advanced part, as of a period or stage:  the late 19th century; a later symptom of the disease. 
+******
+word: late
+part_of_speech: adjective
+definition: Having begun or occurred just previous to the present time; recent:  a late development. 
+******
+word: late
+part_of_speech: adjective
+definition: Contemporary; up-to-date:  the latest fashion. 
+******
+word: late
+part_of_speech: adjective
+definition: Having recently occupied a position or place:  the company's late president gave the address. 
+******
+word: late
+part_of_speech: adjective
+definition: Dead, especially if only recently deceased:  in memory of the late explorer. 
+******
+word: modern
+part_of_speech: adjective
+definition: Of or relating to recent times or the present:  modern history. 
+******
+word: modern
+part_of_speech: adjective
+definition: Characteristic or expressive of recent times or the present; contemporary or up-to-date:  a modern lifestyle; a modern way of thinking. 
+******
+word: modern
+part_of_speech: adjective
+definition: Of or relating to a recently developed or advanced style, technique, or technology:  modern art; modern medicine. 
+******
+word: modern
+part_of_speech: adjective
+definition: Avant-garde; experimental.
+******
+word: modern
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being a living language or group of languages:  Modern Italian; Modern Romance languages. 
+******
+word: quick
+part_of_speech: adjective
+definition: Moving or functioning rapidly and energetically; speedy.
+******
+word: quick
+part_of_speech: adjective
+definition: Learning, thinking, or understanding with speed and dexterity; bright:  a quick mind. 
+******
+word: quick
+part_of_speech: adjective
+definition: Perceiving or responding with speed and sensitivity; keen.
+******
+word: quick
+part_of_speech: adjective
+definition: Reacting immediately and sharply:  a quick temper. 
+******
+word: quick
+part_of_speech: adjective
+definition: Occurring, achieved, or acquired in a relatively brief period of time:  a quick rise through the ranks; a quick profit. 
+******
+word: quick
+part_of_speech: adjective
+definition: Done or occurring immediately:  a quick inspection.  See Synonyms at fast1.
+******
+word: quick
+part_of_speech: adjective
+definition: Tending to react hastily:  quick to find fault. 
+******
+word: quick
+part_of_speech: adjective
+definition: Archaic   Alive.
+******
+word: quick
+part_of_speech: adjective
+definition: Archaic   Pregnant.
+******
+word: rapid
+part_of_speech: adjective
+definition: Moving, acting, or occurring with great speed. See Synonyms at fast1.
+******
+word: slow
+part_of_speech: adjective
+definition: Not moving or able to move quickly; proceeding at a low speed:  a slow train; slow walkers. 
+******
+word: slow
+part_of_speech: adjective
+definition: Marked by a retarded tempo:  a slow waltz. 
+******
+word: slow
+part_of_speech: adjective
+definition: Taking or requiring a long time:  the slow job of making bread. 
+******
+word: slow
+part_of_speech: adjective
+definition: Taking more time than is usual:  a slow worker; slow progress in the peace negotiations. 
+******
+word: slow
+part_of_speech: adjective
+definition: Allowing movement or action only at a low speed:  a slow track; a slow infield. 
+******
+word: slow
+part_of_speech: adjective
+definition: Registering a time or rate behind or below the correct one:  a slow clock. 
+******
+word: slow
+part_of_speech: adjective
+definition: Lacking in promptness or willingness; not precipitate:  They were slow to accept our invitation. 
+******
+word: slow
+part_of_speech: adjective
+definition: Characterized by a low volume of sales or transactions:  Business was slow today. 
+******
+word: slow
+part_of_speech: adjective
+definition: Lacking liveliness or interest; boring:  a slow party. 
+******
+word: slow
+part_of_speech: adjective
+definition: Not having or exhibiting intellectual or mental quickness:  a slow learner. 
+******
+word: slow
+part_of_speech: adjective
+definition: Only moderately warm; low:  a slow oven. 
+******
+word: swift
+part_of_speech: adjective
+definition: Moving or capable of moving with great speed; fast. See Synonyms at fast1.
+******
+word: swift
+part_of_speech: adjective
+definition: Coming, occurring, or accomplished quickly; instant:  a swift retort. 
+******
+word: swift
+part_of_speech: adjective
+definition: Quick to act or react; prompt:  swift to take steps. 
+******
+word: young
+part_of_speech: adjective
+definition: Being in an early period of life, development, or growth.
+******
+word: young
+part_of_speech: adjective
+definition: Newly begun or formed; not advanced:  The evening is still young. 
+******
+word: young
+part_of_speech: adjective
+definition: Of, belonging to, or suggestive of youth or early life:  He is young for his age. 
+******
+word: young
+part_of_speech: adjective
+definition: Vigorous or fresh; youthful.
+******
+word: young
+part_of_speech: adjective
+definition: Lacking experience; immature:  a young hand at plowing. 
+******
+word: young
+part_of_speech: adjective
+definition: Being the junior of two people having the same name.
+******
+word: young
+part_of_speech: adjective
+definition: Geology   Being of an early stage in a geologic cycle. Used of bodies of water and land formations.
+******
+word: bitter
+part_of_speech: adjective
+definition: Having or being a taste that is sharp, acrid, and unpleasant.
+******
+word: bitter
+part_of_speech: adjective
+definition: Causing a sharply unpleasant, painful, or stinging sensation; harsh:  enveloped in bitter cold; a bitter wind. 
+******
+word: bitter
+part_of_speech: adjective
+definition: Difficult or distasteful to accept, admit, or bear:  the bitter truth; bitter sorrow. 
+******
+word: bitter
+part_of_speech: adjective
+definition: Proceeding from or exhibiting strong animosity:  a bitter struggle; bitter foes. 
+******
+word: bitter
+part_of_speech: adjective
+definition: Resulting from or expressive of severe grief, anguish, or disappointment:  cried bitter tears. 
+******
+word: bitter
+part_of_speech: adjective
+definition: Marked by resentment or cynicism: "He was already a bitter elderly man with a gray face”  ( John Dos Passos). 
+******
+word: delicious
+part_of_speech: adjective
+definition: Highly pleasing or agreeable to the senses, especially of taste or smell.
+******
+word: delicious
+part_of_speech: adjective
+definition: Very pleasant; delightful:  a delicious revenge. 
+******
+word: fresh
+part_of_speech: adjective
+definition: New to one's experience; not encountered before.
+******
+word: fresh
+part_of_speech: adjective
+definition: Novel; different:  a fresh slant on the problem.  See Synonyms at new.
+******
+word: fresh
+part_of_speech: adjective
+definition: Recently made, produced, or harvested; not stale or spoiled:  fresh bread. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Not preserved, as by canning, smoking, or freezing:  fresh vegetables. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Not saline or salty:  fresh water. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Not yet used or soiled; clean:  a fresh sheet of paper. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Free from impurity or pollution; pure:  fresh air. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Additional; new:  fresh evidence. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Bright and clear; not dull or faded:  a fresh memory. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Having the glowing, unspoiled appearance of youth:  a fresh complexion. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Untried; inexperienced:  fresh recruits. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Having just arrived; straight:  fashions fresh from Paris. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Revived or reinvigorated; refreshed:  I was fresh as a daisy after the nap. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Fairly strong; brisk:  a fresh wind. 
+******
+word: fresh
+part_of_speech: adjective
+definition: Informal   Bold and saucy; impudent.
+******
+word: fresh
+part_of_speech: adjective
+definition: Having recently calved and therefore with milk. Used of a cow.
+******
+word: fresh
+part_of_speech: adjective
+definition: Slang   Excellent; first-rate.
+******
+word: greasy
+part_of_speech: adjective
+definition: Coated or soiled with grease.
+******
+word: greasy
+part_of_speech: adjective
+definition: Containing grease, especially too much grease:  a greasy hamburger. 
+******
+word: greasy
+part_of_speech: adjective
+definition: Suggestive of grease in slickness or slipperiness:  a greasy character. 
+******
+word: juicy
+part_of_speech: adjective
+definition: Full of juice; succulent.
+******
+word: juicy
+part_of_speech: adjective
+definition: Richly interesting:  a juicy mystery novel. 
+******
+word: juicy
+part_of_speech: adjective
+definition: Racy; titillating:  a juicy bit of gossip. 
+******
+word: juicy
+part_of_speech: adjective
+definition: Yielding profit; rewarding or gratifying:  a juicy raise; a juicy part in a play. 
+******
+word: hot
+part_of_speech: adjective
+definition: Having or giving off heat; capable of burning.
+******
+word: hot
+part_of_speech: adjective
+definition: Being at a high temperature.
+******
+word: hot
+part_of_speech: adjective
+definition: Being at or exhibiting a temperature that is higher than normal or desirable:  a hot forehead. 
+******
+word: hot
+part_of_speech: adjective
+definition: Causing a burning sensation, as in the mouth; spicy:  hot peppers; a hot curry. 
+******
+word: hot
+part_of_speech: adjective
+definition: Charged or energized with electricity:  a hot wire. 
+******
+word: hot
+part_of_speech: adjective
+definition: Radioactive, especially to a dangerous degree.
+******
+word: hot
+part_of_speech: adjective
+definition: Marked by intensity of emotion; ardent or fiery:  a hot temper. 
+******
+word: hot
+part_of_speech: adjective
+definition: Having or displaying great enthusiasm; eager:  hot for travel. 
+******
+word: hot
+part_of_speech: adjective
+definition: Informal   Arousing intense interest, excitement, or controversy:  a hot new book; a hot topic. 
+******
+word: hot
+part_of_speech: adjective
+definition: Informal   Marked by excited activity or energy:  a hot week on the stock market. 
+******
+word: hot
+part_of_speech: adjective
+definition: Violent; raging:  a hot battle. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Sexually excited or exciting.
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Recently stolen:  a hot car. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Wanted by the police:  a hot suspect. 
+******
+word: hot
+part_of_speech: adjective
+definition: Close to a successful solution or conclusion:  hot on the trail. 
+******
+word: hot
+part_of_speech: adjective
+definition: Informal   Most recent; new or fresh:  a hot news item; the hot fashions for fall. 
+******
+word: hot
+part_of_speech: adjective
+definition: Informal   Currently very popular or successful:  one of the hottest young talents around. 
+******
+word: hot
+part_of_speech: adjective
+definition: Informal   Requiring immediate action or attention:  a hot opportunity. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Very good or impressive. Often used in the negative:  I'm not so hot at math. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Funny or absurd:  told a hot one about the neighbors' dog. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Performing with great skill and daring:  a hot drummer. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Having or characterized by repeated successes:  a player who is on a hot streak. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Fast and responsive:  a hot sports car. 
+******
+word: hot
+part_of_speech: adjective
+definition: Slang   Unusually lucky:  hot at craps. 
+******
+word: hot
+part_of_speech: adjective
+definition: Music   Of, relating to, or being an emotionally charged style of performance marked by strong rhythms and improvisation:  hot jazz. 
+******
+word: hot
+part_of_speech: adjective
+definition: Bold and bright.
+******
+word: icy
+part_of_speech: adjective
+definition: Containing or covered with ice:  an icy road. 
+******
+word: icy
+part_of_speech: adjective
+definition: Bitterly cold; freezing:  an icy day.  See Synonyms at cold.
+******
+word: icy
+part_of_speech: adjective
+definition: Resembling ice:  icy fingers. 
+******
+word: icy
+part_of_speech: adjective
+definition: Chilling in manner:  an icy stare; icy detachment. 
+******
+word: loose
+part_of_speech: adjective
+definition: Not fastened, restrained, or contained:  loose bricks. 
+******
+word: loose
+part_of_speech: adjective
+definition: Not taut, fixed, or rigid:  a loose anchor line; a loose chair leg. 
+******
+word: loose
+part_of_speech: adjective
+definition: Free from confinement or imprisonment; unfettered:  criminals loose in the neighborhood; dogs that are loose on the streets. 
+******
+word: loose
+part_of_speech: adjective
+definition: Not tight-fitting or tightly fitted:  loose shoes. 
+******
+word: loose
+part_of_speech: adjective
+definition: Not bound, bundled, stapled, or gathered together:  loose papers. 
+******
+word: loose
+part_of_speech: adjective
+definition: Not compact or dense in arrangement or structure:  loose gravel. 
+******
+word: loose
+part_of_speech: adjective
+definition: Lacking a sense of restraint or responsibility; idle:  loose talk. 
+******
+word: loose
+part_of_speech: adjective
+definition: Not formal; relaxed:  a loose atmosphere at the club. 
+******
+word: loose
+part_of_speech: adjective
+definition: Lacking conventional moral restraint in sexual behavior.
+******
+word: loose
+part_of_speech: adjective
+definition: Not literal or exact:  a loose translation. 
+******
+word: loose
+part_of_speech: adjective
+definition: Characterized by a free movement of fluids in the body:  a loose cough; loose bowels. 
+******
+word: melted
+part_of_speech: adjective
+definition: Being in a liquid state as a result of melting.
+******
+word: nutritious
+part_of_speech: adjective
+definition: Providing nourishment; nourishing.
+******
+word: prickly
+part_of_speech: adjective
+definition: Having prickles.
+******
+word: prickly
+part_of_speech: adjective
+definition: Prickling or tingling or smarting:  a prickly sensation in my foot. 
+******
+word: prickly
+part_of_speech: adjective
+definition: Causing trouble or vexation; thorny:  a prickly situation. 
+******
+word: prickly
+part_of_speech: adjective
+definition: Bristling or irritable: "In consequence, he became rebarbative, prickly, spiteful”  ( Robert Craft). 
+******
+word: rainy
+part_of_speech: adjective
+definition: Characterized by, full of, or bringing rain.
+******
+word: rotten
+part_of_speech: adjective
+definition: Being in a state of putrefaction or decay; decomposed.
+******
+word: rotten
+part_of_speech: adjective
+definition: Having a foul odor resulting from or suggestive of decay; putrid.
+******
+word: rotten
+part_of_speech: adjective
+definition: Made weak or unsound by rot:  rotten floorboards. 
+******
+word: rotten
+part_of_speech: adjective
+definition: Morally corrupt or despicable:  She's rotten to the core. 
+******
+word: rotten
+part_of_speech: adjective
+definition: Very bad; wretched:  rotten weather. 
+******
+word: salty
+part_of_speech: adjective
+definition: Of, containing, or seasoned with salt.
+******
+word: salty
+part_of_speech: adjective
+definition: Suggestive of the sea or sailing life.
+******
+word: salty
+part_of_speech: adjective
+definition: Witty; pungent; earthy:  salty humor. 
+******
+word: sticky
+part_of_speech: adjective
+definition: Having the property of adhering or sticking to a surface; adhesive.
+******
+word: sticky
+part_of_speech: adjective
+definition: Covered with an adhesive agent.
+******
+word: sticky
+part_of_speech: adjective
+definition: Warm and humid; muggy:  a sticky day. 
+******
+word: sticky
+part_of_speech: adjective
+definition: Informal   Painful or difficult:  a sticky situation. 
+******
+word: sticky
+part_of_speech: adjective
+definition: Economics   Tending to remain the same despite changes in the economy. Used of prices or wages.
+******
+word: strong
+part_of_speech: adjective
+definition: Physically powerful; capable of exerting great physical force.
+******
+word: strong
+part_of_speech: adjective
+definition: Marked by great physical power:  a strong blow to the head. 
+******
+word: strong
+part_of_speech: adjective
+definition: In good or sound health; robust:  a strong constitution; a strong heart. 
+******
+word: strong
+part_of_speech: adjective
+definition: Economically or financially sound or thriving:  a strong economy. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having force of character, will, morality, or intelligence:  a strong personality. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having or showing ability or achievement in a specified field:  students who are strong in chemistry. 
+******
+word: strong
+part_of_speech: adjective
+definition: Capable of the effective exercise of authority:  a strong leader. 
+******
+word: strong
+part_of_speech: adjective
+definition: Capable of withstanding force or wear; solid, tough, or firm:  a strong building; a strong fabric. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having great binding strength:  a strong adhesive. 
+******
+word: strong
+part_of_speech: adjective
+definition: Not easily captured or defeated:  a strong flank; a strong defense. 
+******
+word: strong
+part_of_speech: adjective
+definition: Not easily upset; resistant to harmful or unpleasant influences:  strong nerves; a strong stomach. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having force or rapidity of motion:  a strong current. 
+******
+word: strong
+part_of_speech: adjective
+definition: Persuasive, effective, and cogent:  a strong argument. 
+******
+word: strong
+part_of_speech: adjective
+definition: Forceful and pointed; emphatic:  a strong statement. 
+******
+word: strong
+part_of_speech: adjective
+definition: Forthright and explicit, often offensively so:  strong language. 
+******
+word: strong
+part_of_speech: adjective
+definition: Extreme; drastic:  had to resort to strong measures. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having force of conviction or feeling; uncompromising:  strong faith; a strong supporter. 
+******
+word: strong
+part_of_speech: adjective
+definition: Intense in degree or quality:  a strong emotion; strong motivation. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having an intense or offensive effect on the senses:  strong light; strong vinegar; strong cologne. 
+******
+word: strong
+part_of_speech: adjective
+definition: Clear and loud:  a strong voice. 
+******
+word: strong
+part_of_speech: adjective
+definition: Readily noticeable; remarkable:  a strong resemblance; a strong contrast. 
+******
+word: strong
+part_of_speech: adjective
+definition: Readily detected or received:  a strong radio signal. 
+******
+word: strong
+part_of_speech: adjective
+definition: Having a high concentration of an essential or active ingredient:  mixed a strong solution of bleach and water. 
+******
+word: strong
+part_of_speech: adjective
+definition: Containing a considerable percentage of alcohol:  strong punch. 
+******
+word: strong
+part_of_speech: adjective
+definition: Powerfully effective:  a strong painkiller. 
+******
+word: strong
+part_of_speech: adjective
+definition: Characterized by a high degree of saturation.
+******
+word: strong
+part_of_speech: adjective
+definition: Having a specified number of units or members:  a military force 100,000 strong. 
+******
+word: strong
+part_of_speech: adjective
+definition: Marked by steady or rising prices:  a strong market. 
+******
+word: strong
+part_of_speech: adjective
+definition: Linguistics   Of or relating to those verbs in Germanic languages that form their past tense by a change in stem vowel, and their past participles by a change in stem vowel and sometimes by adding the suffix -(e)n, as sing, sang, sung or tear, tore, torn.
+******
+word: strong
+part_of_speech: adjective
+definition: Linguistics   Of or relating to the inflection of nouns or adjectives in Germanic languages with endings that historically did not contain a suffix with an n.
+******
+word: strong
+part_of_speech: adjective
+definition: Stressed or accented in pronunciation or poetic meter. Used of a word or syllable.
+******
+word: sweet
+part_of_speech: adjective
+definition: Having the taste of sugar or a substance containing or resembling sugar, as honey or saccharin.
+******
+word: sweet
+part_of_speech: adjective
+definition: Containing or derived from sugar.
+******
+word: sweet
+part_of_speech: adjective
+definition: Retaining some natural sugar; not dry:  a sweet wine. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Pleasing to the senses; agreeable:  the sweet song of the lark; a sweet face. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Pleasing to the mind or feelings; gratifying:  sweet revenge. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Having a pleasing disposition; lovable:  a sweet child. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Kind; gracious:  It was sweet of him to help out. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Fragrant; perfumed:  a sweet scent. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Not saline or salted:  sweet water; sweet butter. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Not spoiled, sour, or decaying; fresh:  sweet milk. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Free of acid or acidity:  sweet soil. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Low in sulfur content:  sweet fuel oil. 
+******
+word: sweet
+part_of_speech: adjective
+definition: Music   Of, relating to, or being a form of jazz characterized by adherence to a melodic line and to a time signature.
+******
+word: sweet
+part_of_speech: adjective
+definition: Used as an intensive:  took his own sweet time to finish; earns a sweet million per year. 
+******
+word: tart
+part_of_speech: adjective
+definition: Having a sharp pungent taste; sour. See Synonyms at sour.
+******
+word: tart
+part_of_speech: adjective
+definition: Sharp or bitter in tone or meaning; cutting.
+******
+word: tasteless
+part_of_speech: adjective
+definition: Lacking flavor; insipid.
+******
+word: tasteless
+part_of_speech: adjective
+definition: Not having or showing good taste.
+******
+word: uneven
+part_of_speech: adjective
+definition: Not equal, as in size, length, or quality.
+******
+word: uneven
+part_of_speech: adjective
+definition: Having ill-matched opponents:  an uneven contest. 
+******
+word: uneven
+part_of_speech: adjective
+definition: Not consistent or uniform:  an uneven color. 
+******
+word: uneven
+part_of_speech: adjective
+definition: Not smooth or level:  the uneven surface of a cobblestone road.  See Synonyms at rough.
+******
+word: uneven
+part_of_speech: adjective
+definition: Not straight or parallel:  uneven margins. 
+******
+word: uneven
+part_of_speech: adjective
+definition: Of, relating to, or being an odd number.
+******
+word: uneven
+part_of_speech: adjective
+definition: Obsolete   Not fair or equitable.
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking physical strength, energy, or vigor; feeble.
+******
+word: weak
+part_of_speech: adjective
+definition: Likely to fail under pressure, stress, or strain; lacking resistance:  a weak link in a chain. 
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking firmness of character or strength of will.
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking the proper strength or amount of ingredients:  weak coffee. 
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking the ability to function normally or fully:  a weak heart. 
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking aptitude or skill:  a weak student; weak in math. 
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking or resulting from a lack of intelligence.
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking persuasiveness; unconvincing:  a weak argument. 
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking authority or the power to govern.
+******
+word: weak
+part_of_speech: adjective
+definition: Lacking potency or intensity:  weak sunlight. 
+******
+word: weak
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being those verbs in Germanic languages that form a past tense and past participle by means of a dental suffix, as start, started; have, had; bring, brought.
+******
+word: weak
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being the inflection of nouns or adjectives in Germanic languages with a declensional suffix that historically contained an n.
+******
+word: weak
+part_of_speech: adjective
+definition: Unstressed or unaccented in pronunciation or poetic meter. Used of a word or syllable.
+******
+word: weak
+part_of_speech: adjective
+definition: Designating a verse ending in which the metrical stress falls on a word or syllable that is unstressed in normal speech, such as a preposition.
+******
+word: weak
+part_of_speech: adjective
+definition: Tending downward in price:  a weak market for oil stocks. 
+******
+word: wet
+part_of_speech: adjective
+definition: Covered or soaked with a liquid, such as water.
+******
+word: wet
+part_of_speech: adjective
+definition: Not yet dry or firm:  wet paint. 
+******
+word: wet
+part_of_speech: adjective
+definition: Stored or preserved in liquid.
+******
+word: wet
+part_of_speech: adjective
+definition: Used or prepared with water or other liquids.
+******
+word: wet
+part_of_speech: adjective
+definition: Rainy, humid, or foggy:  wet weather. 
+******
+word: wet
+part_of_speech: adjective
+definition: Characterized by frequent or heavy precipitation:  a wet climate. 
+******
+word: wet
+part_of_speech: adjective
+definition: Informal   Allowing the sale of alcoholic beverages:  a wet county. 
+******
+word: wet
+part_of_speech: adjective
+definition: Characterized by the use or presence of water or liquid reagents:  wet chemistry. 
+******
+word: wooden
+part_of_speech: adjective
+definition: Made or consisting of wood.
+******
+word: wooden
+part_of_speech: adjective
+definition: Stiff and unnatural; without spirit:  a wooden performance; a wooden smile. 
+******
+word: wooden
+part_of_speech: adjective
+definition: Clumsy and awkward; ungainly.
+******
+word: yummy
+part_of_speech: adjective
+definition: Slang   Very pleasing to the taste or smell; delicious. See Synonyms at delicious.
+******
+word: yummy
+part_of_speech: adjective
+definition: Slang   Delightful; delicious.
+******
+word: boiling
+part_of_speech: adjective
+definition: Heated to or past the boiling point:  a kettle of boiling water. 
+******
+word: boiling
+part_of_speech: adjective
+definition: Very angry or upset; seething.
+******
+word: broken
+part_of_speech: adjective
+definition: Forcibly separated into two or more pieces; fractured:  a broken arm; broken glass. 
+******
+word: broken
+part_of_speech: adjective
+definition: Sundered by divorce, separation, or desertion of a parent or parents:  children from broken homes; a broken marriage. 
+******
+word: broken
+part_of_speech: adjective
+definition: Having been violated:  a broken promise. 
+******
+word: broken
+part_of_speech: adjective
+definition: Incomplete:  a broken set of books. 
+******
+word: broken
+part_of_speech: adjective
+definition: Being in a state of disarray; disordered:  troops fleeing in broken ranks. 
+******
+word: broken
+part_of_speech: adjective
+definition: Intermittently stopping and starting; discontinuous:  a broken cable transmission. 
+******
+word: broken
+part_of_speech: adjective
+definition: Varying abruptly, as in pitch:  broken sobs. 
+******
+word: broken
+part_of_speech: adjective
+definition: Spoken with gaps and errors:  broken English. 
+******
+word: broken
+part_of_speech: adjective
+definition: Topographically rough; uneven:  broken terrain. 
+******
+word: broken
+part_of_speech: adjective
+definition: Subdued totally; humbled:  a broken spirit. 
+******
+word: broken
+part_of_speech: adjective
+definition: Weakened and infirm:  broken health. 
+******
+word: broken
+part_of_speech: adjective
+definition: Crushed by grief:  died of a broken heart. 
+******
+word: broken
+part_of_speech: adjective
+definition: Financially ruined; bankrupt.
+******
+word: broken
+part_of_speech: adjective
+definition: Not functioning; out of order:  a broken washing machine. 
+******
+word: bumpy
+part_of_speech: adjective
+definition: Covered with or full of bumps:  a bumpy country road. 
+******
+word: bumpy
+part_of_speech: adjective
+definition: Marked by bumps and jolts; rough:  a bumpy flight. 
+******
+word: chilly
+part_of_speech: adjective
+definition: Cool or cold enough to cause shivering. See Synonyms at cold.
+******
+word: chilly
+part_of_speech: adjective
+definition: Seized with or feeling cold; shivering.
+******
+word: chilly
+part_of_speech: adjective
+definition: Distant and cool; unfriendly:  a chilly look. 
+******
+word: cold
+part_of_speech: adjective
+definition: Having a low temperature.
+******
+word: cold
+part_of_speech: adjective
+definition: Having a temperature lower than normal body temperature.
+******
+word: cold
+part_of_speech: adjective
+definition: Feeling no warmth; uncomfortably chilled.
+******
+word: cold
+part_of_speech: adjective
+definition: Marked by deficient heat:  a cold room. 
+******
+word: cold
+part_of_speech: adjective
+definition: Being at a temperature that is less than what is required:  cold oatmeal. 
+******
+word: cold
+part_of_speech: adjective
+definition: Chilled by refrigeration or ice:  cold beer. 
+******
+word: cold
+part_of_speech: adjective
+definition: Lacking emotion; objective:  cold logic. 
+******
+word: cold
+part_of_speech: adjective
+definition: Having no appeal to the senses or feelings:  a cold decor. 
+******
+word: cold
+part_of_speech: adjective
+definition: Not affectionate or friendly; aloof:  a cold person; a cold nod. 
+******
+word: cold
+part_of_speech: adjective
+definition: Exhibiting or feeling no enthusiasm:  a cold audience; a cold response to the new play; a concert that left me cold. 
+******
+word: cold
+part_of_speech: adjective
+definition: Devoid of sexual desire; frigid.
+******
+word: cold
+part_of_speech: adjective
+definition: Designating a tone or color, such as pale gray, that suggests little warmth.
+******
+word: cold
+part_of_speech: adjective
+definition: Having lost all freshness or vividness through passage of time:  dogs attempting to catch a cold scent. 
+******
+word: cold
+part_of_speech: adjective
+definition: Marked by or sustaining a loss of body heat:  cold hands and feet. 
+******
+word: cold
+part_of_speech: adjective
+definition: Appearing to be dead; unconscious.
+******
+word: cold
+part_of_speech: adjective
+definition: Dead:  was cold in his grave. 
+******
+word: cold
+part_of_speech: adjective
+definition: Marked by unqualified certainty or sure familiarity.
+******
+word: cold
+part_of_speech: adjective
+definition: So intense as to be almost uncontrollable:  cold fury. 
+******
+word: cold
+part_of_speech: adjective
+definition: Characterized by repeated failure, especially in a sport or competitive activity:  The team fell into a slump of cold shooting. 
+******
+word: cool
+part_of_speech: adjective
+definition: Neither warm nor very cold; moderately cold:  fresh, cool water; a cool autumn evening. 
+******
+word: cool
+part_of_speech: adjective
+definition: Giving or suggesting relief from heat:  a cool breeze; a cool blouse. 
+******
+word: cool
+part_of_speech: adjective
+definition: Marked by calm self-control:  a cool negotiator. 
+******
+word: cool
+part_of_speech: adjective
+definition: Marked by indifference, disdain, or dislike; unfriendly or unresponsive:  a cool greeting; was cool to the idea of higher taxes. 
+******
+word: cool
+part_of_speech: adjective
+definition: Of, relating to, or characteristic of colors, such as blue and green, that produce the impression of coolness.
+******
+word: cool
+part_of_speech: adjective
+definition: Slang   Excellent; first-rate:  has a cool sports car; had a cool time at the party. 
+******
+word: cool
+part_of_speech: adjective
+definition: Slang   Acceptable; satisfactory:  It's cool if you don't want to talk about it. 
+******
+word: cool
+part_of_speech: adjective
+definition: Slang   Entire; full:  worth a cool million. 
+******
+word: creepy
+part_of_speech: adjective
+definition: Informal   Of or producing a sensation of uneasiness or fear, as of things crawling on one's skin:  a creepy feeling; a creepy story. 
+******
+word: creepy
+part_of_speech: adjective
+definition: Informal   Annoyingly unpleasant; repulsive:  the creepy kids next door. 
+******
+word: cuddly
+part_of_speech: adjective
+definition: Suitable for cuddling, designed to be cuddled.
+******
+word: curly
+part_of_speech: adjective
+definition: Having curls.
+******
+word: curly
+part_of_speech: adjective
+definition: Having the tendency to curl.
+******
+word: curly
+part_of_speech: adjective
+definition: Having a wavy grain:  curly maple wood. 
+******
+word: damp
+part_of_speech: adjective
+definition: Slightly wet. See Synonyms at wet.
+******
+word: damp
+part_of_speech: adjective
+definition: Archaic   Dejected.
+******
+word: dirty
+part_of_speech: adjective
+definition: Soiled, as with dirt; unclean.
+******
+word: dirty
+part_of_speech: adjective
+definition: Spreading dirt; polluting:  The air near the foundry was always dirty. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Apt to soil with dirt or grime:  a dirty job at the garage. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Contaminated with bacteria or other infectious microorganisms.
+******
+word: dirty
+part_of_speech: adjective
+definition: Squalid or filthy; run-down:  dirty slums. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Obscene or indecent:  dirty movies; a dirty joke. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Malicious or scandalous:  a dirty lie. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Unethical or corrupt; sordid:  dirty politics. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Not sportsmanlike:  dirty players; a dirty fighter. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Acquired by illicit or improper means:  dirty money. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Slang   Possessing or using illegal drugs.
+******
+word: dirty
+part_of_speech: adjective
+definition: Unpleasant or distasteful; thankless:  Laying off workers is the dirty part of this job. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Extremely unfortunate or regrettable:  a dirty shame. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Expressing disapproval or hostility:  gave us a dirty look. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Not bright and clear in color; somewhat dull or drab. Often used in combination:  dirty-blonde hair; dirty-green walls. 
+******
+word: dirty
+part_of_speech: adjective
+definition: Producing a very great amount of long-lived radioactive fallout. Used of nuclear weapons.
+******
+word: dirty
+part_of_speech: adjective
+definition: Stormy; rough:  dirty weather. 
+******
+word: dry
+part_of_speech: adjective
+definition: Free from liquid or moisture:  changed to dry clothes. 
+******
+word: dry
+part_of_speech: adjective
+definition: Having or characterized by little or no rain:  a dry climate. 
+******
+word: dry
+part_of_speech: adjective
+definition: Marked by the absence of natural or normal moisture:  a dry month. 
+******
+word: dry
+part_of_speech: adjective
+definition: Not under water:  dry land. 
+******
+word: dry
+part_of_speech: adjective
+definition: Having all the water or liquid drained away, evaporated, or exhausted:  a dry river. 
+******
+word: dry
+part_of_speech: adjective
+definition: No longer yielding liquid, especially milk:  a dry cow. 
+******
+word: dry
+part_of_speech: adjective
+definition: Lacking a mucous or watery discharge:  a dry cough. 
+******
+word: dry
+part_of_speech: adjective
+definition: Not shedding tears:  dry sobs. 
+******
+word: dry
+part_of_speech: adjective
+definition: Needing or desiring drink; thirsty:  a dry mouth. 
+******
+word: dry
+part_of_speech: adjective
+definition: No longer wet:  The paint is dry. 
+******
+word: dry
+part_of_speech: adjective
+definition: Of or relating to solid rather than liquid substances or commodities:  dry weight. 
+******
+word: dry
+part_of_speech: adjective
+definition: Not sweet as a result of the decomposition of sugar during fermentation. Used of wines.
+******
+word: dry
+part_of_speech: adjective
+definition: Having a large proportion of strong liquor to other ingredients:  a dry martini. 
+******
+word: dry
+part_of_speech: adjective
+definition: Eaten or served without butter, gravy, or other garnish:  dry toast; dry meat. 
+******
+word: dry
+part_of_speech: adjective
+definition: Having no adornment or coloration; plain:  the dry facts. 
+******
+word: dry
+part_of_speech: adjective
+definition: Devoid of bias or personal concern:  presented a dry critique. 
+******
+word: dry
+part_of_speech: adjective
+definition: Lacking tenderness, warmth, or involvement; severe:  The actor gave a dry reading of the lines. 
+******
+word: dry
+part_of_speech: adjective
+definition: Matter-of-fact or indifferent in manner:  rattled off the facts in a dry mechanical tone. 
+******
+word: dry
+part_of_speech: adjective
+definition: Wearisome; dull:  a dry lecture filled with trivial details. 
+******
+word: dry
+part_of_speech: adjective
+definition: Humorous or sarcastic in a shrewd, impersonal way:  dry wit. 
+******
+word: dry
+part_of_speech: adjective
+definition: Prohibiting or opposed to the sale or consumption of alcoholic beverages:  a dry county. 
+******
+word: dry
+part_of_speech: adjective
+definition: Unproductive of the expected results:  a mind dry of new ideas. 
+******
+word: dry
+part_of_speech: adjective
+definition: Constructed without mortar or cement:  dry masonry. 
+******
+word: dusty
+part_of_speech: adjective
+definition: Covered or filled with dust.
+******
+word: dusty
+part_of_speech: adjective
+definition: Consisting of or resembling dust; powdery.
+******
+word: dusty
+part_of_speech: adjective
+definition: Tinged with gray.
+******
+word: dusty
+part_of_speech: adjective
+definition: Timeworn; stale:  the dusty precepts of a bygone era. 
+******
+word: filthy
+part_of_speech: adjective
+definition: Covered or smeared with filth; disgustingly dirty. See Synonyms at dirty.
+******
+word: filthy
+part_of_speech: adjective
+definition: Obscene; scatological.
+******
+word: filthy
+part_of_speech: adjective
+definition: Vile; nasty:  a filthy traitor. 
+******
+word: flaky
+part_of_speech: adjective
+definition: Made of or resembling flakes.
+******
+word: flaky
+part_of_speech: adjective
+definition: Forming or tending to form flakes or thin, crisp fragments:  flaky pastry. 
+******
+word: flaky
+part_of_speech: adjective
+definition: Slang   Somewhat eccentric; odd: "that slightly flakey quality, in joy as well as in grief, that prepares us subtly for the mad scenes to come”  ( Village Voice). 
+******
+word: fluffy
+part_of_speech: adjective
+definition: Of, relating to, or resembling fluff.
+******
+word: fluffy
+part_of_speech: adjective
+definition: Covered with fluff.
+******
+word: fluffy
+part_of_speech: adjective
+definition: Light and airy; soft:  fluffy curls; a fluffy soufflé. 
+******
+word: fluffy
+part_of_speech: adjective
+definition: Light or frivolous:  a fluffy musical comedy. 
+******
+word: fluffy
+part_of_speech: adjective
+definition: Lacking depth or precision; fuzzy:  hazy, fluffy thinking that only confused the matter. 
+******
+word: freezing
+part_of_speech: adjective
+definition: Suffering or causing frost
+******
+word: freezing
+part_of_speech: adjective
+definition: Very cold
+******
+word: warm
+part_of_speech: adjective
+definition: Somewhat hotter than temperate; having or producing a comfortable and agreeable degree of heat; moderately hot:  a warm climate. 
+******
+word: warm
+part_of_speech: adjective
+definition: Having the natural heat of living beings:  a warm body. 
+******
+word: warm
+part_of_speech: adjective
+definition: Preserving or imparting heat:  a warm overcoat. 
+******
+word: warm
+part_of_speech: adjective
+definition: Having or causing a sensation of unusually high body heat, as from exercise or hard work; overheated.
+******
+word: warm
+part_of_speech: adjective
+definition: Marked by enthusiasm; ardent:  warm support. 
+******
+word: warm
+part_of_speech: adjective
+definition: Characterized by liveliness, excitement, or disagreement; heated:  a warm debate. 
+******
+word: warm
+part_of_speech: adjective
+definition: Marked by or revealing friendliness or sincerity; cordial:  warm greetings. 
+******
+word: warm
+part_of_speech: adjective
+definition: Loving; passionate:  a warm embrace. 
+******
+word: warm
+part_of_speech: adjective
+definition: Excitable, impetuous, or quick to be aroused:  a warm temper. 
+******
+word: warm
+part_of_speech: adjective
+definition: Predominantly red or yellow in tone:  a warm sunset. 
+******
+word: warm
+part_of_speech: adjective
+definition: Recently made; fresh:  a warm trail. 
+******
+word: warm
+part_of_speech: adjective
+definition: Close to discovering, guessing, or finding something, as in certain games.
+******
+word: warm
+part_of_speech: adjective
+definition: Informal   Uncomfortable because of danger or annoyance:  Things are warm for the bookies. 
+******
+word: abundant
+part_of_speech: adjective
+definition: Occurring in or marked by abundance; plentiful. See Synonyms at plentiful.
+******
+word: abundant
+part_of_speech: adjective
+definition: Abounding with; rich:  a region abundant in wildlife. 
+******
+word: empty
+part_of_speech: adjective
+definition: Holding or containing nothing.
+******
+word: empty
+part_of_speech: adjective
+definition: Mathematics   Having no elements or members; null:  an empty set. 
+******
+word: empty
+part_of_speech: adjective
+definition: Having no occupants or inhabitants; vacant:  an empty chair; empty desert. 
+******
+word: empty
+part_of_speech: adjective
+definition: Lacking force or power:  an empty threat. 
+******
+word: empty
+part_of_speech: adjective
+definition: Lacking purpose or substance; meaningless:  an empty life. 
+******
+word: empty
+part_of_speech: adjective
+definition: Not put to use; idle:  empty hours. 
+******
+word: empty
+part_of_speech: adjective
+definition: Needing nourishment; hungry: "More fierce and more inexorable far/Than empty tigers or the roaring sea”  ( Shakespeare). 
+******
+word: empty
+part_of_speech: adjective
+definition: Devoid; destitute:  empty of pity. 
+******
+word: few
+part_of_speech: adjective
+definition: Amounting to or consisting of a small number:  one of my few bad habits. 
+******
+word: few
+part_of_speech: adjective
+definition: Being more than one but indefinitely small in number:  bowled a few strings. 
+******
+word: full
+part_of_speech: adjective
+definition: Containing all that is normal or possible:  a full pail. 
+******
+word: full
+part_of_speech: adjective
+definition: Complete in every particular:  a full account. 
+******
+word: full
+part_of_speech: adjective
+definition: Baseball   Amounting to three balls and two strikes. Used of a count.
+******
+word: full
+part_of_speech: adjective
+definition: Baseball   Having a base runner at first, second, and third base:  The bases were full when the slugger stepped up to bat. 
+******
+word: full
+part_of_speech: adjective
+definition: Of maximum or highest degree:  at full speed. 
+******
+word: full
+part_of_speech: adjective
+definition: Being at the peak of development or maturity:  in full bloom. 
+******
+word: full
+part_of_speech: adjective
+definition: Having a great deal or many:  a book full of errors. 
+******
+word: full
+part_of_speech: adjective
+definition: Totally qualified, accepted, or empowered:  a full member of the club. 
+******
+word: full
+part_of_speech: adjective
+definition: Rounded in shape; plump:  a full figure. 
+******
+word: full
+part_of_speech: adjective
+definition: Having or made with a generous amount of fabric:  full draperies. 
+******
+word: full
+part_of_speech: adjective
+definition: Having an appetite completely satisfied, especially for food or drink:  was full after the Thanksgiving dinner. 
+******
+word: full
+part_of_speech: adjective
+definition: Providing an abundance, especially of food.
+******
+word: full
+part_of_speech: adjective
+definition: Having depth and body; rich:  a full aroma; full tones. 
+******
+word: full
+part_of_speech: adjective
+definition: Completely absorbed or preoccupied: "He was already pretty full of himself”  ( Ron Rosenbaum). 
+******
+word: full
+part_of_speech: adjective
+definition: Possessing both parents in common:  full brothers; full sisters. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Having relatively great weight:  a heavy load. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Having relatively high density; having a high specific gravity.
+******
+word: heavy
+part_of_speech: adjective
+definition: Large, as in number or quantity:  a heavy turnout; heavy casualties. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Large in yield or output:  heavy rainfall. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Of great intensity:  heavy activity; heavy fighting. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Having great power or force:  a heavy punch. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Violent; rough:  heavy seas. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Equipped with massive armaments and weapons:  a heavy cruiser; heavy infantry. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Large enough to fire powerful shells:  heavy guns. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Indulging to a great degree:  a heavy drinker. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Involved or participating on a large scale:  a heavy investor. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Of great import or seriousness; grave:  heavy matters of state. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Having considerable thickness:  a heavy coat. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Broad or coarse:  drew the face with heavy lines. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Dense; thick:  a heavy fog. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Slow to dissipate; strong: "There was a heavy fragrance of flowers and lemon trees”  ( Mario Puzo). 
+******
+word: heavy
+part_of_speech: adjective
+definition: Too dense or rich to digest easily:  a heavy dessert. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Insufficiently leavened:  heavy bread. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Full of clay and readily saturated:  heavy soil. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Weighed down; burdened:  trees heavy with plums. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Emotionally weighed down; despondent:  a heavy heart. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Marked by or exhibiting weariness:  heavy lids. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Sad or painful:  heavy news. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Hard to do or accomplish; arduous:  heavy going; heavy reading. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Not easily borne; oppressive:  heavy taxes. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Lacking vitality; deficient in vivacity or grace:  a heavy gait; heavy humor. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Sharply inclined; steep:  a heavy grade. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Having a large capacity or designed for rough work:  a heavy truck. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Of, relating to, or involving the large-scale production of basic products, such as steel:  heavy industry. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Of or relating to a serious dramatic role.
+******
+word: heavy
+part_of_speech: adjective
+definition: Physics   Of or relating to an isotope with an atomic mass greater than the average mass of that element.
+******
+word: heavy
+part_of_speech: adjective
+definition: Loud; sonorous:  a heavy sound; heavy breathing. 
+******
+word: heavy
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being a syllable ending in a long vowel or in a vowel plus two consonants.
+******
+word: heavy
+part_of_speech: adjective
+definition: Slang   Of great significance or profundity.
+******
+word: heavy
+part_of_speech: adjective
+definition: Slang   Very popular or important:  a rock star who is really heavy. 
+******
+word: light
+part_of_speech: adjective
+definition: Having a greater rather than lesser degree of lightness.
+******
+word: light
+part_of_speech: adjective
+definition: Of or being an additive primary color.
+******
+word: light
+part_of_speech: adjective
+definition: Characterized by or filled with light; bright:  a room that is light when the shutters are open. 
+******
+word: light
+part_of_speech: adjective
+definition: Not dark in color; fair:  light hair and skin. 
+******
+word: light
+part_of_speech: adjective
+definition: Served with milk or cream. Used of coffee.
+******
+word: light
+part_of_speech: adjective
+definition: Of relatively little weight; not heavy:  a light load. 
+******
+word: light
+part_of_speech: adjective
+definition: Of relatively little weight for its size or bulk:  Balsa is a light wood. 
+******
+word: light
+part_of_speech: adjective
+definition: Of less than the correct, standard, or legal weight:  a light pound. 
+******
+word: light
+part_of_speech: adjective
+definition: Exerting little force or impact; gentle:  a light pat. 
+******
+word: light
+part_of_speech: adjective
+definition: Indistinct; faint:  light print that I could barely make out. 
+******
+word: light
+part_of_speech: adjective
+definition: Of little quantity; scanty:  light snow. 
+******
+word: light
+part_of_speech: adjective
+definition: Consuming or using relatively moderate amounts; abstemious:  a light eater; a light smoker. 
+******
+word: light
+part_of_speech: adjective
+definition: Not harsh or severe:  gave the offender a light sentence. 
+******
+word: light
+part_of_speech: adjective
+definition: Demanding little exertion or effort; not burdensome:  light household tasks. 
+******
+word: light
+part_of_speech: adjective
+definition: Having little importance; insignificant:  light, idle chatter. 
+******
+word: light
+part_of_speech: adjective
+definition: Intended primarily as entertainment; not serious or profound:  a light comedy. 
+******
+word: light
+part_of_speech: adjective
+definition: Free from worries or troubles; blithe:  a light heart. 
+******
+word: light
+part_of_speech: adjective
+definition: Characterized by frivolity; silly or trivial.
+******
+word: light
+part_of_speech: adjective
+definition: Liable to change; fickle.
+******
+word: light
+part_of_speech: adjective
+definition: Mildly dizzy or faint:  felt light in the head. 
+******
+word: light
+part_of_speech: adjective
+definition: Lacking in ethical discrimination.
+******
+word: light
+part_of_speech: adjective
+definition: Moving easily and quickly; nimble:  The dancer was light and graceful. 
+******
+word: light
+part_of_speech: adjective
+definition: Designed for ease and quickness of movement; having a relatively slim structure and little weight:  light aircraft. 
+******
+word: light
+part_of_speech: adjective
+definition: Designed to carry relatively little weight:  a light truck. 
+******
+word: light
+part_of_speech: adjective
+definition: Carrying little equipment or armament:  light cavalry; light tanks. 
+******
+word: light
+part_of_speech: adjective
+definition: Requiring relatively little equipment and using relatively simple processes to produce consumer goods:  light industry. 
+******
+word: light
+part_of_speech: adjective
+definition: Easily awakened or disturbed:  a light sleeper. 
+******
+word: light
+part_of_speech: adjective
+definition: Easily digested:  a light supper. 
+******
+word: light
+part_of_speech: adjective
+definition: Having a spongy or flaky texture; well-leavened:  light pastries. 
+******
+word: light
+part_of_speech: adjective
+definition: Having a loose, porous consistency:  light soil. 
+******
+word: light
+part_of_speech: adjective
+definition: Containing a relatively small amount of a potentially harmful ingredient, such as alcohol, fat, or sodium:  light beer; light mayonnaise. 
+******
+word: light
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being a syllable ending in a short vowel or a short vowel plus a consonant.
+******
+word: light
+part_of_speech: adjective
+definition: Linguistics   Of, relating to, or being a vowel or syllable pronounced with little or no stress.
+******
+word: many
+part_of_speech: adjective
+definition: Being one of a large indefinite number; numerous:  many a child; many another day. 
+******
+word: many
+part_of_speech: adjective
+definition: Amounting to or consisting of a large indefinite number:  many friends. 
+******
+word: numerous
+part_of_speech: adjective
+definition: Amounting to a large number; many.
+******
+word: sparse
+part_of_speech: adjective
+definition: Occurring, growing, or settled at widely spaced intervals; not thick or dense.
+******
+word: substantial
+part_of_speech: adjective
+definition: Of, relating to, or having substance; material.
+******
+word: substantial
+part_of_speech: adjective
+definition: True or real; not imaginary.
+******
+word: substantial
+part_of_speech: adjective
+definition: Solidly built; strong.
+******
+word: substantial
+part_of_speech: adjective
+definition: Ample; sustaining:  a substantial breakfast. 
+******
+word: substantial
+part_of_speech: adjective
+definition: Considerable in importance, value, degree, amount, or extent:  won by a substantial margin. 
+******
+word: substantial
+part_of_speech: adjective
+definition: Possessing wealth or property; well-to-do.
