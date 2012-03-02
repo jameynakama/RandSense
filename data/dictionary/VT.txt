@@ -1,0 +1,93 @@
+******
+word: jump
+part of speech: VT
+definitions:
+To leap over or across:  jump a fence. 
+To leap onto:  jump a bus. 
+Slang   To spring upon in sudden attack; assault or ambush:  Muggers jumped him in the park. 
+To move or start prematurely before:  jumped the starting signal. 
+To cause to leap:  jump a horse over a fence. 
+To cause to increase suddenly:  shortages that jumped milk prices by several cents. 
+To pass over; skip:  The typewriter jumped a space. 
+To raise in rank or position; promote.
+Games   To move a piece over (an opponent's piece) in a board game, often thereby capturing the opponent's piece.
+Games   To raise (a partner's bid) in bridge by more than is necessary.
+To jump-start (a motor vehicle).
+To leave (a course), especially through mishap:  The train jumped the rails. 
+Slang   To leave hastily; skip:  jumped town a step ahead of the police. 
+Slang   To leave (an organization, for example) suddenly or in violation of an agreement:  jumped the team and signed with a rival club. 
+To seize or occupy illegally:  jump a mining claim. 
+To forfeit (bail) by failing to appear in court.
+Vulgar Slang   To have sexual intercourse with.
+******
+word: run
+part of speech: VT
+definitions:
+To travel over on foot at a pace faster than a walk:  ran the entire distance. 
+To cause (an animal) to move quickly or rapidly:  We run our hunting dogs every morning. 
+To allow to move without restraint.
+To do or accomplish by or as if by running:  run errands. 
+To hunt or pursue; chase:  dogs running deer. 
+To bring to a given condition by or as if by running:  The toddlers ran me ragged. 
+To cause to move quickly:  She ran her fingers along the keyboard. 
+To cause to compete in or as if in a race:  He ran two horses in the Kentucky Derby. 
+To present or nominate for elective office:  The party ran her for senator. 
+To cause to move or progress freely.
+To cause to function; operate:  run a machine. 
+To convey or transport:  Run me into town. Run the garbage over to the dump. 
+Football   To attempt to advance (the ball) by carrying it.
+To submit for consideration or review:  I'll run the idea by you before I write the proposal. 
+Nautical   To cause to move on a course:  We ran our boat into a cove. 
+To smuggle:  run guns. 
+To evade and pass through:  run a roadblock. 
+To pass over or through:  run the rapids. 
+To cause to flow:  run water into a tub. 
+To stream with:  The fountains ran champagne. 
+Metallurgy   To melt, fuse, or smelt (metal).
+Metallurgy   To mold or cast (molten metal):  run gold into ingots. 
+To cause to extend or pass:  run a rope between the poles. 
+To mark or trace on a surface:  run a pencil line between two points. 
+To sew with a continuous line of stitches:  run a seam. 
+To cause to unravel along a line:  She ran her stocking on a splinter. 
+To cause to crash or collide:  ran the car into a fence. 
+To cause to penetrate:  I ran a pin into my thumb. 
+To continue to present or perform:  ran the film for a month. 
+To publish in a periodical:  run an advertisement. 
+To subject oneself or be subjected to:  run a risk. 
+To have as an ongoing financial obligation:  run a deficit; run a tab. 
+Games   To score (balls or points) consecutively in billiards:  run 15 balls. 
+Games   To clear (the table) in pool by consecutive scores.
+To conduct or perform:  run an experiment. 
+Computer Science   To process or execute (a program or instruction).
+To control, manage, or direct:  ran the campaign by himself; a bureau that runs espionage operations. 
+******
+word: scratch
+part of speech: VT
+definitions:
+To make a thin shallow cut or mark on (a surface) with a sharp instrument.
+To use the nails or claws to dig or scrape at.
+To rub or scrape (the skin) to relieve itching.
+To scrape or strike on an abrasive surface.
+To write or draw (something) by scraping a surface:  scratched their initials on a rock. 
+To write or draw hurriedly:  scratched off a thank-you note. 
+To strike out or cancel (a word, for example) by or as if by drawing lines through.
+Slang   To cancel (a project or program, for example).
+To withdraw (an entry) from a contest.
+******
+word: bite
+part of speech: VT
+definitions:
+To cut, grip, or tear with or as if with the teeth.
+To pierce the skin of with the teeth, fangs, or mouthparts.
+To sting with a stinger.
+To cut into with or as if with a sharp instrument:  The ax bit the log deeply. 
+To grip, grab, or seize:  bald treads that couldn't bite the icy road; bitten by a sudden desire to travel. 
+To eat into; corrode.
+To cause to sting or be painful:  cold that bites the skin; a conscience bitten by remorse. 
+******
+word: poop
+part of speech: VT
+definitions:
+To break over the stern of (a ship).
+To take (a wave) over the stern.
+Slang   To cause to become fatigued; tire: "Many people stop here, pooped by the short, steep climb”  ( Sierra Club Guides to the National Parks). 

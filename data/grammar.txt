@@ -1,6 +1,6 @@
 SENTENCE -> SUBJECT PREDICATE
 SUBJECT -> NP
-NP -> ARTICLE noun | ARTICLE adjective noun
-ARTICLE -> definite-article | indefinite-article
+NP -> ART N | ART ADJ N
+ART -> ART-DEF | ART-INDEF
 PREDICATE -> VP
-VP -> verb-transitive NP | verb-intransitive
+VP -> VT NP | VI

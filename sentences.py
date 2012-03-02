@@ -45,18 +45,10 @@ class ObjectList(object):
         return result
 
     def save(self, word):
-        if (word.word, word.part_of_speech) in self.uniques:
-            # add to definitions of word if name and part of speech exist
-            self.filter(init=True, word=word.word, part_of_speech=word.part_of_speech)[0].definitions.append(word.definition)
-        else:
-            # add the word normally if neither name or part of speech exist
-            if 'definition' in word.__dict__:
-                word.definitions.append(word.definition)
-                del word.definition
-            self.list.append(word)
-            self.words.add(word.word)
-            self.parts_of_speech.add(word.part_of_speech)
-            self.uniques.add((word.word, word.part_of_speech))
+        self.list.append(word)
+        self.words.add(word.word)
+        self.parts_of_speech.add(word.part_of_speech)
+        self.uniques.add((word.word, word.part_of_speech))
 
     def random(self, part_of_speech=''):
         if part_of_speech:
@@ -68,26 +60,27 @@ class DictionaryParser(object):
     def __init__(self):
         pass
 
-    def parse(self, working_folder):
+    def parse(self):
 
         words = ''
-        for text_file in os.listdir('data/'+working_folder):
-            words += open('data/'+working_folder+"/"+text_file, 'r').read()
+        for text_file in os.listdir('data/dictionary/'):
+            words += open('data/dictionary/'+text_file, 'r').read()
 
         words = words.split("******")[1:]
         for i in range(len(words)):
-            words[i] = words[i].strip('\n').split('\n')
-            for j in range(len(words[i])):
-                words[i][j] = words[i][j].split(': ', 1)
-            Word(dict(words[i])).save()
+            w = Word()
+            words[i] = words[i].strip().split('\n')
+            w.word = words[i][0].split(': ', 1)[-1]
+            w.part_of_speech = words[i][1].split(': ', 1)[-1]
+            w.definitions = words[i][2:]
+            w.save()
 
 class Word(object):
     objects = ObjectList()
 
-    def __init__(self, dictionary):
-        # word, part_of_speech, definition, verb_type
-        for key, value in dictionary.iteritems():
-            setattr(self, key, value)
+    def __init__(self):
+        self.word = ''
+        self.part_of_speech = ''
         self.definitions = []
 
     def __repr__(self):
@@ -132,8 +125,7 @@ class Sentence(object):
             for element in next:
                 self.process(element)
         else:
-            if level != '_':
-                self.pos_sentence.append(level)
+            self.pos_sentence.append(level)
 
     def get_sentence(self):
         self.pos_sentence = []
@@ -143,22 +135,20 @@ class Sentence(object):
             self.sentence.append(Word.objects.random(part_of_speech).word)
 
         # Here's where we'll do replacements, like conjugations
-        while 'indefinite-article' in self.pos_sentence:
-            index = self.pos_sentence.index('indefinite-article')
-            # print "!INDEFINITE ARTICLE DETECTED!"
-            # print "The word following the article is ["+self.sentence[index+1]+"]"
+        while 'ART-INDEF' in self.pos_sentence:
+            index = self.pos_sentence.index('ART-INDEF')
             if self.sentence[index+1][0] in Sentence.VOWELS:
                 self.sentence[index] = 'an'
             else:
                 self.sentence[index] = 'a'
-            self.pos_sentence[index] = 'indefinite-article-REPLACED'
+            self.pos_sentence[index] = 'ART-INDEF-REPLACED'
         
         # TEMPORARY LOCATORS (right now this only works with one word each - find better way)
-        if 'verb-transitive' in self.pos_sentence:
-            index = self.pos_sentence.index('verb-transitive')
+        if 'VT' in self.pos_sentence:
+            index = self.pos_sentence.index('VT')
             self.sentence[index] = "<"+self.sentence[index]+">"
-        if 'verb-intransitive' in self.pos_sentence:
-            index = self.pos_sentence.index('verb-intransitive')
+        if 'VI' in self.pos_sentence:
+            index = self.pos_sentence.index('VI')
             self.sentence[index] = "<"+self.sentence[index]+">"
 
         self.sentence = ' '.join(self.sentence).capitalize() + "."
@@ -189,7 +179,16 @@ def make_sentence(parts_of_speech):
         result.append(get_word(word))
     return ' '.join(result).capitalize() + '.'
 
+def foo(s):
+    while True:
+        print s.get_sentence()
+        if 'poop' in s.sentence:
+            break
+
+
 
 w = wordnik.Wordnik(API_KEY)
 dp = DictionaryParser()
-dp.parse("words")
+dp.parse()
+
+s = Sentence()

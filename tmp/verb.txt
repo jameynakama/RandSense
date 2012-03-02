@@ -1,9 +1,0 @@
-VERB
-[jump]
-word: jump
-definition: to bounce upward
-verb_type: regular
-[be]
-word: be
-definition: to be
-verb_type: irregular
