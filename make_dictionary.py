@@ -71,6 +71,7 @@ try:
                 continue
 
             for part_of_speech in possible_parts_of_speech:
+                part_of_speech = translate(part_of_speech)
                 if not os.path.exists(outdir+part_of_speech+'.txt'):
                     print "\nCreating ["+part_of_speech+"] file....\n"
                     open(outdir+part_of_speech+'.txt', 'w')
