@@ -21,25 +21,41 @@ poop
 ################################
 > ADJ
 ################################
-smart
-funny
-pretty
-calm
-gigantic
-microscopic
+adorable
+beautiful
+clean
+drab
+elegant
+fancy
+glamorous
+handsome
+long
+magnificent
+old-fashioned
 
 ################################
-> VT
+> V
 ################################
+add
+allow
+bake
+bang
+call
+chase
+damage
+drop
+end
+escape
+fasten
+fix
+gather
+grab
+hang
+hug
+imagine
+itch
+jog
 jump
-run
-scratch
-bite
-poop
-
-################################
-> VI
-################################
-give
-get
-poop
+kick
+knit
+land

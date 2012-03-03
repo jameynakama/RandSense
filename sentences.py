@@ -1,4 +1,4 @@
-import os, random
+import os, random, string
 import wordnik
 
 API_KEY = "1081e3eed25591267a10307da5c01c675d1d199db0e2d7c3f"
@@ -142,7 +142,7 @@ class Sentence(object):
             else:
                 self.sentence[index] = 'a'
             self.pos_sentence[index] = 'ART-INDEF-REPLACED'
-        
+
         # TEMPORARY LOCATORS (right now this only works with one word each - find better way)
         if 'VT' in self.pos_sentence:
             index = self.pos_sentence.index('VT')
@@ -151,7 +151,9 @@ class Sentence(object):
             index = self.pos_sentence.index('VI')
             self.sentence[index] = "<"+self.sentence[index]+">"
 
-        self.sentence = ' '.join(self.sentence).capitalize() + "."
+
+        self.sentence[0] = string.capwords(self.sentence[0])
+        self.sentence = ' '.join(self.sentence) + "."
         return self.sentence
 
 
