@@ -61,6 +61,9 @@ class Sentence(object):
         self.lexicon = lexicon
 
     def parse_grammar(self):
+        """
+        Parses the grammar file into an internal dictionary.
+        """
         # possible_types = (
         #     'indicative',
         #     )
@@ -85,6 +88,9 @@ class Sentence(object):
         return grammar
 
     def process(self, level):
+        """
+        Recursively constructs a sentence diagram.
+        """
         if level in self.grammar:
             next = random.choice(self.grammar[level])
             for element in next:
@@ -93,6 +99,10 @@ class Sentence(object):
             self.pos_sentence.append(level)
 
     def get_sentence(self):
+        """
+        Returns a randomly generated sentence. This is the most top-level user-accessed
+        method so far. Everything else is automatic.
+        """
         self.pos_sentence = []
         self.technical_sentence = []
         self.sentence = []
@@ -119,7 +129,7 @@ class Sentence(object):
         #     index = self.pos_sentence.index('VI')
         #     self.sentence[index] = "<"+self.sentence[index]+">"
 
-        Inflector.inflect(self.technical_sentence)
+        # Inflector.inflect(self.technical_sentence)
 
         self.sentence[0] = string.capwords(self.sentence[0])
         self.sentence = ' '.join(self.sentence) + "."
