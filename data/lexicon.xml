@@ -1029,6 +1029,7 @@
   <base>all</base>
   <category>determiner</category>
   <id>E0008089</id>
+  <plural/>
 </word>
 <word>
   <base>allegation</base>
@@ -3703,6 +3704,7 @@
   <base>both</base>
   <category>determiner</category>
   <id>E0013802</id>
+  <plural/>
 </word>
 <word>
   <base>bother</base>
@@ -11263,6 +11265,7 @@
   <base>enough</base>
   <category>determiner</category>
   <id>E0025440</id>
+  <plural/>
 </word>
 <word>
   <base>enquire</base>
@@ -11653,7 +11656,7 @@
 </word>
 <word>
   <base>everybody</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0026452</id>
 </word>
 <word>
@@ -11664,12 +11667,12 @@
 </word>
 <word>
   <base>everyone</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0026454</id>
 </word>
 <word>
   <base>everything</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0026455</id>
 </word>
 <word>
@@ -12863,6 +12866,7 @@
   <base>few</base>
   <category>determiner</category>
   <id>E0027689</id>
+  <plural/>
 </word>
 <word>
   <base>few</base>
@@ -12872,6 +12876,7 @@
   <base>fewer</base>
   <category>determiner</category>
   <id>E0027691</id>
+  <plural/>
 </word>
 <word>
   <base>fibre</base>
@@ -13666,10 +13671,6 @@
   <base>formation</base>
   <category>noun</category>
   <id>E0028592</id>
-</word>
-<word>
-  <base>former</base>
-  <category>determiner</category>
 </word>
 <word>
   <base>formerly</base>
@@ -15190,10 +15191,6 @@
 </word>
 <word>
   <base>half</base>
-  <category>determiner</category>
-</word>
-<word>
-  <base>half</base>
   <category>noun</category>
   <id>E0030711</id>
 </word>
@@ -15469,7 +15466,7 @@
 </word>
 <word>
   <base>he</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0030918</id>
 </word>
 <word>
@@ -15685,11 +15682,7 @@
 </word>
 <word>
   <base>her</base>
-  <category>determiner</category>
-</word>
-<word>
-  <base>her</base>
-  <category>pronoun</category>
+  <category>possessive-pronoun</category>
   <id>E0031374</id>
 </word>
 <word>
@@ -15851,11 +15844,7 @@
 </word>
 <word>
   <base>his</base>
-  <category>determiner</category>
-</word>
-<word>
-  <base>his</base>
-  <category>pronoun</category>
+  <category>possessive-pronoun</category>
   <id>E0031715</id>
 </word>
 <word>
@@ -16333,7 +16322,7 @@
 </word>
 <word>
   <base>i</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
 </word>
 <word>
   <base>ice</base>
@@ -17873,7 +17862,7 @@
 </word>
 <word>
   <base>it</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0036100</id>
 </word>
 <word>
@@ -17883,7 +17872,7 @@
 </word>
 <word>
   <base>its</base>
-  <category>determiner</category>
+  <category>possessive-pronoun</category>
 </word>
 <word>
   <base>itself</base>
@@ -18576,7 +18565,7 @@
 </word>
 <word>
   <base>latter</base>
-  <category>determiner</category>
+  <category>adjective</category>
 </word>
 <word>
   <base>laugh</base>
@@ -18898,11 +18887,6 @@
   <comparative>less</comparative>
   <superlative>least</superlative>
   <verb_modifier/>
-</word>
-<word>
-  <base>less</base>
-  <category>determiner</category>
-  <id>E0037297</id>
 </word>
 <word>
   <base>lesser</base>
@@ -19336,10 +19320,6 @@
   <category>adverb</category>
   <id>E0037839</id>
   <verb_modifier/>
-</word>
-<word>
-  <base>little</base>
-  <category>determiner</category>
 </word>
 <word>
   <base>live</base>
@@ -20031,6 +20011,7 @@
   <base>many</base>
   <category>determiner</category>
   <id>E0038864</id>
+  <plural/>
 </word>
 <word>
   <base>map</base>
@@ -21136,6 +21117,7 @@
   <base>more</base>
   <category>determiner</category>
   <id>E0040986</id>
+  <plural/>
 </word>
 <word>
   <base>moreover</base>
@@ -21175,6 +21157,7 @@
   <base>most</base>
   <category>determiner</category>
   <id>E0041057</id>
+  <plural/>
 </word>
 <word>
   <base>mostly</base>
@@ -21300,6 +21283,7 @@
   <base>much</base>
   <category>determiner</category>
   <id>E0041165</id>
+  <plural/>
 </word>
 <word>
   <base>mud</base>
@@ -21422,7 +21406,7 @@
 </word>
 <word>
   <base>my</base>
-  <category>determiner</category>
+  <category>possessive-pronoun</category>
 </word>
 <word>
   <base>myself</base>
@@ -21836,10 +21820,6 @@
   <verb_modifier/>
 </word>
 <word>
-  <base>next</base>
-  <category>determiner</category>
-</word>
-<word>
   <base>nice</base>
   <category>adjective</category>
   <id>E0042599</id>
@@ -21879,6 +21859,7 @@
   <base>no</base>
   <category>determiner</category>
   <id>E0042724</id>
+  <singularorplural/>
 </word>
 <word>
   <base>no</base>
@@ -21894,7 +21875,7 @@
 </word>
 <word>
   <base>nobody</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0042734</id>
 </word>
 <word>
@@ -21946,7 +21927,7 @@
 </word>
 <word>
   <base>none</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0042838</id>
 </word>
 <word>
@@ -22040,7 +22021,7 @@
 </word>
 <word>
   <base>nothing</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0043101</id>
 </word>
 <word>
@@ -22551,7 +22532,7 @@
 </word>
 <word>
   <base>one</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0043814</id>
 </word>
 <word>
@@ -22909,7 +22890,7 @@
 </word>
 <word>
   <base>our</base>
-  <category>determiner</category>
+  <category>possessive-pronoun</category>
 </word>
 <word>
   <base>ours</base>
@@ -23137,10 +23118,6 @@
   <base>owl</base>
   <category>noun</category>
   <id>E0044798</id>
-</word>
-<word>
-  <base>own</base>
-  <category>determiner</category>
 </word>
 <word>
   <base>own</base>
@@ -28799,7 +28776,7 @@
 </word>
 <word>
   <base>same</base>
-  <category>determiner</category>
+  <category>adjective</category>
 </word>
 <word>
   <base>sample</base>
@@ -29600,6 +29577,7 @@
   <base>several</base>
   <category>determiner</category>
   <id>E0055469</id>
+  <plural/>
 </word>
 <word>
   <base>severe</base>
@@ -29739,7 +29717,7 @@
 </word>
 <word>
   <base>she</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0055585</id>
 </word>
 <word>
@@ -30901,10 +30879,11 @@
   <base>some</base>
   <category>determiner</category>
   <id>E0056728</id>
+  <plural/>
 </word>
 <word>
   <base>somebody</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0056730</id>
 </word>
 <word>
@@ -30916,12 +30895,12 @@
 </word>
 <word>
   <base>someone</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0056733</id>
 </word>
 <word>
   <base>something</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0056737</id>
 </word>
 <word>
@@ -32507,6 +32486,7 @@
   <base>such</base>
   <category>determiner</category>
   <id>E0058799</id>
+  <plural/>
 </word>
 <word>
   <base>suck</base>
@@ -33759,6 +33739,7 @@
   <base>the</base>
   <category>determiner</category>
   <id>E0060487</id>
+  <singularorplural/>
 </word>
 <word>
   <base>theatre</base>
@@ -33771,7 +33752,7 @@
 </word>
 <word>
   <base>their</base>
-  <category>determiner</category>
+  <category>possessive-pronoun</category>
 </word>
 <word>
   <base>theirs</base>
@@ -33866,6 +33847,7 @@
   <base>these</base>
   <category>determiner</category>
   <id>E0060613</id>
+  <plural/>
 </word>
 <word>
   <base>thesis</base>
@@ -33875,7 +33857,7 @@
 </word>
 <word>
   <base>they</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0060618</id>
 </word>
 <word>
@@ -33963,6 +33945,7 @@
   <base>those</base>
   <category>determiner</category>
   <id>E0060728</id>
+  <plural/>
 </word>
 <word>
   <base>though</base>
@@ -36572,7 +36555,7 @@
 </word>
 <word>
   <base>we</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0065158</id>
 </word>
 <word>
@@ -36794,15 +36777,13 @@
   <base>what</base>
   <category>determiner</category>
   <id>E0065274</id>
+  <singularorplural/>
 </word>
 <word>
   <base>whatever</base>
   <category>determiner</category>
   <id>E0065276</id>
-</word>
-<word>
-  <base>whatsoever</base>
-  <category>determiner</category>
+  <singularorplural/>
 </word>
 <word>
   <base>wheat</base>
@@ -36870,11 +36851,13 @@
   <base>which</base>
   <category>determiner</category>
   <id>E0065318</id>
+  <singularorplural/>
 </word>
 <word>
   <base>whichever</base>
   <category>determiner</category>
   <id>E0065320</id>
+  <singularorplural/>
 </word>
 <word>
   <base>while</base>
@@ -36972,7 +36955,7 @@
 </word>
 <word>
   <base>whose</base>
-  <category>determiner</category>
+  <category>possessive-pronoun</category>
 </word>
 <word>
   <base>why</base>
@@ -37610,7 +37593,7 @@
 </word>
 <word>
   <base>you</base>
-  <category>pronoun</category>
+  <category>nominative-pronoun</category>
   <id>E0065890</id>
 </word>
 <word>
@@ -37627,7 +37610,7 @@
 </word>
 <word>
   <base>your</base>
-  <category>determiner</category>
+  <category>possessive-pronoun</category>
 </word>
 <word>
   <base>yours</base>

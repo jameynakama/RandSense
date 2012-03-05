@@ -1,9 +1,21 @@
-pronouns = ['I', 'you', 'he', 'she', 'it', 'we', 'you', 'they', 'somebody', 'someone',
-			'something', 'whoever', 'ye', 'anyone', 'anything', 'everybody', 'everyone',
-			'everything', 'nobody', 'none', 'nothing', 'one', 'plenty']
-possessive_pronouns = ['my', 'your', 'his', 'her', 'its', 'our', 'your', 'their']
+'''
+
+Adjectives: comparative, superlative
+
+
+Determiners can have <singularorplural/> tag, so check for this and do a choice on the noun if so
+
+
+'''
+
+
 
 class Inflector(object):
+
+	pronouns = ['I', 'you', 'he', 'she', 'it', 'we', 'you', 'they', 'somebody', 'someone',
+				'something', 'whoever', 'ye', 'anyone', 'anything', 'everybody', 'everyone',
+				'everything', 'nobody', 'none', 'nothing', 'one', 'plenty']
+	possessive_pronouns = ['my', 'your', 'his', 'her', 'its', 'our', 'your', 'their']
 
 	@staticmethod
 	def inflect_noun(noun):
@@ -24,3 +36,7 @@ class Inflector(object):
 				result = noun+'s'
 
 		return result
+
+	@staticmethod
+	def inflect_verb(verb):
+		pass
