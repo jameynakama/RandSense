@@ -7,6 +7,8 @@ class Lexicon(object):
 		self.xml_tree = xml.parse(os.path.join('data/lexicon.xml'))
 		self.root = self.xml_tree.getroot()
 
+		#poopiue
+
 		self.words = []
 		for word in self.root:
 			word_dict = {}
