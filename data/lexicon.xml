@@ -24575,6 +24575,18 @@
   <id>E0048926</id>
 </word>
 <word>
+  <base>poop</base>
+  <category>noun</category>
+  <id>J2943625</id>
+</word>
+<word>
+  <base>poop</base>
+  <category>verb</category>
+  <id>J0948929</id>
+  <intransitive/>
+  <transitive/>
+</word>
+<word>
   <base>poor</base>
   <category>adjective</category>
   <id>E0048929</id>

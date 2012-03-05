@@ -1,6 +1,6 @@
 SENTENCE -> SUBJECT PREDICATE | SUBJECT PREDICATE COMPLEMENT
 SUBJECT -> NP
-NP -> determiner noun | determiner ADJECTIVE noun
+NP -> determiner noun | determiner ADJECTIVE noun | pronoun
 ADJECTIVE -> ADJECTIVE adjective | adjective
 PREDICATE -> verb | verb NP
 COMPLEMENT -> COMPLEMENT PREP-PHRASE | PREP-PHRASE

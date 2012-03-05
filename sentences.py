@@ -1,13 +1,13 @@
 import os, random, string
 import xml.etree.ElementTree as xml
 
+from inflections import Inflector
+
 
 class Lexicon(object):
 	def __init__(self):
 		self.xml_tree = xml.parse(os.path.join('data/lexicon.xml'))
 		self.root = self.xml_tree.getroot()
-
-		#poopiue
 
 		self.words = []
 		for word in self.root:
@@ -92,9 +92,6 @@ class Sentence(object):
         else:
             self.pos_sentence.append(level)
 
-    def inflect(self, sentence):
-    	pass
-
     def get_sentence(self):
         self.pos_sentence = []
         self.technical_sentence = []
@@ -102,7 +99,8 @@ class Sentence(object):
         self.process('SENTENCE')
         for part_of_speech in self.pos_sentence:
         	self.technical_sentence.append(self.lexicon.random(category=part_of_speech))
-        	self.sentence.append(self.lexicon.random(category=part_of_speech)['base'])
+        for word in self.technical_sentence:
+        	self.sentence.append(word['base'])
 
         # # Here's where we'll do replacements, like inflections (for now)
         # while 'ART-INDEF' in self.pos_sentence:
@@ -121,7 +119,7 @@ class Sentence(object):
         #     index = self.pos_sentence.index('VI')
         #     self.sentence[index] = "<"+self.sentence[index]+">"
 
-        self.inflect(self.technical_sentence)
+        Inflector.inflect(self.technical_sentence)
 
         self.sentence[0] = string.capwords(self.sentence[0])
         self.sentence = ' '.join(self.sentence) + "."
