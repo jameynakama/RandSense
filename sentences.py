@@ -114,9 +114,10 @@ class Sentence(object):
 
         if 'determiner' in self.pos_sentence:
             determiner = self.technical_sentence[self.pos_sentence.index('determiner')]
-            noun = self.technical_sentence[self.pos_sentence.index('noun')]
-            new_noun = Inflector.inflect_noun(determiner, noun)
-            self.sentence[self.sentence.index(noun['base'])] = new_noun
+            if 'plural' in determiner:
+                    noun = self.technical_sentence[self.pos_sentence.index('noun')]
+                    new_noun = Inflector.inflect_noun(noun)
+                    self.sentence[self.sentence.index(noun['base'])] = new_noun
 
         # # Here's where we'll do replacements, like inflections (for now)
         # while 'ART-INDEF' in self.pos_sentence:
