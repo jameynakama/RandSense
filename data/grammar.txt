@@ -7,5 +7,6 @@
 # PREP-PHRASE -> preposition NP
 
 SENTENCE -> SUBJECT PREDICATE
-SUBJECT -> determiner noun | possessive-pronoun noun | nominative-pronoun
+# SUBJECT -> determiner noun | possessive-pronoun noun | nominative-pronoun
+SUBJECT -> determiner noun
 PREDICATE -> verb

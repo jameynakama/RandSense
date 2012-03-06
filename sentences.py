@@ -112,6 +112,12 @@ class Sentence(object):
         for word in self.technical_sentence:
         	self.sentence.append(word['base'])
 
+        if 'determiner' in self.pos_sentence:
+            determiner = self.technical_sentence[self.pos_sentence.index('determiner')]
+            noun = self.technical_sentence[self.pos_sentence.index('noun')]
+            new_noun = Inflector.inflect_noun(determiner, noun)
+            self.sentence[self.sentence.index(noun['base'])] = new_noun
+
         # # Here's where we'll do replacements, like inflections (for now)
         # while 'ART-INDEF' in self.pos_sentence:
         #     index = self.pos_sentence.index('ART-INDEF')
