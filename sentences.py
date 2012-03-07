@@ -52,8 +52,6 @@ class Lexicon(object):
 			return random.choice(self.words)
 
 class Sentence(object):
-    VOWELS = ['a', 'e', 'i', 'o', 'u']
-
     def __init__(self, lexicon):
         self.pos_sentence = []
         self.sentence = ''
@@ -114,29 +112,10 @@ class Sentence(object):
 
         if 'determiner' in self.pos_sentence:
             determiner = self.technical_sentence[self.pos_sentence.index('determiner')]
-            if 'plural' in determiner:
-                    noun = self.technical_sentence[self.pos_sentence.index('noun')]
-                    new_noun = Inflector.inflect_noun(noun)
-                    self.sentence[self.sentence.index(noun['base'])] = new_noun
-
-        # # Here's where we'll do replacements, like inflections (for now)
-        # while 'ART-INDEF' in self.pos_sentence:
-        #     index = self.pos_sentence.index('ART-INDEF')
-        #     if self.sentence[index+1][0] in Sentence.VOWELS:
-        #         self.sentence[index] = 'an'
-        #     else:
-        #         self.sentence[index] = 'a'
-        #     self.pos_sentence[index] = 'ART-INDEF-REPLACED'
-
-        # # TEMPORARY LOCATORS (right now this only works with one word each - find better way)
-        # if 'VT' in self.pos_sentence:
-        #     index = self.pos_sentence.index('VT')
-        #     self.sentence[index] = "<"+self.sentence[index]+">"
-        # if 'VI' in self.pos_sentence:
-        #     index = self.pos_sentence.index('VI')
-        #     self.sentence[index] = "<"+self.sentence[index]+">"
-
-        # Inflector.inflect(self.technical_sentence)
+            noun = self.technical_sentence[self.pos_sentence.index('noun')]
+            new_determiner, new_noun = Inflector.inflect_noun(determiner, noun)
+            self.sentence[self.pos_sentence.index('noun')] = new_noun
+            self.sentence[self.pos_sentence.index('determiner')] = new_determiner
 
         self.sentence[0] = string.capwords(self.sentence[0])
         self.sentence = ' '.join(self.sentence) + "."
