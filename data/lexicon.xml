@@ -1,7 +1,7 @@
 <lexicon>
 <word>
   <base>a</base>
-  <category>determiner</category>
+  <category>indefinite-article</category>
   <id>E0006419</id>
 </word>
 <word>
@@ -927,6 +927,7 @@
 <word>
   <base>aids</base>
   <category>noun</category>
+  <plural>aids</plural>
 </word>
 <word>
   <base>aim</base>
@@ -1328,7 +1329,7 @@
 </word>
 <word>
   <base>an</base>
-  <category>determiner</category>
+  <category>indefinite-article</category>
   <id>E0008739</id>
 </word>
 <word>
@@ -2845,6 +2846,7 @@
   <pastParticiple>been</pastParticiple>
   <presentParticiple>being</presentParticiple>
   <transitive/>
+  <linking/>
 </word>
 <word>
   <base>beach</base>
@@ -10913,7 +10915,7 @@
   <base>elite</base>
   <category>noun</category>
   <id>E0024825</id>
-  <plural>�lites</plural>
+  <plural>elites</plural>
 </word>
 <word>
   <base>else</base>
@@ -17278,10 +17280,6 @@
   <ditransitive/>
   <intransitive/>
   <transitive/>
-</word>
-<word>
-  <base>instal</base>
-  <category>verb</category>
 </word>
 <word>
   <base>install</base>

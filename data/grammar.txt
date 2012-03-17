@@ -1,12 +1,17 @@
-# SENTENCE -> SUBJECT PREDICATE | SUBJECT PREDICATE COMPLEMENT
-# SUBJECT -> NP
-# NP -> determiner noun | determiner ADJECTIVE noun | pronoun
-# ADJECTIVE -> ADJECTIVE adjective | adjective
-# PREDICATE -> verb | verb NP
-# COMPLEMENT -> COMPLEMENT PREP-PHRASE | PREP-PHRASE
-# PREP-PHRASE -> preposition NP
+#SENTENCE -> SUBJECT PREDICATE
 
-SENTENCE -> SUBJECT PREDICATE
-# SUBJECT -> determiner noun | possessive-pronoun noun | nominative-pronoun
-SUBJECT -> determiner noun
-PREDICATE -> verb
+# SUBJECT -> DETERMINER NOUN_PHRASE | possessive-pronoun NOUN_PHRASE | nominative-pronoun
+#SUBJECT -> NOUN_PHRASE
+#NOUN_PHRASE -> DETERMINER main-noun | DETERMINER ADJECTIVE main-noun
+
+#PREDICATE -> VERB_PHRASE | adverb VERB_PHRASE
+#PREDICATE -> VERB_PHRASE adverb | adverb VERB_PHRASE adverb
+#VERB_PHRASE -> main-verb-intransitive | main-verb-transitive NOUN_PHRASE
+#VERB_PHRASE -> main-verb-ditransitive NOUN_PHRASE NOUN_PHRASE
+#VERB_PHRASE -> main-verb-linking COMPLEMENT
+
+#DETERMINER -> determiner | indefinite-article
+
+#COMPLEMENT -> NOUN_PHRASE | ADJECTIVE
+
+#ADJECTIVE -> ADJECTIVE adjective | adjective | adverb adjective
