@@ -11671,11 +11671,13 @@
   <base>everyone</base>
   <category>nominative-pronoun</category>
   <id>E0026454</id>
+  <plural/>
 </word>
 <word>
   <base>everything</base>
   <category>nominative-pronoun</category>
   <id>E0026455</id>
+  <plural/>
 </word>
 <word>
   <base>everywhere</base>
@@ -33857,6 +33859,7 @@
   <base>they</base>
   <category>nominative-pronoun</category>
   <id>E0060618</id>
+  <plural/>
 </word>
 <word>
   <base>thick</base>
@@ -36555,6 +36558,7 @@
   <base>we</base>
   <category>nominative-pronoun</category>
   <id>E0065158</id>
+  <plural/>
 </word>
 <word>
   <base>weak</base>
@@ -37593,6 +37597,7 @@
   <base>you</base>
   <category>nominative-pronoun</category>
   <id>E0065890</id>
+  <plural/>
 </word>
 <word>
   <base>young</base>

@@ -48,10 +48,6 @@ class Inflector(object):
         according to subject and tense, and performing similar actions.
         """
 
-        #
-        # going to have to account for multiple indefinite articles
-        #
-
         for pos in pos_sentence:
             if pos[:9] == 'main-noun':
                 index_main_noun = pos_sentence.index(pos)
@@ -139,6 +135,8 @@ class Inflector(object):
         else:
             if verb['base'][-1] == 'e':
                 return verb['base'] + 'd'
+            elif verb['base'][-1] == 'y':
+                return verb['base'] + 'ied'
             else:
                 return verb['base'] + 'ed'
 

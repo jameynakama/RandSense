@@ -1,4 +1,4 @@
-import os, random, string
+import os, random, string, pprint
 import xml.etree.ElementTree as xml
 
 
@@ -68,7 +68,7 @@ class Sentence(object):
         #     )
         # self.sentence_type = random.choice(possible_types)
 
-        data = open('data/grammar.txt', 'r').read().split('\n')
+        data = open('data/grammar/bases.txt', 'r').read().split('\n')
 
         # delete comments and blank lines from grammar data
         for i in range(len(data)-1, -1, -1):
@@ -91,12 +91,17 @@ class Sentence(object):
         """
         Recursively constructs a sentence diagram.
         """
-        if level in self.grammar:
-            next = random.choice(self.grammar[level])
-            for element in next:
-                self.process(element)
-        else:
-            self.pos_sentence.append(level)
+        def go(level):
+            if level in self.grammar:
+                next = random.choice(self.grammar[level])
+                for element in next:
+                    go(element)
+            else:
+                result.append(level)
+
+        result = []
+        go(level)
+        return result
 
     def get_sentence(self):
         """
@@ -106,20 +111,69 @@ class Sentence(object):
         self.pos_sentence = []
         self.technical_sentence = []
         self.sentence = []
-        self.process('SENTENCE')
-        for part_of_speech in self.pos_sentence:
-            if 'main-' in part_of_speech:
-                part_of_speech = part_of_speech[5:]
-            verb_type = ''
-            if 'verb' == part_of_speech[:4]:
-                verb_type = part_of_speech[5:]
-                part_of_speech = part_of_speech[:4]
-            self.technical_sentence.append(self.lexicon.random(verb_type, category=part_of_speech))
-        for word in self.technical_sentence:
-            self.sentence.append(word['base'])
 
-        self.sentence = self.inflector.inflect(self.technical_sentence, self.pos_sentence, self.sentence)
+        # CORE SENTENCE
+        #1. get np
+        np = self.get_noun_phrase()
+        #2. get vp
+        vp = self.get_verb_phrase()
+        #3. conjugate
+        self.send_to_inflector(np, vp, 'plural' in np[0])
 
-        self.sentence[0] = string.capwords(self.sentence[0])
-        self.sentence = ' '.join(self.sentence) + "."
-        return self.sentence
+        #... add complements
+
+        #.... add adjectives, adverbs
+
+        #-1. make 'a' and 'an' correct
+        while 'indefinite-article' in self.pos_sentence:
+            index_of_article = self.pos_sentence.index('indefinite-article')
+            index_of_next_word = index_of_article + 1
+            next_word = self.sentence[index_of_next_word]
+            if next_word[0] in ['a', 'e', 'i' 'o', 'u']:
+                # return 'an'
+                self.sentence[index_of_article] = 'an'
+            else:
+                # return 'a'
+                self.sentence[index_of_article] = 'a'
+            self.pos_sentence[index_of_article] = 'determiner'
+
+        # print self.sentence
+        # print self.pos_sentence
+        # pprint.pprint(self.technical_sentence)
+
+    def get_noun_phrase(self):
+        """
+        Gets a basic noun phrase and returns the technical version of it.
+        """
+        pos_np = self.process("NP")
+        tech_np = []
+        for pos in pos_np:
+            new_word = self.lexicon.random(category=pos)
+            tech_np.append(new_word)
+            self.technical_sentence.append(new_word)
+            self.pos_sentence.append(new_word['category'])
+            self.sentence.append(new_word['base'])
+
+        if 'noun' in pos_np:
+            if 'plural' in tech_np[0]:
+                self.sentence[1] = self.inflector.pluralize_noun(tech_np[1])
+
+        return tech_np
+
+    def get_verb_phrase(self):
+        """
+        Gets a basic verb phrase and returns the technical version of it.
+        """
+        pos_vp = self.process("VP")
+        tech_vp = []
+        for pos in pos_vp:
+            new_word = self.lexicon.random(pos[5:], category=pos[:4])
+            tech_vp.append(new_word)
+            self.technical_sentence.append(new_word)
+            self.pos_sentence.append(new_word['category'])
+            self.sentence.append(new_word['base'])
+
+        return tech_vp
+
+    def send_to_inflector(self, tech_np, tech_vp, is_plural):
+        self.sentence[-1] = self.inflector.do_verb(tech_np[-1], tech_vp[0], is_plural)

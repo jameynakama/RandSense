@@ -60,8 +60,12 @@ def be():
 def main():
     pprint.pprint(s.grammar)
     for i in range(10):
-        print "\n{0}: {1}\n".format(i+1, s.get_sentence())
+        s.get_sentence()
+        print "\n{0}: {1}\n".format(i+1, s.sentence)
         print "["+' '.join(s.pos_sentence)+"]"
+        pprint.pprint(s.technical_sentence)
 
 if __name__ == '__main__':
     main()
+
+s.parse_grammar()
