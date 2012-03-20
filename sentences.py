@@ -3,6 +3,10 @@
 - Add negations
 - Add commas
 - Add some new tenses
+- Capitalize 'i'
+- Adjectives: comparative, superlative
+- Make "Warriors engage" possible (right now the logic is in place only for "a warrior" or "the warriors")
+- Determiners can have <singularorplural/> tag, so check for this and do a choice on the noun if so
 """
 
 import os, random, string, pprint
@@ -112,7 +116,7 @@ class Sentence(object):
         go(level)
         return result
 
-    def get_sentence(self):
+    def get_sentence(self, level='S'):
         """
         Returns a randomly generated sentence. This is the most top-level user-accessed
         method so far. Everything else is automatic.
@@ -122,15 +126,7 @@ class Sentence(object):
         self.base_sentence = []
         self.final_sentence = ""
 
-        # CORE SENTENCE
-        # #1. get np
-        # np = self.get_noun_phrase()
-        # #2. get vp
-        # vp = self.get_verb_phrase()
-        # #3. conjugate
-        # self.send_to_inflector(np, vp, 'plural' in np[0])
-
-        self.pos_sentence = self.process("S")
+        self.pos_sentence = self.process(level)
         for pos in self.pos_sentence:
             if 'verb' == pos[:4]:
                 new_word = self.lexicon.random(pos[5:], category=pos[:4])
@@ -148,55 +144,5 @@ class Sentence(object):
             self.final_sentence += "?"
         else:
             self.final_sentence += "."
-        # print "\n"+self.final_sentence+"\n"
-        # print self.pos_sentence
 
         #... add complements
-
-        #-1. make 'a' and 'an' correct
-        while 'indefinite-article' in self.pos_sentence:
-            index_of_article = self.pos_sentence.index('indefinite-article')
-            index_of_next_word = index_of_article + 1
-            next_word = self.base_sentence[index_of_next_word]
-            if next_word[0] in ['a', 'e', 'i' 'o', 'u'] and next_word[:3] not in ['uni',]:
-                self.base_sentence[index_of_article] = 'an'
-            else:
-                self.base_sentence[index_of_article] = 'a'
-            self.pos_sentence[index_of_article] = 'determiner'
-
-    def get_noun_phrase(self):
-        """
-        Gets a basic noun phrase and returns the technical version of it.
-        """
-        pos_np = self.process("NP")
-        tech_np = []
-        for pos in pos_np:
-            new_word = self.lexicon.random(category=pos)
-            tech_np.append(new_word)
-            self.technical_sentence.append(new_word)
-            self.pos_sentence.append(new_word['category'])
-            self.base_sentence.append(new_word['base'])
-
-        if 'noun' in pos_np:
-            if 'plural' in tech_np[0]:
-                self.base_sentence[1] = self.inflector.pluralize_noun(tech_np[1])
-
-        return tech_np
-
-    def get_verb_phrase(self):
-        """
-        Gets a basic verb phrase and returns the technical version of it.
-        """
-        pos_vp = self.process("VP")
-        tech_vp = []
-        for pos in pos_vp:
-            new_word = self.lexicon.random(pos[5:], category=pos[:4])
-            tech_vp.append(new_word)
-            self.technical_sentence.append(new_word)
-            self.pos_sentence.append(new_word['category'])
-            self.base_sentence.append(new_word['base'])
-
-        return tech_vp
-
-    def send_to_inflector(self, tech_np, tech_vp, is_plural):
-        self.base_sentence[-1] = self.inflector.do_verb(tech_np[-1], tech_vp[0], is_plural)

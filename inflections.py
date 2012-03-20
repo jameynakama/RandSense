@@ -2,21 +2,6 @@ import pdb
 import random
 
 
-'''
-
-Adjectives: comparative, superlative
-
-Make "Warriors engage" possible (right now the logic is in place only for "a warrior"
-    or "the warriors")
-
-Determiners can have <singularorplural/> tag, so check for this and do a choice on the noun if so
-
-Figure out how to handle more than one noun and verb in a clause
-
-Recognize intransitive, transitive, and ditransitive
-
-'''
-
 class Inflector(object):
     VOWELS = ['a', 'e', 'i', 'o', 'u',]
 
@@ -37,11 +22,6 @@ class Inflector(object):
 
     VERB_TYPES = ['verb-intransitive', 'verb-transitive', 'verb-ditransitive',]
 
-    # pronouns = ['I', 'you', 'he', 'she', 'it', 'we', 'you', 'they', 'somebody', 'someone',
-    # 'something', 'whoever', 'ye', 'anyone', 'anything', 'everybody', 'everyone',
-    # 'everything', 'nobody', 'none', 'nothing', 'one', 'plenty']
-    # possessive_pronouns = ['my', 'your', 'his', 'her', 'its', 'our', 'your', 'their']
-
     def inflect(self, base_sentence, pos_sentence, technical_sentence):
         """
         Here we check for all the conditions which require an inflection (and route the required
@@ -49,24 +29,17 @@ class Inflector(object):
         according to subject and tense, and performing similar actions.
         """
 
-        #1. inflect nouns by finding determiners
-        base_sentence = self.route_nouns(base_sentence, pos_sentence, technical_sentence)
+        #1. inflect nouns by examining their determiners
+        self.route_nouns(base_sentence, pos_sentence, technical_sentence)
 
-        for i in range(len(pos_sentence)):
-            if '-done' in pos_sentence[i]:
-                pos_sentence[i] = pos_sentence[i][:-5]
-            elif '-inflected' in pos_sentence[i]:
-                pos_sentence[i] = pos_sentence[i][:-10]
+        #2. conjugate verbs by finding their subjects (and determiners)
+        self.route_verbs(base_sentence, pos_sentence, technical_sentence)
 
-        #2. conjugate verbs
-        base_sentence = self.route_verbs(base_sentence, pos_sentence, technical_sentence)
-
+        #3. make indefinite articles agree
         while 'indefinite-article' in pos_sentence:
-            new_determiner = self.make_article_agree(technical_sentence[pos_sentence.index('indefinite-article')+1])
+            new_determiner = self.make_article_agree(base_sentence[pos_sentence.index('indefinite-article')+1])
             base_sentence[pos_sentence.index('indefinite-article')] = new_determiner
             pos_sentence[pos_sentence.index('indefinite-article')] = 'determiner'
-
-        return base_sentence
 
     def route_nouns(self, base_sentence, pos_sentence, technical_sentence):
         while 'determiner' in pos_sentence:
@@ -84,7 +57,11 @@ class Inflector(object):
                 # maybe do random plurals here later
                 pos_sentence[determiner_index] = 'determiner-done'
 
-        return base_sentence
+        for i in range(len(pos_sentence)):
+            if '-done' in pos_sentence[i]:
+                pos_sentence[i] = pos_sentence[i][:-5]
+            elif '-inflected' in pos_sentence[i]:
+                pos_sentence[i] = pos_sentence[i][:-10]
 
     def route_verbs(self, base_sentence, pos_sentence, technical_sentence):
         for i in range(len(pos_sentence)):
@@ -108,17 +85,15 @@ class Inflector(object):
                                                 )
             pos_sentence[verb_index] = 'verb-conjugated'
 
-        return base_sentence
-
     def make_article_agree(self, word):
         #
         # FIX things like "an uniform" unicycle etc.
         #
-        if word['base'][0] in Inflector.VOWELS:
-            determiner = 'an'
+
+        if word[0] in ['a', 'e', 'i' 'o', 'u'] and word[:3] not in ['uni',]:
+            return 'an'
         else:
-            determiner = 'a'
-        return determiner
+            return 'a'
 
     def pluralize_noun(self, noun):
         if 'plural' in noun:
