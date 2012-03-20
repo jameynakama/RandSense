@@ -19,7 +19,7 @@ def foo(word='random'):
     while True:
         i += 1
         print "\n{}: {}".format(i, s.get_sentence())
-        if word in s.sentence:
+        if word in s.base_sentence:
             break
 
 def make_plural_nouns(n=10):
@@ -29,30 +29,30 @@ def make_plural_nouns(n=10):
     for i in range(n):
         print Inflector.inflect_noun(l.random(category='noun'))
 
-def be():
-    s.sentence = []
-    s.technical_sentence = []
-    s.pos_sentence = []
-    s.process('SENTENCE')
-    for part_of_speech in s.pos_sentence:
-        if 'main-' in part_of_speech:
-            part_of_speech = part_of_speech[5:]
-        verb_type = ''
-        if 'verb' == part_of_speech[:4]:
-            verb_type = part_of_speech[5:]
-            part_of_speech = part_of_speech[:4]
-        s.technical_sentence.append(s.lexicon.random(verb_type, category=part_of_speech))
-    s.technical_sentence[s.pos_sentence.index('main-verb-linking')] = s.lexicon.search(base='be')[0]
+# def be():
+#     s.sentence = []
+#     s.technical_sentence = []
+#     s.pos_sentence = []
+#     s.process('SENTENCE')
+#     for part_of_speech in s.pos_sentence:
+#         if 'main-' in part_of_speech:
+#             part_of_speech = part_of_speech[5:]
+#         verb_type = ''
+#         if 'verb' == part_of_speech[:4]:
+#             verb_type = part_of_speech[5:]
+#             part_of_speech = part_of_speech[:4]
+#         s.technical_sentence.append(s.lexicon.random(verb_type, category=part_of_speech))
+#     s.technical_sentence[s.pos_sentence.index('main-verb-linking')] = s.lexicon.search(base='be')[0]
 
-    for word in s.technical_sentence:
-        s.sentence.append(word['base'])
+#     for word in s.technical_sentence:
+#         s.sentence.append(word['base'])
 
-    s.sentence = s.inflector.inflect(s.technical_sentence, s.pos_sentence, s.sentence)
+#     s.sentence = s.inflector.inflect(s.technical_sentence, s.pos_sentence, s.sentence)
 
-    import string
-    s.sentence[0] = string.capwords(s.sentence[0])
-    s.sentence = ' '.join(s.sentence) + "."
-    print s.sentence
+#     import string
+#     s.sentence[0] = string.capwords(s.sentence[0])
+#     s.sentence = ' '.join(s.sentence) + "."
+#     print s.sentence
 
 #############
 # BEGIN
@@ -61,9 +61,9 @@ def main():
     pprint.pprint(s.grammar)
     for i in range(10):
         s.get_sentence()
-        print "\n{0}: {1}\n".format(i+1, s.sentence)
+        print "\n{}: {}".format(i, s.final_sentence)
         print "["+' '.join(s.pos_sentence)+"]"
-        pprint.pprint(s.technical_sentence)
+        # pprint.pprint(s.technical_sentence)
 
 if __name__ == '__main__':
     main()

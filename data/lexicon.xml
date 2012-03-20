@@ -11671,13 +11671,11 @@
   <base>everyone</base>
   <category>nominative-pronoun</category>
   <id>E0026454</id>
-  <plural/>
 </word>
 <word>
   <base>everything</base>
   <category>nominative-pronoun</category>
   <id>E0026455</id>
-  <plural/>
 </word>
 <word>
   <base>everywhere</base>
@@ -27688,6 +27686,7 @@
   <id>E0052939</id>
   <ditransitive/>
   <transitive/>
+  <linking/>
 </word>
 <word>
   <base>resent</base>
@@ -37532,9 +37531,10 @@
 </word>
 <word>
   <base>ye</base>
-  <category>pronoun</category>
+  <category>determiner</category>
+  <id>J0000124</id>
 </word>
-<word>
+ <word>
   <base>yeah</base>
   <category>noun</category>
 </word>

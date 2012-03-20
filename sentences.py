@@ -1,3 +1,7 @@
+"""
+Make 'ye' work correctly
+"""
+
 import os, random, string, pprint
 import xml.etree.ElementTree as xml
 
@@ -52,9 +56,10 @@ class Lexicon(object):
 
 class Sentence(object):
     def __init__(self, lexicon, inflector):
+        self.base_sentence = []
         self.pos_sentence = []
         self.technical_sentence = []
-        self.sentence = []
+        self.final_sentence = ""
         self.grammar = self.parse_grammar()
         self.lexicon = lexicon
         self.inflector = inflector
@@ -66,9 +71,9 @@ class Sentence(object):
         # possible_types = (
         #     'indicative',
         #     )
-        # self.sentence_type = random.choice(possible_types)
+        # self.base_sentence_type = random.choice(possible_types)
 
-        data = open('data/grammar/bases.txt', 'r').read().split('\n')
+        data = open('data/grammar.txt', 'r').read().split('\n')
 
         # delete comments and blank lines from grammar data
         for i in range(len(data)-1, -1, -1):
@@ -97,7 +102,8 @@ class Sentence(object):
                 for element in next:
                     go(element)
             else:
-                result.append(level)
+                if level != '_':
+                    result.append(level)
 
         result = []
         go(level)
@@ -110,34 +116,52 @@ class Sentence(object):
         """
         self.pos_sentence = []
         self.technical_sentence = []
-        self.sentence = []
+        self.base_sentence = []
+        self.final_sentence = ""
 
         # CORE SENTENCE
-        #1. get np
-        np = self.get_noun_phrase()
-        #2. get vp
-        vp = self.get_verb_phrase()
-        #3. conjugate
-        self.send_to_inflector(np, vp, 'plural' in np[0])
+        # #1. get np
+        # np = self.get_noun_phrase()
+        # #2. get vp
+        # vp = self.get_verb_phrase()
+        # #3. conjugate
+        # self.send_to_inflector(np, vp, 'plural' in np[0])
+
+        self.pos_sentence = self.process("S")
+        for pos in self.pos_sentence:
+            if 'verb' in pos:
+                new_word = self.lexicon.random(pos[5:], category=pos[:4])
+            else:
+                new_word = self.lexicon.random(category=pos)
+            self.technical_sentence.append(new_word)
+            self.base_sentence.append(new_word['base'])
+
+        self.inflector.inflect(self.base_sentence, self.pos_sentence, self.technical_sentence)
+
+        self.final_sentence = string.capwords(self.base_sentence[0])+" "+" ".join(self.base_sentence[1:])
+        if 'whose' in self.base_sentence:
+            self.final_sentence += "?"
+        else:
+            self.final_sentence += "."
+        # print "\n"+self.final_sentence+"\n"
+        # print self.pos_sentence
 
         #... add complements
-
-        #.... add adjectives, adverbs
 
         #-1. make 'a' and 'an' correct
         while 'indefinite-article' in self.pos_sentence:
             index_of_article = self.pos_sentence.index('indefinite-article')
             index_of_next_word = index_of_article + 1
-            next_word = self.sentence[index_of_next_word]
+            next_word = self.base_sentence[index_of_next_word]
             if next_word[0] in ['a', 'e', 'i' 'o', 'u']:
                 # return 'an'
-                self.sentence[index_of_article] = 'an'
+                self.base_sentence[index_of_article] = 'an'
             else:
                 # return 'a'
-                self.sentence[index_of_article] = 'a'
+                self.base_sentence[index_of_article] = 'a'
             self.pos_sentence[index_of_article] = 'determiner'
 
-        # print self.sentence
+        # print self.base_sentence
         # print self.pos_sentence
         # pprint.pprint(self.technical_sentence)
 
@@ -152,11 +176,11 @@ class Sentence(object):
             tech_np.append(new_word)
             self.technical_sentence.append(new_word)
             self.pos_sentence.append(new_word['category'])
-            self.sentence.append(new_word['base'])
+            self.base_sentence.append(new_word['base'])
 
         if 'noun' in pos_np:
             if 'plural' in tech_np[0]:
-                self.sentence[1] = self.inflector.pluralize_noun(tech_np[1])
+                self.base_sentence[1] = self.inflector.pluralize_noun(tech_np[1])
 
         return tech_np
 
@@ -171,9 +195,9 @@ class Sentence(object):
             tech_vp.append(new_word)
             self.technical_sentence.append(new_word)
             self.pos_sentence.append(new_word['category'])
-            self.sentence.append(new_word['base'])
+            self.base_sentence.append(new_word['base'])
 
         return tech_vp
 
     def send_to_inflector(self, tech_np, tech_vp, is_plural):
-        self.sentence[-1] = self.inflector.do_verb(tech_np[-1], tech_vp[0], is_plural)
+        self.base_sentence[-1] = self.inflector.do_verb(tech_np[-1], tech_vp[0], is_plural)

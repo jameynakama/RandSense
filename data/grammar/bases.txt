@@ -1,8 +1,0 @@
-NP -> possessive-pronoun noun | nominative-pronoun
-NP -> DETERMINER noun
-
-DETERMINER -> determiner | indefinite-article
-
-VP -> verb-intransitive
-
-ADJ -> ADJ adjective | adjective

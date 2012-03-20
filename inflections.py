@@ -32,42 +32,81 @@ class Inflector(object):
             'you': 'were',
             'it': 'was',
             'plural': 'were',
-        }
+        },
     }
+
+    VERB_TYPES = ['verb-intransitive', 'verb-transitive', 'verb-ditransitive',]
 
     # pronouns = ['I', 'you', 'he', 'she', 'it', 'we', 'you', 'they', 'somebody', 'someone',
     # 'something', 'whoever', 'ye', 'anyone', 'anything', 'everybody', 'everyone',
     # 'everything', 'nobody', 'none', 'nothing', 'one', 'plenty']
     # possessive_pronouns = ['my', 'your', 'his', 'her', 'its', 'our', 'your', 'their']
 
-
-    def inflect(self, technical_sentence, pos_sentence, base_sentence):
+    def inflect(self, base_sentence, pos_sentence, technical_sentence):
         """
         Here we check for all the conditions which require an inflection (and route the required
         actions). This includes pluralizing nouns for plural-only determiners, conjugating verbs
         according to subject and tense, and performing similar actions.
         """
 
-        for pos in pos_sentence:
-            if pos[:9] == 'main-noun':
-                index_main_noun = pos_sentence.index(pos)
-            elif pos[:9] == 'main-verb':
-                index_main_verb = pos_sentence.index(pos)
-        # index_determiners = []
+        #1. inflect nouns by finding determiners
+        base_sentence = self.route_nouns(base_sentence, pos_sentence, technical_sentence)
 
-        if 'determiner' in pos_sentence:
-            determiner = technical_sentence[pos_sentence.index('determiner')]
-            noun = technical_sentence[index_main_noun]
-            if 'plural' in determiner:
-                new_noun = self.pluralize_noun(noun)
-                base_sentence[index_main_noun] = new_noun
-                new_verb = self.do_verb(technical_sentence[index_main_noun], technical_sentence[index_main_verb], 'plural' in determiner)
-                base_sentence[index_main_verb] = new_verb
+        for i in range(len(pos_sentence)):
+            if '-done' in pos_sentence[i]:
+                pos_sentence[i] = pos_sentence[i][:-5]
+            elif '-inflected' in pos_sentence[i]:
+                pos_sentence[i] = pos_sentence[i][:-10]
+
+        #2. conjugate verbs
+        base_sentence = self.route_verbs(base_sentence, pos_sentence, technical_sentence)
 
         while 'indefinite-article' in pos_sentence:
             new_determiner = self.make_article_agree(technical_sentence[pos_sentence.index('indefinite-article')+1])
             base_sentence[pos_sentence.index('indefinite-article')] = new_determiner
             pos_sentence[pos_sentence.index('indefinite-article')] = 'determiner'
+
+        return base_sentence
+
+    def route_nouns(self, base_sentence, pos_sentence, technical_sentence):
+        while 'determiner' in pos_sentence:
+            # find all determiners and their following nouns
+            determiner_index = pos_sentence.index('determiner')
+            if 'plural' in technical_sentence[determiner_index]:
+                for i in range(determiner_index, len(pos_sentence)):
+                    if pos_sentence[i] == 'noun':
+                        noun_index = i
+                        break
+                base_sentence[noun_index] = self.pluralize_noun(technical_sentence[noun_index])
+                pos_sentence[noun_index] = 'noun-inflected'
+                pos_sentence[determiner_index] = 'determiner-done'
+            else:
+                # maybe do random plurals here later
+                pos_sentence[determiner_index] = 'determiner-done'
+
+        return base_sentence
+
+    def route_verbs(self, base_sentence, pos_sentence, technical_sentence):
+        for i in range(len(pos_sentence)):
+            if pos_sentence[i][:4] == 'verb':
+                pos_sentence[i] = 'verb'
+        while 'verb' in pos_sentence:
+            # find all verbs and their preceding subjects and determiners
+            verb_index = pos_sentence.index('verb')
+            for i in range(verb_index, -1, -1):
+                if pos_sentence[i] in ['determiner', 'indefinite-article', 'nominative-pronoun', 'possessive-pronoun']:
+                    determiner_index = i
+                    break
+            for i in range(verb_index, -1, -1):
+                if pos_sentence[i] in ['noun', 'nominative-pronoun']:
+                    subject_index = i
+                    break
+            base_sentence[verb_index] = self.do_verb(
+                                                technical_sentence[subject_index],
+                                                technical_sentence[verb_index],
+                                                'plural' in technical_sentence[determiner_index],
+                                                )
+            pos_sentence[verb_index] = 'verb-conjugated'
 
         return base_sentence
 
@@ -136,7 +175,7 @@ class Inflector(object):
             if verb['base'][-1] == 'e':
                 return verb['base'] + 'd'
             elif verb['base'][-1] == 'y':
-                return verb['base'] + 'ied'
+                return verb['base'][:-1] + 'ied'
             else:
                 return verb['base'] + 'ed'
 
@@ -148,7 +187,5 @@ class Inflector(object):
                 new_verb = Inflector.BE[tense]['it']
             else:
                 new_verb = Inflector.BE[tense][subject['base']]
-
-        print "MADE IT HERE"
 
         return new_verb
