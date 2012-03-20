@@ -1,5 +1,8 @@
 """
-Make 'ye' work correctly
+- Make 'ye' work correctly
+- Add negations
+- Add commas
+- Add some new tenses
 """
 
 import os, random, string, pprint
