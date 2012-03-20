@@ -129,8 +129,10 @@ class Sentence(object):
 
         self.pos_sentence = self.process("S")
         for pos in self.pos_sentence:
-            if 'verb' in pos:
+            if 'verb' == pos[:4]:
                 new_word = self.lexicon.random(pos[5:], category=pos[:4])
+            elif 'adverb' == pos[:6]:
+                new_word = self.lexicon.random(pos[7:], category=pos[:6])
             else:
                 new_word = self.lexicon.random(category=pos)
             self.technical_sentence.append(new_word)
@@ -153,17 +155,11 @@ class Sentence(object):
             index_of_article = self.pos_sentence.index('indefinite-article')
             index_of_next_word = index_of_article + 1
             next_word = self.base_sentence[index_of_next_word]
-            if next_word[0] in ['a', 'e', 'i' 'o', 'u']:
-                # return 'an'
+            if next_word[0] in ['a', 'e', 'i' 'o', 'u'] and next_word[:3] not in ['uni',]:
                 self.base_sentence[index_of_article] = 'an'
             else:
-                # return 'a'
                 self.base_sentence[index_of_article] = 'a'
             self.pos_sentence[index_of_article] = 'determiner'
-
-        # print self.base_sentence
-        # print self.pos_sentence
-        # pprint.pprint(self.technical_sentence)
 
     def get_noun_phrase(self):
         """

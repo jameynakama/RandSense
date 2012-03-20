@@ -280,7 +280,7 @@
   <base>accordingly</base>
   <category>adverb</category>
   <id>E0006746</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -475,7 +475,7 @@
   <base>actually</base>
   <category>adverb</category>
   <id>E0218433</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -801,14 +801,14 @@
   <base>afterwards</base>
   <category>adverb</category>
   <id>E0218438</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
   <base>again</base>
   <category>adverb</category>
   <id>E0007725</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -1052,7 +1052,7 @@
   <category>adverb</category>
   <id>E0429817</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -1141,7 +1141,7 @@
   <category>adverb</category>
   <id>E0008307</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>alright</base>
@@ -1156,7 +1156,7 @@
   <category>adverb</category>
   <id>E0008309</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -1191,7 +1191,7 @@
   <base>alternatively</base>
   <category>adverb</category>
   <id>E0008330</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>although</base>
@@ -1203,7 +1203,7 @@
   <category>adverb</category>
   <id>E0008344</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>aluminium</base>
@@ -1534,7 +1534,7 @@
   <base>anyway</base>
   <category>adverb</category>
   <id>E0009850</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>anywhere</base>
@@ -1586,7 +1586,7 @@
   <category>adverb</category>
   <id>E0010067</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>appeal</base>
@@ -2767,7 +2767,7 @@
   <category>adverb</category>
   <id>E0218453</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -3144,7 +3144,7 @@
   <base>besides</base>
   <category>adverb</category>
   <id>E0012499</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>besides</base>
@@ -4849,7 +4849,7 @@
   <category>adverb</category>
   <id>E0016064</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -5496,7 +5496,7 @@
   <base>clearly</base>
   <category>adverb</category>
   <id>E0017290</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -6735,7 +6735,7 @@
   <category>adverb</category>
   <id>E0018593</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>conservation</base>
@@ -7223,7 +7223,7 @@
   <base>conversely</base>
   <category>adverb</category>
   <id>E0018882</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -7461,10 +7461,6 @@
   <base>corruption</base>
   <category>noun</category>
   <id>E0019178</id>
-</word>
-<word>
-  <base>cos</base>
-  <category>conjunction</category>
 </word>
 <word>
   <base>cost</base>
@@ -8014,7 +8010,7 @@
   <category>adverb</category>
   <id>E0020166</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -8051,7 +8047,7 @@
   <base>currently</base>
   <category>adverb</category>
   <id>E0020175</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -10153,7 +10149,7 @@
   <category>adverb</category>
   <id>E0219807</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -10659,7 +10655,7 @@
   <category>adverb</category>
   <id>E0418259</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -10921,7 +10917,7 @@
   <base>else</base>
   <category>adverb</category>
   <id>E0024844</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11534,7 +11530,7 @@
   <base>essentially</base>
   <category>adverb</category>
   <id>E0026172</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11642,7 +11638,7 @@
   <base>eventually</base>
   <category>adverb</category>
   <id>E0026444</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11681,7 +11677,7 @@
   <base>everywhere</base>
   <category>adverb</category>
   <id>E0026456</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11701,7 +11697,7 @@
   <base>evidently</base>
   <category>adverb</category>
   <id>E0026462</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13005,7 +13001,7 @@
   <base>finally</base>
   <category>adverb</category>
   <id>E0218476</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13126,7 +13122,7 @@
   <base>firstly</base>
   <category>adverb</category>
   <id>E0027988</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13733,7 +13729,7 @@
   <base>fortunately</base>
   <category>adverb</category>
   <id>E0028641</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13848,7 +13844,7 @@
   <category>adverb</category>
   <id>E0028745</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13920,7 +13916,7 @@
   <base>frequently</base>
   <category>adverb</category>
   <id>E0028806</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -14185,7 +14181,7 @@
   <base>furthermore</base>
   <category>adverb</category>
   <id>E0029088</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>fury</base>
@@ -14378,7 +14374,7 @@
   <category>adverb</category>
   <id>E0029532</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15318,7 +15314,7 @@
   <base>happily</base>
   <category>adverb</category>
   <id>E0218480</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15357,7 +15353,7 @@
   <base>hardly</base>
   <category>adverb</category>
   <id>E0030831</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>hardship</base>
@@ -15679,7 +15675,7 @@
   <base>hence</base>
   <category>adverb</category>
   <id>E0031288</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15874,7 +15870,7 @@
   <category>adverb</category>
   <id>E0031771</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15903,7 +15899,7 @@
   <category>adverb</category>
   <id>E0031786</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16002,7 +15998,7 @@
   <base>honestly</base>
   <category>adverb</category>
   <id>E0031956</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>honey</base>
@@ -16049,7 +16045,7 @@
   <base>hopefully</base>
   <category>adverb</category>
   <id>E0031993</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16192,7 +16188,7 @@
   <category>adverb</category>
   <id>E0032107</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16352,7 +16348,7 @@
   <base>ideally</base>
   <category>adverb</category>
   <id>E0033263</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16596,7 +16592,7 @@
   <base>importantly</base>
   <category>adverb</category>
   <id>E0033799</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16725,7 +16721,7 @@
   <base>incidentally</base>
   <category>adverb</category>
   <id>E0033967</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16824,7 +16820,7 @@
   <category>adverb</category>
   <id>E0034126</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -17094,7 +17090,7 @@
   <base>initially</base>
   <category>adverb</category>
   <id>E0034653</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -17808,7 +17804,7 @@
   <base>ironically</base>
   <category>adverb</category>
   <id>E0221086</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18504,7 +18500,7 @@
   <category>adverb</category>
   <id>E0036868</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18554,7 +18550,7 @@
   <base>later</base>
   <category>adverb</category>
   <id>E0450907</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18808,7 +18804,7 @@
   <base>legally</base>
   <category>adverb</category>
   <id>E0204505</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -19139,7 +19135,7 @@
   <category>adverb</category>
   <id>E0037559</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -20270,7 +20266,7 @@
   <base>maybe</base>
   <category>adverb</category>
   <id>E0039143</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>mayor</base>
@@ -20338,7 +20334,7 @@
   <base>meanwhile</base>
   <category>adverb</category>
   <id>E0039170</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>measure</base>
@@ -20489,7 +20485,7 @@
   <base>mentally</base>
   <category>adverb</category>
   <id>E0039544</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21121,7 +21117,7 @@
   <base>moreover</base>
   <category>adverb</category>
   <id>E0040989</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>morning</base>
@@ -21148,7 +21144,7 @@
   <category>adverb</category>
   <id>E0041058</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21162,7 +21158,7 @@
   <category>adverb</category>
   <id>E0041059</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21456,7 +21452,7 @@
   <base>namely</base>
   <category>adverb</category>
   <id>E0041846</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>narrative</base>
@@ -21544,7 +21540,7 @@
   <category>adverb</category>
   <id>E0041992</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21772,13 +21768,13 @@
   <base>never</base>
   <category>adverb</category>
   <id>E0042565</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>nevertheless</base>
   <category>adverb</category>
   <id>E0042566</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>new</base>
@@ -21814,7 +21810,7 @@
   <base>next</base>
   <category>adverb</category>
   <id>E0042591</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21850,7 +21846,7 @@
   <category>adverb</category>
   <id>E0605458</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21933,7 +21929,7 @@
   <category>adverb</category>
   <id>E0042847</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>nonsense</base>
@@ -21967,7 +21963,7 @@
   <base>normally</base>
   <category>adverb</category>
   <id>E0043018</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>north</base>
@@ -21986,7 +21982,7 @@
   <base>not</base>
   <category>adverb</category>
   <id>E0043086</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>notable</base>
@@ -21999,7 +21995,7 @@
   <base>notably</base>
   <category>adverb</category>
   <id>E0043090</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>note</base>
@@ -22087,7 +22083,7 @@
   <category>adverb</category>
   <id>E0043140</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -22275,7 +22271,7 @@
   <base>obviously</base>
   <category>adverb</category>
   <id>E0043456</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>occasion</base>
@@ -22293,7 +22289,7 @@
   <base>occasionally</base>
   <category>adverb</category>
   <id>E0043461</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>occupation</base>
@@ -22428,7 +22424,7 @@
   <base>officially</base>
   <category>adverb</category>
   <id>E0043640</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -22780,18 +22776,6 @@
   <predicative/>
 </word>
 <word>
-  <base>organisation</base>
-  <category>noun</category>
-</word>
-<word>
-  <base>organisational</base>
-  <category>adjective</category>
-</word>
-<word>
-  <base>organise</base>
-  <category>verb</category>
-</word>
-<word>
   <base>organiser</base>
   <category>noun</category>
 </word>
@@ -22878,7 +22862,7 @@
   <base>otherwise</base>
   <category>adverb</category>
   <id>E0044445</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -23034,7 +23018,7 @@
   <base>overall</base>
   <category>adverb</category>
   <id>E0044624</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -23805,7 +23789,7 @@
   <base>perhaps</base>
   <category>adverb</category>
   <id>E0046430</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>period</base>
@@ -23880,7 +23864,7 @@
   <category>adverb</category>
   <id>E0046936</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24501,7 +24485,7 @@
   <base>politically</base>
   <category>adverb</category>
   <id>E0048645</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24684,7 +24668,7 @@
   <base>positively</base>
   <category>adverb</category>
   <id>E0049039</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24777,7 +24761,7 @@
   <category>adverb</category>
   <id>E0049407</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25096,7 +25080,7 @@
   <base>presently</base>
   <category>adverb</category>
   <id>E0049845</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25157,7 +25141,7 @@
   <base>presumably</base>
   <category>adverb</category>
   <id>E0049884</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>presume</base>
@@ -25256,7 +25240,7 @@
   <category>adverb</category>
   <id>E0049989</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25309,7 +25293,7 @@
   <base>principally</base>
   <category>adverb</category>
   <id>E0218500</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25428,7 +25412,7 @@
   <base>probably</base>
   <category>adverb</category>
   <id>E0050087</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -26015,7 +25999,7 @@
   <category>adverb</category>
   <id>E0051003</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -26527,7 +26511,7 @@
   <base>rarely</base>
   <category>adverb</category>
   <id>E0052003</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>rat</base>
@@ -26550,7 +26534,7 @@
   <category>adverb</category>
   <id>E0052018</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -26686,7 +26670,7 @@
   <category>adverb</category>
   <id>E0052112</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -27388,7 +27372,7 @@
   <category>adverb</category>
   <id>E0052666</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -27563,7 +27547,7 @@
   <category>adverb</category>
   <id>E0052845</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -28450,7 +28434,7 @@
   <base>roughly</base>
   <category>adverb</category>
   <id>E0053850</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>round</base>
@@ -28689,7 +28673,7 @@
   <category>adverb</category>
   <id>E0054112</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -28913,7 +28897,7 @@
   <base>scarcely</base>
   <category>adverb</category>
   <id>E0054518</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>scared</base>
@@ -29164,7 +29148,7 @@
   <base>secondly</base>
   <category>adverb</category>
   <id>E0417997</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>secret</base>
@@ -29269,7 +29253,7 @@
   <base>seemingly</base>
   <category>adverb</category>
   <id>E0055017</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>segment</base>
@@ -29287,7 +29271,7 @@
   <base>seldom</base>
   <category>adverb</category>
   <id>E0055050</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>select</base>
@@ -29495,7 +29479,7 @@
   <category>adverb</category>
   <id>E0055352</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30049,7 +30033,7 @@
   <base>sideways</base>
   <category>adverb</category>
   <id>E0055855</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30120,7 +30104,7 @@
   <base>significantly</base>
   <category>adverb</category>
   <id>E0055900</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30185,7 +30169,7 @@
   <base>similarly</base>
   <category>adverb</category>
   <id>E0055957</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30204,7 +30188,7 @@
   <base>simply</base>
   <category>adverb</category>
   <id>E0055983</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30739,7 +30723,7 @@
   <base>socially</base>
   <category>adverb</category>
   <id>E0056515</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30889,7 +30873,7 @@
   <base>somehow</base>
   <category>adverb</category>
   <id>E0056732</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30919,7 +30903,7 @@
   <base>somewhere</base>
   <category>adverb</category>
   <id>E0056742</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30936,7 +30920,7 @@
   <base>soon</base>
   <category>adverb</category>
   <id>E0056762</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -31861,7 +31845,7 @@
   <base>still</base>
   <category>adverb</category>
   <id>E0057938</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32034,7 +32018,7 @@
   <category>adverb</category>
   <id>E0058087</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32374,7 +32358,7 @@
   <base>subsequently</base>
   <category>adverb</category>
   <id>E0058660</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32795,7 +32779,7 @@
   <category>adverb</category>
   <id>E0419199</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>suppress</base>
@@ -32822,14 +32806,14 @@
   <base>sure</base>
   <category>adverb</category>
   <id>E0059288</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
   <base>surely</base>
   <category>adverb</category>
   <id>E0059289</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32883,7 +32867,7 @@
   <category>adverb</category>
   <id>E0059335</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>surrender</base>
@@ -33428,7 +33412,7 @@
   <base>technically</base>
   <category>adverb</category>
   <id>E0060038</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>technique</base>
@@ -33777,7 +33761,7 @@
   <base>then</base>
   <category>adverb</category>
   <id>E0060518</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -33827,7 +33811,7 @@
   <base>thereafter</base>
   <category>adverb</category>
   <id>E0060551</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -33840,7 +33824,7 @@
   <base>therefore</base>
   <category>adverb</category>
   <id>E0060553</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>these</base>
@@ -33951,7 +33935,7 @@
   <base>though</base>
   <category>adverb</category>
   <id>E0060730</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -34050,7 +34034,7 @@
   <base>thus</base>
   <category>adverb</category>
   <id>E0060860</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -34225,7 +34209,7 @@
   <base>today</base>
   <category>adverb</category>
   <id>E0061249</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>toe</base>
@@ -34265,7 +34249,7 @@
   <base>tomorrow</base>
   <category>adverb</category>
   <id>E0061312</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>ton</base>
@@ -34286,7 +34270,7 @@
   <base>tonight</base>
   <category>adverb</category>
   <id>E0061331</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>tonne</base>
@@ -34532,7 +34516,7 @@
   <base>traditionally</base>
   <category>adverb</category>
   <id>E0061654</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -34920,7 +34904,7 @@
   <category>adverb</category>
   <id>E0062378</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35075,7 +35059,7 @@
   <base>typically</base>
   <category>adverb</category>
   <id>E0062764</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35107,7 +35091,7 @@
   <category>adverb</category>
   <id>E0062843</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35199,10 +35183,10 @@
   <base>undergo</base>
   <category>verb</category>
   <id>E0063021</id>
-  <present3s>under goes</present3s>
-  <past>under went</past>
-  <pastParticiple>under gone</pastParticiple>
-  <presentParticiple>under going</presentParticiple>
+  <present3s>undergoes</present3s>
+  <past>underwent</past>
+  <pastParticiple>undergone</pastParticiple>
+  <presentParticiple>undergoing</presentParticiple>
   <transitive/>
 </word>
 <word>
@@ -35234,7 +35218,7 @@
   <base>underneath</base>
   <category>adverb</category>
   <id>E0063033</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35286,7 +35270,7 @@
   <category>adverb</category>
   <id>E0063088</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35321,7 +35305,7 @@
   <category>adverb</category>
   <id>E0218385</id>
   <intensifier/>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35349,7 +35333,7 @@
   <base>unfortunately</base>
   <category>adverb</category>
   <id>E0063135</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -36811,14 +36795,14 @@
   <base>whenever</base>
   <category>adverb</category>
   <id>E0065303</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
   <base>where</base>
   <category>adverb</category>
   <id>E0065305</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -36835,7 +36819,7 @@
   <base>whereby</base>
   <category>adverb</category>
   <id>E0065309</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
 </word>
 <word>
   <base>wherever</base>
@@ -37577,7 +37561,7 @@
   <base>yet</base>
   <category>adverb</category>
   <id>E0065868</id>
-  <sentence_modifier/>
+  <sentence-modifier/>
   <verb_modifier/>
 </word>
 <word>

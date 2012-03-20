@@ -58,11 +58,12 @@ def make_plural_nouns(n=10):
 # BEGIN
 #############
 def main():
+    print
     pprint.pprint(s.grammar)
     for i in range(10):
         s.get_sentence()
-        print "\n{}: {}".format(i, s.final_sentence)
-        print "["+' '.join(s.pos_sentence)+"]"
+        print "\n{}: {}".format(i+1, s.final_sentence)
+        # print "["+' '.join(s.pos_sentence)+"]"
         # pprint.pprint(s.technical_sentence)
 
 if __name__ == '__main__':
