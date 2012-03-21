@@ -280,7 +280,7 @@
   <base>accordingly</base>
   <category>adverb</category>
   <id>E0006746</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -475,7 +475,7 @@
   <base>actually</base>
   <category>adverb</category>
   <id>E0218433</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -623,8 +623,8 @@
   <ditransitive/>
   <intransitive/>
   <past>admitted</past>
-  <pastParticiple>admitted</pastParticiple>
-  <presentParticiple>admitting</presentParticiple>
+  <past_participle>admitted</past_participle>
+  <present_participle>admitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -801,14 +801,14 @@
   <base>afterwards</base>
   <category>adverb</category>
   <id>E0218438</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
   <base>again</base>
   <category>adverb</category>
   <id>E0007725</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -1052,7 +1052,7 @@
   <category>adverb</category>
   <id>E0429817</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -1141,7 +1141,7 @@
   <category>adverb</category>
   <id>E0008307</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>alright</base>
@@ -1156,7 +1156,7 @@
   <category>adverb</category>
   <id>E0008309</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -1191,7 +1191,7 @@
   <base>alternatively</base>
   <category>adverb</category>
   <id>E0008330</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>although</base>
@@ -1203,7 +1203,7 @@
   <category>adverb</category>
   <id>E0008344</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>aluminium</base>
@@ -1534,7 +1534,7 @@
   <base>anyway</base>
   <category>adverb</category>
   <id>E0009850</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>anywhere</base>
@@ -1586,7 +1586,7 @@
   <category>adverb</category>
   <id>E0010067</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>appeal</base>
@@ -1825,8 +1825,8 @@
   <present3s>arises</present3s>
   <intransitive/>
   <past>arose</past>
-  <pastParticiple>arisen</pastParticiple>
-  <presentParticiple>arising</presentParticiple>
+  <past_participle>arisen</past_participle>
+  <present_participle>arising</present_participle>
 </word>
 <word>
   <base>arm</base>
@@ -2428,8 +2428,8 @@
   <present3s>awakes</present3s>
   <intransitive/>
   <past>awoke</past>
-  <pastParticiple>awoken</pastParticiple>
-  <presentParticiple>awaking</presentParticiple>
+  <past_participle>awoken</past_participle>
+  <present_participle>awaking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -2632,8 +2632,8 @@
   <id>E0011863</id>
   <present3s>bans</present3s>
   <past>banned</past>
-  <pastParticiple>banned</pastParticiple>
-  <presentParticiple>banning</presentParticiple>
+  <past_participle>banned</past_participle>
+  <present_participle>banning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -2695,8 +2695,8 @@
   <present3s>bars</present3s>
   <ditransitive/>
   <past>barred</past>
-  <pastParticiple>barred</pastParticiple>
-  <presentParticiple>barring</presentParticiple>
+  <past_participle>barred</past_participle>
+  <present_participle>barring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -2767,7 +2767,7 @@
   <category>adverb</category>
   <id>E0218453</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -2843,8 +2843,8 @@
   <base>be</base>
   <category>verb</category>
   <id>E0012152</id>
-  <pastParticiple>been</pastParticiple>
-  <presentParticiple>being</presentParticiple>
+  <past_participle>been</past_participle>
+  <present_participle>being</present_participle>
   <transitive/>
   <linking/>
 </word>
@@ -2876,8 +2876,8 @@
   <ditransitive/>
   <intransitive/>
   <past>bore</past>
-  <pastParticiple>born</pastParticiple>
-  <presentParticiple>bearing</presentParticiple>
+  <past_participle>born</past_participle>
+  <present_participle>bearing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -2907,8 +2907,8 @@
   <present3s>beats</present3s>
   <intransitive/>
   <past>beat</past>
-  <pastParticiple>beaten</pastParticiple>
-  <presentParticiple>beating</presentParticiple>
+  <past_participle>beaten</past_participle>
+  <present_participle>beating</present_participle>
   <transitive/>
 </word>
 <word>
@@ -2940,8 +2940,8 @@
   <id>E0012196</id>
   <present3s>becomes</present3s>
   <past>became</past>
-  <pastParticiple>become</pastParticiple>
-  <presentParticiple>becoming</presentParticiple>
+  <past_participle>become</past_participle>
+  <present_participle>becoming</present_participle>
   <transitive/>
 </word>
 <word>
@@ -2992,8 +2992,8 @@
   <present3s>begs</present3s>
   <intransitive/>
   <past>begged</past>
-  <pastParticiple>begged</pastParticiple>
-  <presentParticiple>begging</presentParticiple>
+  <past_participle>begged</past_participle>
+  <present_participle>begging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3003,8 +3003,8 @@
   <present3s>begins</present3s>
   <intransitive/>
   <past>began</past>
-  <pastParticiple>begun</pastParticiple>
-  <presentParticiple>beginning</presentParticiple>
+  <past_participle>begun</past_participle>
+  <present_participle>beginning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3144,7 +3144,7 @@
   <base>besides</base>
   <category>adverb</category>
   <id>E0012499</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>besides</base>
@@ -3168,8 +3168,8 @@
   <ditransitive/>
   <intransitive/>
   <past>bet</past>
-  <pastParticiple>bet</pastParticiple>
-  <presentParticiple>betting</presentParticiple>
+  <past_participle>bet</past_participle>
+  <present_participle>betting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3226,8 +3226,8 @@
   <ditransitive/>
   <intransitive/>
   <past>bid</past>
-  <pastParticiple>bid</pastParticiple>
-  <presentParticiple>bidding</presentParticiple>
+  <past_participle>bid</past_participle>
+  <present_participle>bidding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3267,8 +3267,8 @@
   <ditransitive/>
   <intransitive/>
   <past>bound</past>
-  <pastParticiple>bound</pastParticiple>
-  <presentParticiple>binding</presentParticiple>
+  <past_participle>bound</past_participle>
+  <present_participle>binding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3342,8 +3342,8 @@
   <present3s>bites</present3s>
   <intransitive/>
   <past>bit</past>
-  <pastParticiple>bitten</pastParticiple>
-  <presentParticiple>biting</presentParticiple>
+  <past_participle>bitten</past_participle>
+  <present_participle>biting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3370,7 +3370,7 @@
   <category>adjective</category>
   <id>E0013255</id>
   <classifying/>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -3434,8 +3434,8 @@
   <ditransitive/>
   <intransitive/>
   <past>bled</past>
-  <pastParticiple>bled</pastParticiple>
-  <presentParticiple>bleeding</presentParticiple>
+  <past_participle>bled</past_participle>
+  <present_participle>bleeding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3512,15 +3512,15 @@
   <ditransitive/>
   <intransitive/>
   <past>blew</past>
-  <pastParticiple>blown</pastParticiple>
-  <presentParticiple>blowing</presentParticiple>
+  <past_participle>blown</past_participle>
+  <present_participle>blowing</present_participle>
   <transitive/>
 </word>
 <word>
   <base>blue</base>
   <category>adjective</category>
   <id>E0013558</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -3866,8 +3866,8 @@
   <ditransitive/>
   <intransitive/>
   <past>broke</past>
-  <pastParticiple>broken</pastParticiple>
-  <presentParticiple>breaking</presentParticiple>
+  <past_participle>broken</past_participle>
+  <present_participle>breaking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3909,8 +3909,8 @@
   <present3s>breeds</present3s>
   <intransitive/>
   <past>bred</past>
-  <pastParticiple>bred</pastParticiple>
-  <presentParticiple>breeding</presentParticiple>
+  <past_participle>bred</past_participle>
+  <present_participle>breeding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -3984,8 +3984,8 @@
   <ditransitive/>
   <intransitive/>
   <past>brought</past>
-  <pastParticiple>brought</pastParticiple>
-  <presentParticiple>bringing</presentParticiple>
+  <past_participle>brought</past_participle>
+  <present_participle>bringing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4050,7 +4050,7 @@
   <base>brown</base>
   <category>adjective</category>
   <id>E0014219</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -4089,8 +4089,8 @@
   <ditransitive/>
   <intransitive/>
   <past>built</past>
-  <pastParticiple>built</pastParticiple>
-  <presentParticiple>building</presentParticiple>
+  <past_participle>built</past_participle>
+  <present_participle>building</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4201,8 +4201,8 @@
   <present3s>bursts</present3s>
   <intransitive/>
   <past>burst</past>
-  <pastParticiple>burst</pastParticiple>
-  <presentParticiple>bursting</presentParticiple>
+  <past_participle>burst</past_participle>
+  <present_participle>bursting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4268,8 +4268,8 @@
   <ditransitive/>
   <intransitive/>
   <past>bought</past>
-  <pastParticiple>bought</pastParticiple>
-  <presentParticiple>buying</presentParticiple>
+  <past_participle>bought</past_participle>
+  <present_participle>buying</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4431,8 +4431,8 @@
   <id>E0014876</id>
   <present3s>cans</present3s>
   <past>canned</past>
-  <pastParticiple>canned</pastParticiple>
-  <presentParticiple>canning</presentParticiple>
+  <past_participle>canned</past_participle>
+  <present_participle>canning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4657,8 +4657,8 @@
   <ditransitive/>
   <intransitive/>
   <past>cast</past>
-  <pastParticiple>cast</pastParticiple>
-  <presentParticiple>casting</presentParticiple>
+  <past_participle>cast</past_participle>
+  <present_participle>casting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4700,8 +4700,8 @@
   <present3s>catches</present3s>
   <intransitive/>
   <past>caught</past>
-  <pastParticiple>caught</pastParticiple>
-  <presentParticiple>catching</presentParticiple>
+  <past_participle>caught</past_participle>
+  <present_participle>catching</present_participle>
   <transitive/>
 </word>
 <word>
@@ -4849,7 +4849,7 @@
   <category>adverb</category>
   <id>E0016064</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -5062,8 +5062,8 @@
   <present3s>chats</present3s>
   <intransitive/>
   <past>chatted</past>
-  <pastParticiple>chatted</pastParticiple>
-  <presentParticiple>chatting</presentParticiple>
+  <past_participle>chatted</past_participle>
+  <present_participle>chatting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -5220,8 +5220,8 @@
   <ditransitive/>
   <intransitive/>
   <past>chose</past>
-  <pastParticiple>chosen</pastParticiple>
-  <presentParticiple>choosing</presentParticiple>
+  <past_participle>chosen</past_participle>
+  <present_participle>choosing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -5232,8 +5232,8 @@
   <ditransitive/>
   <intransitive/>
   <past>chopped</past>
-  <pastParticiple>chopped</pastParticiple>
-  <presentParticiple>chopping</presentParticiple>
+  <past_participle>chopped</past_participle>
+  <present_participle>chopping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -5496,7 +5496,7 @@
   <base>clearly</base>
   <category>adverb</category>
   <id>E0017290</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -5563,8 +5563,8 @@
   <present3s>clings</present3s>
   <intransitive/>
   <past>clung</past>
-  <pastParticiple>clung</pastParticiple>
-  <presentParticiple>clinging</presentParticiple>
+  <past_participle>clung</past_participle>
+  <present_participle>clinging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -5853,19 +5853,19 @@
   <id>E0017895</id>
 </word>
 <word>
-  <base>colour</base>
+  <base>color</base>
   <category>noun</category>
 </word>
 <word>
-  <base>colour</base>
+  <base>color</base>
   <category>verb</category>
 </word>
 <word>
-  <base>coloured</base>
+  <base>colored</base>
   <category>adjective</category>
 </word>
 <word>
-  <base>colourful</base>
+  <base>colorful</base>
   <category>adjective</category>
 </word>
 <word>
@@ -5903,8 +5903,8 @@
   <present3s>comes</present3s>
   <intransitive/>
   <past>came</past>
-  <pastParticiple>come</pastParticiple>
-  <presentParticiple>coming</presentParticiple>
+  <past_participle>come</past_participle>
+  <present_participle>coming</present_participle>
   <transitive/>
 </word>
 <word>
@@ -6022,8 +6022,8 @@
   <present3s>commits</present3s>
   <ditransitive/>
   <past>committed</past>
-  <pastParticiple>committed</pastParticiple>
-  <presentParticiple>committing</presentParticiple>
+  <past_participle>committed</past_participle>
+  <present_participle>committing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -6169,8 +6169,8 @@
   <id>E0018112</id>
   <present3s>compels</present3s>
   <past>compelled</past>
-  <pastParticiple>compelled</pastParticiple>
-  <presentParticiple>compelling</presentParticiple>
+  <past_participle>compelled</past_participle>
+  <present_participle>compelling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -6556,8 +6556,8 @@
   <ditransitive/>
   <intransitive/>
   <past>conferred</past>
-  <pastParticiple>conferred</pastParticiple>
-  <presentParticiple>conferring</presentParticiple>
+  <past_participle>conferred</past_participle>
+  <present_participle>conferring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -6735,7 +6735,7 @@
   <category>adverb</category>
   <id>E0018593</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>conservation</base>
@@ -7223,7 +7223,7 @@
   <base>conversely</base>
   <category>adverb</category>
   <id>E0018882</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -7768,8 +7768,8 @@
   <present3s>creeps</present3s>
   <intransitive/>
   <past>crept</past>
-  <pastParticiple>crept</pastParticiple>
-  <presentParticiple>creeping</presentParticiple>
+  <past_participle>crept</past_participle>
+  <present_participle>creeping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -7859,8 +7859,8 @@
   <present3s>crops</present3s>
   <intransitive/>
   <past>cropped</past>
-  <pastParticiple>cropped</pastParticiple>
-  <presentParticiple>cropping</presentParticiple>
+  <past_participle>cropped</past_participle>
+  <present_participle>cropping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -8010,7 +8010,7 @@
   <category>adverb</category>
   <id>E0020166</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -8047,7 +8047,7 @@
   <base>currently</base>
   <category>adverb</category>
   <id>E0020175</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -8105,8 +8105,8 @@
   <ditransitive/>
   <intransitive/>
   <past>cut</past>
-  <pastParticiple>cut</pastParticiple>
-  <presentParticiple>cutting</presentParticiple>
+  <past_participle>cut</past_participle>
+  <present_participle>cutting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -8338,8 +8338,8 @@
   <ditransitive/>
   <intransitive/>
   <past>dealt</past>
-  <pastParticiple>dealt</pastParticiple>
-  <presentParticiple>dealing</presentParticiple>
+  <past_participle>dealt</past_participle>
+  <present_participle>dealing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -9144,8 +9144,8 @@
   <present3s>deters</present3s>
   <ditransitive/>
   <past>deterred</past>
-  <pastParticiple>deterred</pastParticiple>
-  <presentParticiple>deterring</presentParticiple>
+  <past_participle>deterred</past_participle>
+  <present_participle>deterring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -9362,8 +9362,8 @@
   <ditransitive/>
   <intransitive/>
   <past>dug</past>
-  <pastParticiple>dug</pastParticiple>
-  <presentParticiple>digging</presentParticiple>
+  <past_participle>dug</past_participle>
+  <present_participle>digging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -9424,8 +9424,8 @@
   <ditransitive/>
   <intransitive/>
   <past>dipped</past>
-  <pastParticiple>dipped</pastParticiple>
-  <presentParticiple>dipping</presentParticiple>
+  <past_participle>dipped</past_participle>
+  <present_participle>dipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -9967,8 +9967,8 @@
   <ditransitive/>
   <intransitive/>
   <past>did</past>
-  <pastParticiple>done</pastParticiple>
-  <presentParticiple>doing</presentParticiple>
+  <past_participle>done</past_participle>
+  <present_participle>doing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10149,7 +10149,7 @@
   <category>adverb</category>
   <id>E0219807</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -10193,8 +10193,8 @@
   <ditransitive/>
   <intransitive/>
   <past>dragged</past>
-  <pastParticiple>dragged</pastParticiple>
-  <presentParticiple>dragging</presentParticiple>
+  <past_participle>dragged</past_participle>
+  <present_participle>dragging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10252,8 +10252,8 @@
   <ditransitive/>
   <intransitive/>
   <past>drew</past>
-  <pastParticiple>drawn</pastParticiple>
-  <presentParticiple>drawing</presentParticiple>
+  <past_participle>drawn</past_participle>
+  <present_participle>drawing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10340,8 +10340,8 @@
   <ditransitive/>
   <intransitive/>
   <past>drank</past>
-  <pastParticiple>drunk</pastParticiple>
-  <presentParticiple>drinking</presentParticiple>
+  <past_participle>drunk</past_participle>
+  <present_participle>drinking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10356,8 +10356,8 @@
   <present3s>drives</present3s>
   <intransitive/>
   <past>drove</past>
-  <pastParticiple>driven</pastParticiple>
-  <presentParticiple>driving</presentParticiple>
+  <past_participle>driven</past_participle>
+  <present_participle>driving</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10384,8 +10384,8 @@
   <ditransitive/>
   <intransitive/>
   <past>dropped</past>
-  <pastParticiple>dropped</pastParticiple>
-  <presentParticiple>dropping</presentParticiple>
+  <past_participle>dropped</past_participle>
+  <present_participle>dropping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10407,8 +10407,8 @@
   <id>E0024000</id>
   <present3s>drugs</present3s>
   <past>drugged</past>
-  <pastParticiple>drugged</pastParticiple>
-  <presentParticiple>drugging</presentParticiple>
+  <past_participle>drugged</past_participle>
+  <present_participle>drugging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10623,8 +10623,8 @@
   <present3s>eats</present3s>
   <intransitive/>
   <past>ate</past>
-  <pastParticiple>eaten</pastParticiple>
-  <presentParticiple>eating</presentParticiple>
+  <past_participle>eaten</past_participle>
+  <present_participle>eating</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10639,8 +10639,8 @@
   <present3s>echoes</present3s>
   <intransitive/>
   <past>echoed</past>
-  <pastParticiple>echoed</pastParticiple>
-  <presentParticiple>echoing</presentParticiple>
+  <past_participle>echoed</past_participle>
+  <present_participle>echoing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -10655,7 +10655,7 @@
   <category>adverb</category>
   <id>E0418259</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -10917,7 +10917,7 @@
   <base>else</base>
   <category>adverb</category>
   <id>E0024844</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11444,8 +11444,8 @@
   <present3s>equips</present3s>
   <ditransitive/>
   <past>equipped</past>
-  <pastParticiple>equipped</pastParticiple>
-  <presentParticiple>equipping</presentParticiple>
+  <past_participle>equipped</past_participle>
+  <present_participle>equipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -11530,7 +11530,7 @@
   <base>essentially</base>
   <category>adverb</category>
   <id>E0026172</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11638,7 +11638,7 @@
   <base>eventually</base>
   <category>adverb</category>
   <id>E0026444</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11677,7 +11677,7 @@
   <base>everywhere</base>
   <category>adverb</category>
   <id>E0026456</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -11697,7 +11697,7 @@
   <base>evidently</base>
   <category>adverb</category>
   <id>E0026462</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -12066,8 +12066,8 @@
   <present3s>expels</present3s>
   <ditransitive/>
   <past>expelled</past>
-  <pastParticiple>expelled</pastParticiple>
-  <presentParticiple>expelling</presentParticiple>
+  <past_participle>expelled</past_participle>
+  <present_participle>expelling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -12480,8 +12480,8 @@
   <present3s>falls</present3s>
   <intransitive/>
   <past>fell</past>
-  <pastParticiple>fallen</pastParticiple>
-  <presentParticiple>falling</presentParticiple>
+  <past_participle>fallen</past_participle>
+  <present_participle>falling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -12528,8 +12528,8 @@
   <present3s>fans</present3s>
   <intransitive/>
   <past>fanned</past>
-  <pastParticiple>fanned</pastParticiple>
-  <presentParticiple>fanning</presentParticiple>
+  <past_participle>fanned</past_participle>
+  <present_participle>fanning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -12763,8 +12763,8 @@
   <ditransitive/>
   <intransitive/>
   <past>fed</past>
-  <pastParticiple>fed</pastParticiple>
-  <presentParticiple>feeding</presentParticiple>
+  <past_participle>fed</past_participle>
+  <present_participle>feeding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -12782,8 +12782,8 @@
   <id>E0027519</id>
   <present3s>feels</present3s>
   <past>felt</past>
-  <pastParticiple>felt</pastParticiple>
-  <presentParticiple>feeling</presentParticiple>
+  <past_participle>felt</past_participle>
+  <present_participle>feeling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -12922,8 +12922,8 @@
   <present3s>fights</present3s>
   <intransitive/>
   <past>fought</past>
-  <pastParticiple>fought</pastParticiple>
-  <presentParticiple>fighting</presentParticiple>
+  <past_participle>fought</past_participle>
+  <present_participle>fighting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13001,7 +13001,7 @@
   <base>finally</base>
   <category>adverb</category>
   <id>E0218476</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13038,8 +13038,8 @@
   <ditransitive/>
   <intransitive/>
   <past>found</past>
-  <pastParticiple>found</pastParticiple>
-  <presentParticiple>finding</presentParticiple>
+  <past_participle>found</past_participle>
+  <present_participle>finding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13122,7 +13122,7 @@
   <base>firstly</base>
   <category>adverb</category>
   <id>E0027988</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13182,8 +13182,8 @@
   <ditransitive/>
   <intransitive/>
   <past>fit</past>
-  <pastParticiple>fit</pastParticiple>
-  <presentParticiple>fitting</presentParticiple>
+  <past_participle>fit</past_participle>
+  <present_participle>fitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13264,8 +13264,8 @@
   <present3s>flees</present3s>
   <intransitive/>
   <past>fled</past>
-  <pastParticiple>fled</pastParticiple>
-  <presentParticiple>fleeing</presentParticiple>
+  <past_participle>fled</past_participle>
+  <present_participle>fleeing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13311,8 +13311,8 @@
   <present3s>flings</present3s>
   <ditransitive/>
   <past>flung</past>
-  <pastParticiple>flung</pastParticiple>
-  <presentParticiple>flinging</presentParticiple>
+  <past_participle>flung</past_participle>
+  <present_participle>flinging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13404,8 +13404,8 @@
   <present3s>flies</present3s>
   <intransitive/>
   <past>flew</past>
-  <pastParticiple>flown</pastParticiple>
-  <presentParticiple>flying</presentParticiple>
+  <past_participle>flown</past_participle>
+  <present_participle>flying</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13535,8 +13535,8 @@
   <present3s>forbids</present3s>
   <ditransitive/>
   <past>forbad</past>
-  <pastParticiple>forbid</pastParticiple>
-  <presentParticiple>forbidding</presentParticiple>
+  <past_participle>forbid</past_participle>
+  <present_participle>forbidding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13612,8 +13612,8 @@
   <present3s>forgets</present3s>
   <intransitive/>
   <past>forgot</past>
-  <pastParticiple>forgotten</pastParticiple>
-  <presentParticiple>forgetting</presentParticiple>
+  <past_participle>forgotten</past_participle>
+  <present_participle>forgetting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13624,8 +13624,8 @@
   <ditransitive/>
   <intransitive/>
   <past>forgave</past>
-  <pastParticiple>forgiven</pastParticiple>
-  <presentParticiple>forgiving</presentParticiple>
+  <past_participle>forgiven</past_participle>
+  <present_participle>forgiving</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13729,7 +13729,7 @@
   <base>fortunately</base>
   <category>adverb</category>
   <id>E0028641</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13844,7 +13844,7 @@
   <category>adverb</category>
   <id>E0028745</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -13867,8 +13867,8 @@
   <present3s>frees</present3s>
   <ditransitive/>
   <past>freed</past>
-  <pastParticiple>freed</pastParticiple>
-  <presentParticiple>freeing</presentParticiple>
+  <past_participle>freed</past_participle>
+  <present_participle>freeing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13889,8 +13889,8 @@
   <present3s>freezes</present3s>
   <intransitive/>
   <past>froze</past>
-  <pastParticiple>frozen</pastParticiple>
-  <presentParticiple>freezing</presentParticiple>
+  <past_participle>frozen</past_participle>
+  <present_participle>freezing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -13916,7 +13916,7 @@
   <base>frequently</base>
   <category>adverb</category>
   <id>E0028806</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -14044,8 +14044,8 @@
   <id>E0028949</id>
   <present3s>fulfills</present3s>
   <past>fulfilled</past>
-  <pastParticiple>fulfilled</pastParticiple>
-  <presentParticiple>fulfilling</presentParticiple>
+  <past_participle>fulfilled</past_participle>
+  <present_participle>fulfilling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14181,7 +14181,7 @@
   <base>furthermore</base>
   <category>adverb</category>
   <id>E0029088</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>fury</base>
@@ -14374,7 +14374,7 @@
   <category>adverb</category>
   <id>E0029532</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -14472,8 +14472,8 @@
   <present3s>gets</present3s>
   <ditransitive/>
   <past>got</past>
-  <pastParticiple>gotten</pastParticiple>
-  <presentParticiple>getting</presentParticiple>
+  <past_participle>gotten</past_participle>
+  <present_participle>getting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14521,8 +14521,8 @@
   <ditransitive/>
   <intransitive/>
   <past>gave</past>
-  <pastParticiple>given</pastParticiple>
-  <presentParticiple>giving</presentParticiple>
+  <past_participle>given</past_participle>
+  <present_participle>giving</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14628,8 +14628,8 @@
   <present3s>goes</present3s>
   <intransitive/>
   <past>went</past>
-  <pastParticiple>gone</pastParticiple>
-  <presentParticiple>going</presentParticiple>
+  <past_participle>gone</past_participle>
+  <present_participle>going</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14666,7 +14666,7 @@
   <category>adjective</category>
   <id>E0030101</id>
   <classifying/>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -14739,8 +14739,8 @@
   <id>E0030199</id>
   <present3s>grabs</present3s>
   <past>grabbed</past>
-  <pastParticiple>grabbed</pastParticiple>
-  <presentParticiple>grabbing</presentParticiple>
+  <past_participle>grabbed</past_participle>
+  <present_participle>grabbing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14900,7 +14900,7 @@
   <base>green</base>
   <category>adjective</category>
   <id>E0030378</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -14928,7 +14928,7 @@
   <base>grey</base>
   <category>adjective</category>
   <id>E0030394</id>
-  <colour/>
+  <color/>
   <predicative/>
   <qualitative/>
 </word>
@@ -14963,8 +14963,8 @@
   <present3s>grins</present3s>
   <intransitive/>
   <past>grinned</past>
-  <pastParticiple>grinned</pastParticiple>
-  <presentParticiple>grinning</presentParticiple>
+  <past_participle>grinned</past_participle>
+  <present_participle>grinning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14975,8 +14975,8 @@
   <ditransitive/>
   <intransitive/>
   <past>ground</past>
-  <pastParticiple>ground</pastParticiple>
-  <presentParticiple>grinding</presentParticiple>
+  <past_participle>ground</past_participle>
+  <present_participle>grinding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -14991,8 +14991,8 @@
   <present3s>grips</present3s>
   <intransitive/>
   <past>gripped</past>
-  <pastParticiple>gripped</pastParticiple>
-  <presentParticiple>gripping</presentParticiple>
+  <past_participle>gripped</past_participle>
+  <present_participle>gripping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15040,8 +15040,8 @@
   <ditransitive/>
   <intransitive/>
   <past>grew</past>
-  <pastParticiple>grown</pastParticiple>
-  <presentParticiple>growing</presentParticiple>
+  <past_participle>grown</past_participle>
+  <present_participle>growing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15254,8 +15254,8 @@
   <id>E0030782</id>
   <present3s>handicaps</present3s>
   <past>handicapped</past>
-  <pastParticiple>handicapped</pastParticiple>
-  <presentParticiple>handicapping</presentParticiple>
+  <past_participle>handicapped</past_participle>
+  <present_participle>handicapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15314,7 +15314,7 @@
   <base>happily</base>
   <category>adverb</category>
   <id>E0218480</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15353,7 +15353,7 @@
   <base>hardly</base>
   <category>adverb</category>
   <id>E0030831</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>hardship</base>
@@ -15447,8 +15447,8 @@
   <present3s>has</present3s>
   <intransitive/>
   <past>had</past>
-  <pastParticiple>had</pastParticiple>
-  <presentParticiple>having</presentParticiple>
+  <past_participle>had</past_participle>
+  <present_participle>having</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15538,8 +15538,8 @@
   <present3s>hears</present3s>
   <intransitive/>
   <past>heard</past>
-  <pastParticiple>heard</pastParticiple>
-  <presentParticiple>hearing</presentParticiple>
+  <past_participle>heard</past_participle>
+  <present_participle>hearing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15675,7 +15675,7 @@
   <base>hence</base>
   <category>adverb</category>
   <id>E0031288</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15749,8 +15749,8 @@
   <present3s>hides</present3s>
   <intransitive/>
   <past>hid</past>
-  <pastParticiple>hidden</pastParticiple>
-  <presentParticiple>hiding</presentParticiple>
+  <past_participle>hidden</past_participle>
+  <present_participle>hiding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15870,7 +15870,7 @@
   <category>adverb</category>
   <id>E0031771</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15890,8 +15890,8 @@
   <present3s>hits</present3s>
   <ditransitive/>
   <past>hit</past>
-  <pastParticiple>hit</pastParticiple>
-  <presentParticiple>hitting</presentParticiple>
+  <past_participle>hit</past_participle>
+  <present_participle>hitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15899,7 +15899,7 @@
   <category>adverb</category>
   <id>E0031786</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -15920,8 +15920,8 @@
   <ditransitive/>
   <intransitive/>
   <past>held</past>
-  <pastParticiple>held</pastParticiple>
-  <presentParticiple>holding</presentParticiple>
+  <past_participle>held</past_participle>
+  <present_participle>holding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -15998,7 +15998,7 @@
   <base>honestly</base>
   <category>adverb</category>
   <id>E0031956</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>honey</base>
@@ -16045,7 +16045,7 @@
   <base>hopefully</base>
   <category>adverb</category>
   <id>E0031993</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16188,7 +16188,7 @@
   <category>adverb</category>
   <id>E0032107</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16197,8 +16197,8 @@
   <id>E0032122</id>
   <present3s>hugs</present3s>
   <past>hugged</past>
-  <pastParticiple>hugged</pastParticiple>
-  <presentParticiple>hugging</presentParticiple>
+  <past_participle>hugged</past_participle>
+  <present_participle>hugging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -16293,8 +16293,8 @@
   <present3s>hurts</present3s>
   <intransitive/>
   <past>hurt</past>
-  <pastParticiple>hurt</pastParticiple>
-  <presentParticiple>hurting</presentParticiple>
+  <past_participle>hurt</past_participle>
+  <present_participle>hurting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -16348,7 +16348,7 @@
   <base>ideally</base>
   <category>adverb</category>
   <id>E0033263</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16521,7 +16521,7 @@
   <base>immune</base>
   <category>adjective</category>
   <id>E0033536</id>
-  <colour/>
+  <color/>
   <predicative/>
   <qualitative/>
 </word>
@@ -16592,7 +16592,7 @@
   <base>importantly</base>
   <category>adverb</category>
   <id>E0033799</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16721,7 +16721,7 @@
   <base>incidentally</base>
   <category>adverb</category>
   <id>E0033967</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -16811,8 +16811,8 @@
   <id>E0034110</id>
   <present3s>incurs</present3s>
   <past>incurred</past>
-  <pastParticiple>incurred</pastParticiple>
-  <presentParticiple>incurring</presentParticiple>
+  <past_participle>incurred</past_participle>
+  <present_participle>incurring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -16820,7 +16820,7 @@
   <category>adverb</category>
   <id>E0034126</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -17090,7 +17090,7 @@
   <base>initially</base>
   <category>adverb</category>
   <id>E0034653</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -17284,8 +17284,8 @@
   <present3s>instals</present3s>
   <ditransitive/>
   <past>installed</past>
-  <pastParticiple>installed</pastParticiple>
-  <presentParticiple>installing</presentParticiple>
+  <past_participle>installed</past_participle>
+  <present_participle>installing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -17804,7 +17804,7 @@
   <base>ironically</base>
   <category>adverb</category>
   <id>E0221086</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18150,8 +18150,8 @@
   <ditransitive/>
   <intransitive/>
   <past>kept</past>
-  <pastParticiple>kept</pastParticiple>
-  <presentParticiple>keeping</presentParticiple>
+  <past_participle>kept</past_participle>
+  <present_participle>keeping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18309,8 +18309,8 @@
   <ditransitive/>
   <intransitive/>
   <past>knit</past>
-  <pastParticiple>knit</pastParticiple>
-  <presentParticiple>knitting</presentParticiple>
+  <past_participle>knit</past_participle>
+  <present_participle>knitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18343,8 +18343,8 @@
   <ditransitive/>
   <intransitive/>
   <past>knew</past>
-  <pastParticiple>known</pastParticiple>
-  <presentParticiple>knowing</presentParticiple>
+  <past_participle>known</past_participle>
+  <present_participle>knowing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18500,7 +18500,7 @@
   <category>adverb</category>
   <id>E0036868</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18550,7 +18550,7 @@
   <base>later</base>
   <category>adverb</category>
   <id>E0450907</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18619,8 +18619,8 @@
   <ditransitive/>
   <intransitive/>
   <past>laid</past>
-  <pastParticiple>laid</pastParticiple>
-  <presentParticiple>laying</presentParticiple>
+  <past_participle>laid</past_participle>
+  <present_participle>laying</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18653,8 +18653,8 @@
   <ditransitive/>
   <intransitive/>
   <past>led</past>
-  <pastParticiple>led</pastParticiple>
-  <presentParticiple>leading</presentParticiple>
+  <past_participle>led</past_participle>
+  <present_participle>leading</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18755,8 +18755,8 @@
   <ditransitive/>
   <intransitive/>
   <past>left</past>
-  <pastParticiple>left</pastParticiple>
-  <presentParticiple>leaving</presentParticiple>
+  <past_participle>left</past_participle>
+  <present_participle>leaving</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18804,7 +18804,7 @@
   <base>legally</base>
   <category>adverb</category>
   <id>E0204505</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -18853,8 +18853,8 @@
   <present3s>lends</present3s>
   <ditransitive/>
   <past>lent</past>
-  <pastParticiple>lent</pastParticiple>
-  <presentParticiple>lending</presentParticiple>
+  <past_participle>lent</past_participle>
+  <present_participle>lending</present_participle>
   <transitive/>
 </word>
 <word>
@@ -18901,8 +18901,8 @@
   <ditransitive/>
   <intransitive/>
   <past>let</past>
-  <pastParticiple>let</pastParticiple>
-  <presentParticiple>letting</presentParticiple>
+  <past_participle>let</past_participle>
+  <present_participle>letting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -19135,7 +19135,7 @@
   <category>adverb</category>
   <id>E0037559</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -19541,8 +19541,8 @@
   <ditransitive/>
   <intransitive/>
   <past>lost</past>
-  <pastParticiple>lost</pastParticiple>
-  <presentParticiple>losing</presentParticiple>
+  <past_participle>lost</past_participle>
+  <present_participle>losing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -19838,8 +19838,8 @@
   <ditransitive/>
   <intransitive/>
   <past>made</past>
-  <pastParticiple>made</pastParticiple>
-  <presentParticiple>making</presentParticiple>
+  <past_participle>made</past_participle>
+  <present_participle>making</present_participle>
   <transitive/>
 </word>
 <word>
@@ -20019,8 +20019,8 @@
   <present3s>maps</present3s>
   <ditransitive/>
   <past>mapped</past>
-  <pastParticiple>mapped</pastParticiple>
-  <presentParticiple>mapping</presentParticiple>
+  <past_participle>mapped</past_participle>
+  <present_participle>mapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -20266,7 +20266,7 @@
   <base>maybe</base>
   <category>adverb</category>
   <id>E0039143</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>mayor</base>
@@ -20303,8 +20303,8 @@
   <present3s>means</present3s>
   <ditransitive/>
   <past>meant</past>
-  <pastParticiple>meant</pastParticiple>
-  <presentParticiple>meaning</presentParticiple>
+  <past_participle>meant</past_participle>
+  <present_participle>meaning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -20334,7 +20334,7 @@
   <base>meanwhile</base>
   <category>adverb</category>
   <id>E0039170</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>measure</base>
@@ -20420,8 +20420,8 @@
   <ditransitive/>
   <intransitive/>
   <past>met</past>
-  <pastParticiple>met</pastParticiple>
-  <presentParticiple>meeting</presentParticiple>
+  <past_participle>met</past_participle>
+  <present_participle>meeting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -20485,7 +20485,7 @@
   <base>mentally</base>
   <category>adverb</category>
   <id>E0039544</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -20847,8 +20847,8 @@
   <id>E0040535</id>
   <present3s>mistakes</present3s>
   <past>mistook</past>
-  <pastParticiple>mistaken</pastParticiple>
-  <presentParticiple>mistaking</presentParticiple>
+  <past_participle>mistaken</past_participle>
+  <present_participle>mistaking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -21117,7 +21117,7 @@
   <base>moreover</base>
   <category>adverb</category>
   <id>E0040989</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>morning</base>
@@ -21144,7 +21144,7 @@
   <category>adverb</category>
   <id>E0041058</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21158,7 +21158,7 @@
   <category>adverb</category>
   <id>E0041059</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21452,7 +21452,7 @@
   <base>namely</base>
   <category>adverb</category>
   <id>E0041846</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>narrative</base>
@@ -21540,7 +21540,7 @@
   <category>adverb</category>
   <id>E0041992</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21768,13 +21768,13 @@
   <base>never</base>
   <category>adverb</category>
   <id>E0042565</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>nevertheless</base>
   <category>adverb</category>
   <id>E0042566</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>new</base>
@@ -21810,7 +21810,7 @@
   <base>next</base>
   <category>adverb</category>
   <id>E0042591</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21846,7 +21846,7 @@
   <category>adverb</category>
   <id>E0605458</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -21879,8 +21879,8 @@
   <present3s>nods</present3s>
   <intransitive/>
   <past>nodded</past>
-  <pastParticiple>nodded</pastParticiple>
-  <presentParticiple>nodding</presentParticiple>
+  <past_participle>nodded</past_participle>
+  <present_participle>nodding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -21929,7 +21929,7 @@
   <category>adverb</category>
   <id>E0042847</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>nonsense</base>
@@ -21963,7 +21963,7 @@
   <base>normally</base>
   <category>adverb</category>
   <id>E0043018</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>north</base>
@@ -21982,7 +21982,7 @@
   <base>not</base>
   <category>adverb</category>
   <id>E0043086</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>notable</base>
@@ -21995,7 +21995,7 @@
   <base>notably</base>
   <category>adverb</category>
   <id>E0043090</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>note</base>
@@ -22083,7 +22083,7 @@
   <category>adverb</category>
   <id>E0043140</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -22271,7 +22271,7 @@
   <base>obviously</base>
   <category>adverb</category>
   <id>E0043456</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>occasion</base>
@@ -22289,7 +22289,7 @@
   <base>occasionally</base>
   <category>adverb</category>
   <id>E0043461</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>occupation</base>
@@ -22424,7 +22424,7 @@
   <base>officially</base>
   <category>adverb</category>
   <id>E0043640</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -22433,8 +22433,8 @@
   <id>E0043648</id>
   <present3s>off sets</present3s>
   <past>off setted</past>
-  <pastParticiple>off set</pastParticiple>
-  <presentParticiple>off setting</presentParticiple>
+  <past_participle>off set</past_participle>
+  <present_participle>off setting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -22497,8 +22497,8 @@
   <id>E0043768</id>
   <present3s>omits</present3s>
   <past>omitted</past>
-  <pastParticiple>omitted</pastParticiple>
-  <presentParticiple>omitting</presentParticiple>
+  <past_participle>omitted</past_participle>
+  <present_participle>omitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -22724,7 +22724,7 @@
   <base>orange</base>
   <category>adjective</category>
   <id>E0044086</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -22862,7 +22862,7 @@
   <base>otherwise</base>
   <category>adverb</category>
   <id>E0044445</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -23018,7 +23018,7 @@
   <base>overall</base>
   <category>adverb</category>
   <id>E0044624</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -23032,8 +23032,8 @@
   <present3s>over-comes</present3s>
   <intransitive/>
   <past>over-came</past>
-  <pastParticiple>over-came</pastParticiple>
-  <presentParticiple>over-coming</presentParticiple>
+  <past_participle>over-came</past_participle>
+  <present_participle>over-coming</present_participle>
   <transitive/>
 </word>
 <word>
@@ -23067,8 +23067,8 @@
   <present3s>overtakes</present3s>
   <intransitive/>
   <past>overtook</past>
-  <pastParticiple>overtaken</pastParticiple>
-  <presentParticiple>overtaking</presentParticiple>
+  <past_participle>overtaken</past_participle>
+  <present_participle>overtaking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -23537,8 +23537,8 @@
   <id>E0045918</id>
   <present3s>pats</present3s>
   <past>patted</past>
-  <pastParticiple>patted</pastParticiple>
-  <presentParticiple>patting</presentParticiple>
+  <past_participle>patted</past_participle>
+  <present_participle>patting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -23789,7 +23789,7 @@
   <base>perhaps</base>
   <category>adverb</category>
   <id>E0046430</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>period</base>
@@ -23822,8 +23822,8 @@
   <present3s>permits</present3s>
   <intransitive/>
   <past>permitted</past>
-  <pastParticiple>permitted</pastParticiple>
-  <presentParticiple>permitting</presentParticiple>
+  <past_participle>permitted</past_participle>
+  <present_participle>permitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -23864,7 +23864,7 @@
   <category>adverb</category>
   <id>E0046936</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24111,8 +24111,8 @@
   <present3s>pins</present3s>
   <ditransitive/>
   <past>pinned</past>
-  <pastParticiple>pinned</pastParticiple>
-  <presentParticiple>pinning</presentParticiple>
+  <past_participle>pinned</past_participle>
+  <present_participle>pinning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -24124,7 +24124,7 @@
   <base>pink</base>
   <category>adjective</category>
   <id>E0047987</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -24204,8 +24204,8 @@
   <present3s>plans</present3s>
   <intransitive/>
   <past>planned</past>
-  <pastParticiple>planned</pastParticiple>
-  <presentParticiple>planning</presentParticiple>
+  <past_participle>planned</past_participle>
+  <present_participle>planning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -24361,8 +24361,8 @@
   <present3s>plots</present3s>
   <intransitive/>
   <past>plotted</past>
-  <pastParticiple>plotted</pastParticiple>
-  <presentParticiple>plotting</presentParticiple>
+  <past_participle>plotted</past_participle>
+  <present_participle>plotting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -24372,8 +24372,8 @@
   <present3s>plugs</present3s>
   <ditransitive/>
   <past>plugged</past>
-  <pastParticiple>plugged</pastParticiple>
-  <presentParticiple>plugging</presentParticiple>
+  <past_participle>plugged</past_participle>
+  <present_participle>plugging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -24485,7 +24485,7 @@
   <base>politically</base>
   <category>adverb</category>
   <id>E0048645</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24573,8 +24573,8 @@
   <ditransitive/>
   <intransitive/>
   <past>popped</past>
-  <pastParticiple>popped</pastParticiple>
-  <presentParticiple>popping</presentParticiple>
+  <past_participle>popped</past_participle>
+  <present_participle>popping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -24668,7 +24668,7 @@
   <base>positively</base>
   <category>adverb</category>
   <id>E0049039</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24761,7 +24761,7 @@
   <category>adverb</category>
   <id>E0049407</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -24953,8 +24953,8 @@
   <present3s>prefers</present3s>
   <ditransitive/>
   <past>preferred</past>
-  <pastParticiple>preferred</pastParticiple>
-  <presentParticiple>preferring</presentParticiple>
+  <past_participle>preferred</past_participle>
+  <present_participle>preferring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -25080,7 +25080,7 @@
   <base>presently</base>
   <category>adverb</category>
   <id>E0049845</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25141,7 +25141,7 @@
   <base>presumably</base>
   <category>adverb</category>
   <id>E0049884</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>presume</base>
@@ -25240,7 +25240,7 @@
   <category>adverb</category>
   <id>E0049989</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25293,7 +25293,7 @@
   <base>principally</base>
   <category>adverb</category>
   <id>E0218500</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25412,7 +25412,7 @@
   <base>probably</base>
   <category>adverb</category>
   <id>E0050087</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -25731,8 +25731,8 @@
   <id>E0050375</id>
   <present3s>props</present3s>
   <past>propped</past>
-  <pastParticiple>propped</pastParticiple>
-  <presentParticiple>propping</presentParticiple>
+  <past_participle>propped</past_participle>
+  <present_participle>propping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -25999,7 +25999,7 @@
   <category>adverb</category>
   <id>E0051003</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -26115,7 +26115,7 @@
   <base>purple</base>
   <category>adjective</category>
   <id>E0051252</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -26155,8 +26155,8 @@
   <ditransitive/>
   <intransitive/>
   <past>put</past>
-  <pastParticiple>put</pastParticiple>
-  <presentParticiple>putting</presentParticiple>
+  <past_participle>put</past_participle>
+  <present_participle>putting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -26298,8 +26298,8 @@
   <present3s>quits</present3s>
   <intransitive/>
   <past>quit</past>
-  <pastParticiple>quit</pastParticiple>
-  <presentParticiple>quitting</presentParticiple>
+  <past_participle>quit</past_participle>
+  <present_participle>quitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -26511,7 +26511,7 @@
   <base>rarely</base>
   <category>adverb</category>
   <id>E0052003</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>rat</base>
@@ -26534,7 +26534,7 @@
   <category>adverb</category>
   <id>E0052018</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -26604,8 +26604,8 @@
   <ditransitive/>
   <intransitive/>
   <past>read</past>
-  <pastParticiple>read</pastParticiple>
-  <presentParticiple>reading</presentParticiple>
+  <past_participle>read</past_participle>
+  <present_participle>reading</present_participle>
   <transitive/>
 </word>
 <word>
@@ -26670,7 +26670,7 @@
   <category>adverb</category>
   <id>E0052112</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -26740,8 +26740,8 @@
   <id>E0052153</id>
   <present3s>re-builds</present3s>
   <past>re-built</past>
-  <pastParticiple>re-built</pastParticiple>
-  <presentParticiple>re-building</presentParticiple>
+  <past_participle>re-built</past_participle>
+  <present_participle>re-building</present_participle>
   <transitive/>
 </word>
 <word>
@@ -26918,7 +26918,7 @@
   <category>adjective</category>
   <id>E0052336</id>
   <classifying/>
-  <colour/>
+  <color/>
   <comparative>redder</comparative>
   <predicative/>
   <superlative>reddest</superlative>
@@ -27116,8 +27116,8 @@
   <id>E0052532</id>
   <present3s>regrets</present3s>
   <past>regretted</past>
-  <pastParticiple>regretted</pastParticiple>
-  <presentParticiple>regretting</presentParticiple>
+  <past_participle>regretted</past_participle>
+  <present_participle>regretting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -27372,7 +27372,7 @@
   <category>adverb</category>
   <id>E0052666</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -27471,8 +27471,8 @@
   <present3s>repays</present3s>
   <ditransitive/>
   <past>repaid</past>
-  <pastParticiple>repaid</pastParticiple>
-  <presentParticiple>repaying</presentParticiple>
+  <past_participle>repaid</past_participle>
+  <present_participle>repaying</present_participle>
   <transitive/>
 </word>
 <word>
@@ -27547,7 +27547,7 @@
   <category>adverb</category>
   <id>E0052845</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -28143,8 +28143,8 @@
   <present3s>rids</present3s>
   <ditransitive/>
   <past>ridded</past>
-  <pastParticiple>rid</pastParticiple>
-  <presentParticiple>ridding</presentParticiple>
+  <past_participle>rid</past_participle>
+  <present_participle>ridding</present_participle>
 </word>
 <word>
   <base>ride</base>
@@ -28159,8 +28159,8 @@
   <ditransitive/>
   <intransitive/>
   <past>rode</past>
-  <pastParticiple>ridden</pastParticiple>
-  <presentParticiple>riding</presentParticiple>
+  <past_participle>ridden</past_participle>
+  <present_participle>riding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28240,8 +28240,8 @@
   <present3s>rips</present3s>
   <intransitive/>
   <past>ripped</past>
-  <pastParticiple>ripped</pastParticiple>
-  <presentParticiple>ripping</presentParticiple>
+  <past_participle>ripped</past_participle>
+  <present_participle>ripping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28256,8 +28256,8 @@
   <present3s>rises</present3s>
   <intransitive/>
   <past>rose</past>
-  <pastParticiple>risen</pastParticiple>
-  <presentParticiple>rising</presentParticiple>
+  <past_participle>risen</past_participle>
+  <present_participle>rising</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28317,8 +28317,8 @@
   <ditransitive/>
   <intransitive/>
   <past>robbed</past>
-  <pastParticiple>robbed</pastParticiple>
-  <presentParticiple>robbing</presentParticiple>
+  <past_participle>robbed</past_participle>
+  <present_participle>robbing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28434,7 +28434,7 @@
   <base>roughly</base>
   <category>adverb</category>
   <id>E0053850</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>round</base>
@@ -28508,8 +28508,8 @@
   <ditransitive/>
   <intransitive/>
   <past>rubbed</past>
-  <pastParticiple>rubbed</pastParticiple>
-  <presentParticiple>rubbing</presentParticiple>
+  <past_participle>rubbed</past_participle>
+  <present_participle>rubbing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28593,8 +28593,8 @@
   <ditransitive/>
   <intransitive/>
   <past>ran</past>
-  <pastParticiple>ran</pastParticiple>
-  <presentParticiple>running</presentParticiple>
+  <past_participle>ran</past_participle>
+  <present_participle>running</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28673,7 +28673,7 @@
   <category>adverb</category>
   <id>E0054112</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -28852,8 +28852,8 @@
   <ditransitive/>
   <intransitive/>
   <past>said</past>
-  <pastParticiple>said</pastParticiple>
-  <presentParticiple>saying</presentParticiple>
+  <past_participle>said</past_participle>
+  <present_participle>saying</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28873,8 +28873,8 @@
   <present3s>scans</present3s>
   <intransitive/>
   <past>scanned</past>
-  <pastParticiple>scanned</pastParticiple>
-  <presentParticiple>scanning</presentParticiple>
+  <past_participle>scanned</past_participle>
+  <present_participle>scanning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -28889,15 +28889,15 @@
   <present3s>scars</present3s>
   <intransitive/>
   <past>scarred</past>
-  <pastParticiple>scarred</pastParticiple>
-  <presentParticiple>scarring</presentParticiple>
+  <past_participle>scarred</past_participle>
+  <present_participle>scarring</present_participle>
   <transitive/>
 </word>
 <word>
   <base>scarcely</base>
   <category>adverb</category>
   <id>E0054518</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>scared</base>
@@ -29148,7 +29148,7 @@
   <base>secondly</base>
   <category>adverb</category>
   <id>E0417997</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>secret</base>
@@ -29223,8 +29223,8 @@
   <present3s>sees</present3s>
   <intransitive/>
   <past>saw</past>
-  <pastParticiple>seen</pastParticiple>
-  <presentParticiple>seeing</presentParticiple>
+  <past_participle>seen</past_participle>
+  <present_participle>seeing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29239,8 +29239,8 @@
   <present3s>seeks</present3s>
   <intransitive/>
   <past>sought</past>
-  <pastParticiple>sought</pastParticiple>
-  <presentParticiple>seeking</presentParticiple>
+  <past_participle>sought</past_participle>
+  <present_participle>seeking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29253,7 +29253,7 @@
   <base>seemingly</base>
   <category>adverb</category>
   <id>E0055017</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>segment</base>
@@ -29271,7 +29271,7 @@
   <base>seldom</base>
   <category>adverb</category>
   <id>E0055050</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>select</base>
@@ -29314,8 +29314,8 @@
   <ditransitive/>
   <intransitive/>
   <past>sold</past>
-  <pastParticiple>sold</pastParticiple>
-  <presentParticiple>selling</presentParticiple>
+  <past_participle>sold</past_participle>
+  <present_participle>selling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29353,8 +29353,8 @@
   <ditransitive/>
   <intransitive/>
   <past>sent</past>
-  <pastParticiple>sent</pastParticiple>
-  <presentParticiple>sending</presentParticiple>
+  <past_participle>sent</past_participle>
+  <present_participle>sending</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29479,7 +29479,7 @@
   <category>adverb</category>
   <id>E0055352</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -29534,8 +29534,8 @@
   <ditransitive/>
   <intransitive/>
   <past>set</past>
-  <pastParticiple>set</pastParticiple>
-  <presentParticiple>setting</presentParticiple>
+  <past_participle>set</past_participle>
+  <present_participle>setting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29620,8 +29620,8 @@
   <present3s>shakes</present3s>
   <intransitive/>
   <past>shook</past>
-  <pastParticiple>shaken</pastParticiple>
-  <presentParticiple>shaking</presentParticiple>
+  <past_participle>shaken</past_participle>
+  <present_participle>shaking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29716,8 +29716,8 @@
   <ditransitive/>
   <intransitive/>
   <past>shed</past>
-  <pastParticiple>shed</pastParticiple>
-  <presentParticiple>shedding</presentParticiple>
+  <past_participle>shed</past_participle>
+  <present_participle>shedding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29795,8 +29795,8 @@
   <present3s>ships</present3s>
   <ditransitive/>
   <past>shipped</past>
-  <pastParticiple>shipped</pastParticiple>
-  <presentParticiple>shipping</presentParticiple>
+  <past_participle>shipped</past_participle>
+  <present_participle>shipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29844,8 +29844,8 @@
   <ditransitive/>
   <intransitive/>
   <past>shot</past>
-  <pastParticiple>shot</pastParticiple>
-  <presentParticiple>shooting</presentParticiple>
+  <past_participle>shot</past_participle>
+  <present_participle>shooting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29860,8 +29860,8 @@
   <present3s>shops</present3s>
   <intransitive/>
   <past>shopped</past>
-  <pastParticiple>shopped</pastParticiple>
-  <presentParticiple>shopping</presentParticiple>
+  <past_participle>shopped</past_participle>
+  <present_participle>shopping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29949,8 +29949,8 @@
   <ditransitive/>
   <intransitive/>
   <past>showed</past>
-  <pastParticiple>shown</pastParticiple>
-  <presentParticiple>showing</presentParticiple>
+  <past_participle>shown</past_participle>
+  <present_participle>showing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29965,8 +29965,8 @@
   <present3s>shrinks</present3s>
   <intransitive/>
   <past>shrank</past>
-  <pastParticiple>shrunken</pastParticiple>
-  <presentParticiple>shrinking</presentParticiple>
+  <past_participle>shrunken</past_participle>
+  <present_participle>shrinking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29981,8 +29981,8 @@
   <present3s>shrugs</present3s>
   <intransitive/>
   <past>shrugged</past>
-  <pastParticiple>shrugged</pastParticiple>
-  <presentParticiple>shrugging</presentParticiple>
+  <past_participle>shrugged</past_participle>
+  <present_participle>shrugging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -29992,8 +29992,8 @@
   <present3s>shuts</present3s>
   <intransitive/>
   <past>shut</past>
-  <pastParticiple>shut</pastParticiple>
-  <presentParticiple>shutting</presentParticiple>
+  <past_participle>shut</past_participle>
+  <present_participle>shutting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30033,7 +30033,7 @@
   <base>sideways</base>
   <category>adverb</category>
   <id>E0055855</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30104,7 +30104,7 @@
   <base>significantly</base>
   <category>adverb</category>
   <id>E0055900</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30169,7 +30169,7 @@
   <base>similarly</base>
   <category>adverb</category>
   <id>E0055957</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30188,7 +30188,7 @@
   <base>simply</base>
   <category>adverb</category>
   <id>E0055983</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30232,8 +30232,8 @@
   <ditransitive/>
   <intransitive/>
   <past>sang</past>
-  <pastParticiple>sung</pastParticiple>
-  <presentParticiple>singing</presentParticiple>
+  <past_participle>sung</past_participle>
+  <present_participle>singing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30266,8 +30266,8 @@
   <ditransitive/>
   <intransitive/>
   <past>sank</past>
-  <pastParticiple>sunk</pastParticiple>
-  <presentParticiple>sinking</presentParticiple>
+  <past_participle>sunk</past_participle>
+  <present_participle>sinking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30277,8 +30277,8 @@
   <present3s>sips</present3s>
   <intransitive/>
   <past>sipped</past>
-  <pastParticiple>sipped</pastParticiple>
-  <presentParticiple>sipping</presentParticiple>
+  <past_participle>sipped</past_participle>
+  <present_participle>sipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30298,8 +30298,8 @@
   <present3s>sits</present3s>
   <intransitive/>
   <past>sat</past>
-  <pastParticiple>sat</pastParticiple>
-  <presentParticiple>sitting</presentParticiple>
+  <past_participle>sat</past_participle>
+  <present_participle>sitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30393,8 +30393,8 @@
   <present3s>slams</present3s>
   <intransitive/>
   <past>slammed</past>
-  <pastParticiple>slammed</pastParticiple>
-  <presentParticiple>slamming</presentParticiple>
+  <past_participle>slammed</past_participle>
+  <present_participle>slamming</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30403,8 +30403,8 @@
   <id>E0056224</id>
   <present3s>slaps</present3s>
   <past>slapped</past>
-  <pastParticiple>slapped</pastParticiple>
-  <presentParticiple>slapping</presentParticiple>
+  <past_participle>slapped</past_participle>
+  <present_participle>slapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30425,8 +30425,8 @@
   <present3s>sleeps</present3s>
   <intransitive/>
   <past>slept</past>
-  <pastParticiple>slept</pastParticiple>
-  <presentParticiple>sleeping</presentParticiple>
+  <past_participle>slept</past_participle>
+  <present_participle>sleeping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30456,8 +30456,8 @@
   <ditransitive/>
   <intransitive/>
   <past>slid</past>
-  <pastParticiple>slid</pastParticiple>
-  <presentParticiple>sliding</presentParticiple>
+  <past_participle>slid</past_participle>
+  <present_participle>sliding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30496,8 +30496,8 @@
   <ditransitive/>
   <intransitive/>
   <past>slipped</past>
-  <pastParticiple>slipped</pastParticiple>
-  <presentParticiple>slipping</presentParticiple>
+  <past_participle>slipped</past_participle>
+  <present_participle>slipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30630,8 +30630,8 @@
   <present3s>snaps</present3s>
   <intransitive/>
   <past>snapped</past>
-  <pastParticiple>snapped</pastParticiple>
-  <presentParticiple>snapping</presentParticiple>
+  <past_participle>snapped</past_participle>
+  <present_participle>snapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -30723,7 +30723,7 @@
   <base>socially</base>
   <category>adverb</category>
   <id>E0056515</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30873,7 +30873,7 @@
   <base>somehow</base>
   <category>adverb</category>
   <id>E0056732</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30903,7 +30903,7 @@
   <base>somewhere</base>
   <category>adverb</category>
   <id>E0056742</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -30920,7 +30920,7 @@
   <base>soon</base>
   <category>adverb</category>
   <id>E0056762</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -31044,8 +31044,8 @@
   <present3s>speaks</present3s>
   <intransitive/>
   <past>spoke</past>
-  <pastParticiple>spoken</pastParticiple>
-  <presentParticiple>speaking</presentParticiple>
+  <past_participle>spoken</past_participle>
+  <present_participle>speaking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31192,8 +31192,8 @@
   <present3s>spends</present3s>
   <ditransitive/>
   <past>spent</past>
-  <pastParticiple>spent</pastParticiple>
-  <presentParticiple>spending</presentParticiple>
+  <past_participle>spent</past_participle>
+  <present_participle>spending</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31225,8 +31225,8 @@
   <ditransitive/>
   <intransitive/>
   <past>spun</past>
-  <pastParticiple>spun</pastParticiple>
-  <presentParticiple>spinning</presentParticiple>
+  <past_participle>spun</past_participle>
+  <present_participle>spinning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31253,8 +31253,8 @@
   <present3s>spits</present3s>
   <intransitive/>
   <past>spit</past>
-  <pastParticiple>spit</pastParticiple>
-  <presentParticiple>spitting</presentParticiple>
+  <past_participle>spit</past_participle>
+  <present_participle>spitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31283,8 +31283,8 @@
   <ditransitive/>
   <intransitive/>
   <past>split</past>
-  <pastParticiple>split</pastParticiple>
-  <presentParticiple>splitting</presentParticiple>
+  <past_participle>split</past_participle>
+  <present_participle>splitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31351,8 +31351,8 @@
   <ditransitive/>
   <intransitive/>
   <past>spotted</past>
-  <pastParticiple>spotted</pastParticiple>
-  <presentParticiple>spotting</presentParticiple>
+  <past_participle>spotted</past_participle>
+  <present_participle>spotting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31385,8 +31385,8 @@
   <ditransitive/>
   <intransitive/>
   <past>spread</past>
-  <pastParticiple>spread</pastParticiple>
-  <presentParticiple>spreading</presentParticiple>
+  <past_participle>spread</past_participle>
+  <present_participle>spreading</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31402,8 +31402,8 @@
   <ditransitive/>
   <intransitive/>
   <past>sprung</past>
-  <pastParticiple>sprung</pastParticiple>
-  <presentParticiple>springing</presentParticiple>
+  <past_participle>sprung</past_participle>
+  <present_participle>springing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31454,8 +31454,8 @@
   <id>E0057557</id>
   <present3s>stabs</present3s>
   <past>stabbed</past>
-  <pastParticiple>stabbed</pastParticiple>
-  <presentParticiple>stabbing</presentParticiple>
+  <past_participle>stabbed</past_participle>
+  <present_participle>stabbing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31499,8 +31499,8 @@
   <present3s>stags</present3s>
   <intransitive/>
   <past>stagged</past>
-  <pastParticiple>stagged</pastParticiple>
-  <presentParticiple>stagging</presentParticiple>
+  <past_participle>stagged</past_participle>
+  <present_participle>stagging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31578,8 +31578,8 @@
   <present3s>stands</present3s>
   <intransitive/>
   <past>stood</past>
-  <pastParticiple>stood</pastParticiple>
-  <presentParticiple>standing</presentParticiple>
+  <past_participle>stood</past_participle>
+  <present_participle>standing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31611,8 +31611,8 @@
   <present3s>stars</present3s>
   <intransitive/>
   <past>starred</past>
-  <pastParticiple>starred</pastParticiple>
-  <presentParticiple>starring</presentParticiple>
+  <past_participle>starred</past_participle>
+  <present_participle>starring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31731,8 +31731,8 @@
   <ditransitive/>
   <intransitive/>
   <past>stole</past>
-  <pastParticiple>stolen</pastParticiple>
-  <presentParticiple>stealing</presentParticiple>
+  <past_participle>stolen</past_participle>
+  <present_participle>stealing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31773,8 +31773,8 @@
   <present3s>stems</present3s>
   <ditransitive/>
   <past>stemmed</past>
-  <pastParticiple>stemmed</pastParticiple>
-  <presentParticiple>stemming</presentParticiple>
+  <past_participle>stemmed</past_participle>
+  <present_participle>stemming</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31789,8 +31789,8 @@
   <present3s>steps</present3s>
   <intransitive/>
   <past>stepped</past>
-  <pastParticiple>stepped</pastParticiple>
-  <presentParticiple>stepping</presentParticiple>
+  <past_participle>stepped</past_participle>
+  <present_participle>stepping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31816,8 +31816,8 @@
   <present3s>sticks</present3s>
   <intransitive/>
   <past>stuck</past>
-  <pastParticiple>stuck</pastParticiple>
-  <presentParticiple>sticking</presentParticiple>
+  <past_participle>stuck</past_participle>
+  <present_participle>sticking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31845,7 +31845,7 @@
   <base>still</base>
   <category>adverb</category>
   <id>E0057938</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -31872,8 +31872,8 @@
   <present3s>stirs</present3s>
   <intransitive/>
   <past>stirred</past>
-  <pastParticiple>stirred</pastParticiple>
-  <presentParticiple>stirring</presentParticiple>
+  <past_participle>stirred</past_participle>
+  <present_participle>stirring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -31924,8 +31924,8 @@
   <present3s>stops</present3s>
   <intransitive/>
   <past>stopped</past>
-  <pastParticiple>stopped</pastParticiple>
-  <presentParticiple>stopping</presentParticiple>
+  <past_participle>stopped</past_participle>
+  <present_participle>stopping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32018,7 +32018,7 @@
   <category>adverb</category>
   <id>E0058087</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32113,8 +32113,8 @@
   <id>E0058173</id>
   <present3s>strides</present3s>
   <past>strode</past>
-  <pastParticiple>stridden</pastParticiple>
-  <presentParticiple>striding</presentParticiple>
+  <past_participle>stridden</past_participle>
+  <present_participle>striding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32130,8 +32130,8 @@
   <ditransitive/>
   <intransitive/>
   <past>struck</past>
-  <pastParticiple>stricken</pastParticiple>
-  <presentParticiple>striking</presentParticiple>
+  <past_participle>stricken</past_participle>
+  <present_participle>striking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32164,8 +32164,8 @@
   <ditransitive/>
   <intransitive/>
   <past>stripped</past>
-  <pastParticiple>stripped</pastParticiple>
-  <presentParticiple>stripping</presentParticiple>
+  <past_participle>stripped</past_participle>
+  <present_participle>stripping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32338,8 +32338,8 @@
   <ditransitive/>
   <intransitive/>
   <past>submitted</past>
-  <pastParticiple>submitted</pastParticiple>
-  <presentParticiple>submitting</presentParticiple>
+  <past_participle>submitted</past_participle>
+  <present_participle>submitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32358,7 +32358,7 @@
   <base>subsequently</base>
   <category>adverb</category>
   <id>E0058660</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32599,8 +32599,8 @@
   <present3s>sums</present3s>
   <intransitive/>
   <past>summed</past>
-  <pastParticiple>summed</pastParticiple>
-  <presentParticiple>summing</presentParticiple>
+  <past_participle>summed</past_participle>
+  <present_participle>summing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32779,7 +32779,7 @@
   <category>adverb</category>
   <id>E0419199</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>suppress</base>
@@ -32806,14 +32806,14 @@
   <base>sure</base>
   <category>adverb</category>
   <id>E0059288</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
   <base>surely</base>
   <category>adverb</category>
   <id>E0059289</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -32867,7 +32867,7 @@
   <category>adverb</category>
   <id>E0059335</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>surrender</base>
@@ -32979,8 +32979,8 @@
   <present3s>swops</present3s>
   <ditransitive/>
   <past>swopped</past>
-  <pastParticiple>swopped</pastParticiple>
-  <presentParticiple>swopping</presentParticiple>
+  <past_participle>swopped</past_participle>
+  <present_participle>swopping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -32998,8 +32998,8 @@
   <ditransitive/>
   <intransitive/>
   <past>swore</past>
-  <pastParticiple>sworn</pastParticiple>
-  <presentParticiple>swearing</presentParticiple>
+  <past_participle>sworn</past_participle>
+  <present_participle>swearing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33014,8 +33014,8 @@
   <present3s>sweeps</present3s>
   <ditransitive/>
   <past>swept</past>
-  <pastParticiple>swept</pastParticiple>
-  <presentParticiple>sweeping</presentParticiple>
+  <past_participle>swept</past_participle>
+  <present_participle>sweeping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33037,8 +33037,8 @@
   <present3s>swells</present3s>
   <intransitive/>
   <past>swelled</past>
-  <pastParticiple>swelled</pastParticiple>
-  <presentParticiple>swelling</presentParticiple>
+  <past_participle>swelled</past_participle>
+  <present_participle>swelling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33061,8 +33061,8 @@
   <present3s>swims</present3s>
   <intransitive/>
   <past>swam</past>
-  <pastParticiple>swum</pastParticiple>
-  <presentParticiple>swimming</presentParticiple>
+  <past_participle>swum</past_participle>
+  <present_participle>swimming</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33081,8 +33081,8 @@
   <present3s>swings</present3s>
   <intransitive/>
   <past>swung</past>
-  <pastParticiple>swung</pastParticiple>
-  <presentParticiple>swinging</presentParticiple>
+  <past_participle>swung</past_participle>
+  <present_participle>swinging</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33208,8 +33208,8 @@
   <ditransitive/>
   <intransitive/>
   <past>took</past>
-  <pastParticiple>taken</pastParticiple>
-  <presentParticiple>taking</presentParticiple>
+  <past_participle>taken</past_participle>
+  <present_participle>taking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33275,8 +33275,8 @@
   <present3s>taps</present3s>
   <ditransitive/>
   <past>tapped</past>
-  <pastParticiple>tapped</pastParticiple>
-  <presentParticiple>tapping</presentParticiple>
+  <past_participle>tapped</past_participle>
+  <present_participle>tapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33358,8 +33358,8 @@
   <ditransitive/>
   <intransitive/>
   <past>taught</past>
-  <pastParticiple>taught</pastParticiple>
-  <presentParticiple>teaching</presentParticiple>
+  <past_participle>taught</past_participle>
+  <present_participle>teaching</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33389,8 +33389,8 @@
   <id>E0060022</id>
   <present3s>tears</present3s>
   <past>tore</past>
-  <pastParticiple>torn</pastParticiple>
-  <presentParticiple>tearing</presentParticiple>
+  <past_participle>torn</past_participle>
+  <present_participle>tearing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33412,7 +33412,7 @@
   <base>technically</base>
   <category>adverb</category>
   <id>E0060038</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>technique</base>
@@ -33471,8 +33471,8 @@
   <ditransitive/>
   <intransitive/>
   <past>told</past>
-  <pastParticiple>told</pastParticiple>
-  <presentParticiple>telling</presentParticiple>
+  <past_participle>told</past_participle>
+  <present_participle>telling</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33761,7 +33761,7 @@
   <base>then</base>
   <category>adverb</category>
   <id>E0060518</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -33811,7 +33811,7 @@
   <base>thereafter</base>
   <category>adverb</category>
   <id>E0060551</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -33824,7 +33824,7 @@
   <base>therefore</base>
   <category>adverb</category>
   <id>E0060553</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>these</base>
@@ -33889,8 +33889,8 @@
   <present3s>thinks</present3s>
   <intransitive/>
   <past>thought</past>
-  <pastParticiple>thought</pastParticiple>
-  <presentParticiple>thinking</presentParticiple>
+  <past_participle>thought</past_participle>
+  <present_participle>thinking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -33935,7 +33935,7 @@
   <base>though</base>
   <category>adverb</category>
   <id>E0060730</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -34005,8 +34005,8 @@
   <ditransitive/>
   <intransitive/>
   <past>threw</past>
-  <pastParticiple>thrown</pastParticiple>
-  <presentParticiple>throwing</presentParticiple>
+  <past_participle>thrown</past_participle>
+  <present_participle>throwing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34021,8 +34021,8 @@
   <present3s>thrusts</present3s>
   <intransitive/>
   <past>thrust</past>
-  <pastParticiple>thrust</pastParticiple>
-  <presentParticiple>thrusting</presentParticiple>
+  <past_participle>thrust</past_participle>
+  <present_participle>thrusting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34034,7 +34034,7 @@
   <base>thus</base>
   <category>adverb</category>
   <id>E0060860</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -34164,8 +34164,8 @@
   <ditransitive/>
   <intransitive/>
   <past>tipped</past>
-  <pastParticiple>tipped</pastParticiple>
-  <presentParticiple>tipping</presentParticiple>
+  <past_participle>tipped</past_participle>
+  <present_participle>tipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34209,7 +34209,7 @@
   <base>today</base>
   <category>adverb</category>
   <id>E0061249</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>toe</base>
@@ -34249,7 +34249,7 @@
   <base>tomorrow</base>
   <category>adverb</category>
   <id>E0061312</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>ton</base>
@@ -34270,7 +34270,7 @@
   <base>tonight</base>
   <category>adverb</category>
   <id>E0061331</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>tonne</base>
@@ -34313,8 +34313,8 @@
   <present3s>tops</present3s>
   <ditransitive/>
   <past>topped</past>
-  <pastParticiple>topped</pastParticiple>
-  <presentParticiple>topping</presentParticiple>
+  <past_participle>topped</past_participle>
+  <present_participle>topping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34516,7 +34516,7 @@
   <base>traditionally</base>
   <category>adverb</category>
   <id>E0061654</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -34609,8 +34609,8 @@
   <ditransitive/>
   <intransitive/>
   <past>transferred</past>
-  <pastParticiple>transferred</pastParticiple>
-  <presentParticiple>transferring</presentParticiple>
+  <past_participle>transferred</past_participle>
+  <present_participle>transferring</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34653,8 +34653,8 @@
   <present3s>transmits</present3s>
   <intransitive/>
   <past>transmitted</past>
-  <pastParticiple>transmitted</pastParticiple>
-  <presentParticiple>transmitting</presentParticiple>
+  <past_participle>transmitted</past_participle>
+  <present_participle>transmitting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34681,8 +34681,8 @@
   <present3s>traps</present3s>
   <intransitive/>
   <past>trapped</past>
-  <pastParticiple>trapped</pastParticiple>
-  <presentParticiple>trapping</presentParticiple>
+  <past_participle>trapped</past_participle>
+  <present_participle>trapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34713,8 +34713,8 @@
   <id>E0061956</id>
   <present3s>treads</present3s>
   <past>trod</past>
-  <pastParticiple>trodden</pastParticiple>
-  <presentParticiple>treading</presentParticiple>
+  <past_participle>trodden</past_participle>
+  <present_participle>treading</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34832,8 +34832,8 @@
   <present3s>trips</present3s>
   <intransitive/>
   <past>tripped</past>
-  <pastParticiple>tripped</pastParticiple>
-  <presentParticiple>tripping</presentParticiple>
+  <past_participle>tripped</past_participle>
+  <present_participle>tripping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -34904,7 +34904,7 @@
   <category>adverb</category>
   <id>E0062378</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35059,7 +35059,7 @@
   <base>typically</base>
   <category>adverb</category>
   <id>E0062764</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35091,7 +35091,7 @@
   <category>adverb</category>
   <id>E0062843</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35185,8 +35185,8 @@
   <id>E0063021</id>
   <present3s>undergoes</present3s>
   <past>underwent</past>
-  <pastParticiple>undergone</pastParticiple>
-  <presentParticiple>undergoing</presentParticiple>
+  <past_participle>undergone</past_participle>
+  <present_participle>undergoing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -35218,7 +35218,7 @@
   <base>underneath</base>
   <category>adverb</category>
   <id>E0063033</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35234,8 +35234,8 @@
   <ditransitive/>
   <intransitive/>
   <past>understood</past>
-  <pastParticiple>understood</pastParticiple>
-  <presentParticiple>understanding</presentParticiple>
+  <past_participle>understood</past_participle>
+  <present_participle>understanding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -35256,8 +35256,8 @@
   <id>E0063060</id>
   <present3s>under-takes</present3s>
   <past>under-took</past>
-  <pastParticiple>under-taken</pastParticiple>
-  <presentParticiple>under-taking</presentParticiple>
+  <past_participle>under-taken</past_participle>
+  <present_participle>under-taking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -35270,7 +35270,7 @@
   <category>adverb</category>
   <id>E0063088</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35305,7 +35305,7 @@
   <category>adverb</category>
   <id>E0218385</id>
   <intensifier/>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35333,7 +35333,7 @@
   <base>unfortunately</base>
   <category>adverb</category>
   <id>E0063135</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -35559,8 +35559,8 @@
   <id>E0063431</id>
   <present3s>upholds</present3s>
   <past>upheld</past>
-  <pastParticiple>upheld</pastParticiple>
-  <presentParticiple>upholding</presentParticiple>
+  <past_participle>upheld</past_participle>
+  <present_participle>upholding</present_participle>
   <transitive/>
 </word>
 <word>
@@ -35587,8 +35587,8 @@
   <id>E0063455</id>
   <present3s>upsets</present3s>
   <past>upset</past>
-  <pastParticiple>upset</pastParticiple>
-  <presentParticiple>upsetting</presentParticiple>
+  <past_participle>upset</past_participle>
+  <present_participle>upsetting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -36333,8 +36333,8 @@
   <present3s>wakes</present3s>
   <intransitive/>
   <past>woke</past>
-  <pastParticiple>woken</pastParticiple>
-  <presentParticiple>waking</presentParticiple>
+  <past_participle>woken</past_participle>
+  <present_participle>waking</present_participle>
   <transitive/>
 </word>
 <word>
@@ -36588,8 +36588,8 @@
   <present3s>wears</present3s>
   <intransitive/>
   <past>wore</past>
-  <pastParticiple>worn</pastParticiple>
-  <presentParticiple>wearing</presentParticiple>
+  <past_participle>worn</past_participle>
+  <present_participle>wearing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -36646,8 +36646,8 @@
   <present3s>weeps</present3s>
   <intransitive/>
   <past>wept</past>
-  <pastParticiple>wept</pastParticiple>
-  <presentParticiple>weeping</presentParticiple>
+  <past_participle>wept</past_participle>
+  <present_participle>weeping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -36749,8 +36749,8 @@
   <id>E0065263</id>
   <present3s>wets</present3s>
   <past>wet</past>
-  <pastParticiple>wet</pastParticiple>
-  <presentParticiple>wetting</presentParticiple>
+  <past_participle>wet</past_participle>
+  <present_participle>wetting</present_participle>
   <transitive/>
 </word>
 <word>
@@ -36795,14 +36795,14 @@
   <base>whenever</base>
   <category>adverb</category>
   <id>E0065303</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
   <base>where</base>
   <category>adverb</category>
   <id>E0065305</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>
@@ -36819,7 +36819,7 @@
   <base>whereby</base>
   <category>adverb</category>
   <id>E0065309</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
 </word>
 <word>
   <base>wherever</base>
@@ -36870,8 +36870,8 @@
   <id>E0065336</id>
   <present3s>whips</present3s>
   <past>whipped</past>
-  <pastParticiple>whipped</pastParticiple>
-  <presentParticiple>whipping</presentParticiple>
+  <past_participle>whipped</past_participle>
+  <present_participle>whipping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -36896,7 +36896,7 @@
   <category>adjective</category>
   <id>E0065359</id>
   <classifying/>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -37073,8 +37073,8 @@
   <ditransitive/>
   <intransitive/>
   <past>won</past>
-  <pastParticiple>won</pastParticiple>
-  <presentParticiple>winning</presentParticiple>
+  <past_participle>won</past_participle>
+  <present_participle>winning</present_participle>
   <transitive/>
 </word>
 <word>
@@ -37180,8 +37180,8 @@
   <ditransitive/>
   <intransitive/>
   <past>withdrew</past>
-  <pastParticiple>withdrawn</pastParticiple>
-  <presentParticiple>withdrawing</presentParticiple>
+  <past_participle>withdrawn</past_participle>
+  <present_participle>withdrawing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -37438,8 +37438,8 @@
   <ditransitive/>
   <intransitive/>
   <past>wrapped</past>
-  <pastParticiple>wrapped</pastParticiple>
-  <presentParticiple>wrapping</presentParticiple>
+  <past_participle>wrapped</past_participle>
+  <present_participle>wrapping</present_participle>
   <transitive/>
 </word>
 <word>
@@ -37455,8 +37455,8 @@
   <ditransitive/>
   <intransitive/>
   <past>wrote</past>
-  <pastParticiple>written</pastParticiple>
-  <presentParticiple>writing</presentParticiple>
+  <past_participle>written</past_participle>
+  <present_participle>writing</present_participle>
   <transitive/>
 </word>
 <word>
@@ -37539,7 +37539,7 @@
   <base>yellow</base>
   <category>adjective</category>
   <id>E0065846</id>
-  <colour/>
+  <color/>
   <predicative/>
 </word>
 <word>
@@ -37561,7 +37561,7 @@
   <base>yet</base>
   <category>adverb</category>
   <id>E0065868</id>
-  <sentence-modifier/>
+  <sentence_modifier/>
   <verb_modifier/>
 </word>
 <word>

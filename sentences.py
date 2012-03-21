@@ -140,7 +140,7 @@ class Sentence(object):
         self.inflector.inflect(self.base_sentence, self.pos_sentence, self.technical_sentence)
 
         self.final_sentence = string.capwords(self.base_sentence[0])+" "+" ".join(self.base_sentence[1:])
-        if 'whose' in self.base_sentence:
+        if 'whose' in self.base_sentence or 'whom' in self.base_sentence:
             self.final_sentence += "?"
         else:
             self.final_sentence += "."
