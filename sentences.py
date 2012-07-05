@@ -1,15 +1,3 @@
-"""
-- Add proper nouns
-- Make weighted paths
-- Make 'ye' work correctly
-- Add negations
-- Add commas
-- Add some new tenses
-- Adjectives: comparative, superlative
-- Make "Warriors engage" possible (right now the logic is in place only for "a warrior" or "the warriors")
-- Determiners can have <singularorplural/> tag, so check for this and do a choice on the noun if so
-"""
-
 import os, random, string
 import xml.etree.ElementTree as xml
 
