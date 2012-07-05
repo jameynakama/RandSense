@@ -14,18 +14,16 @@ RandSense is built using the [SimpleNLG](http://code.google.com/p/simplenlg/) de
 Usage
 ===================
 
-<pre>
-Usage: randsense.py [options]
+    Usage: randsense.py [options]
 
-Options:
-  -h, --help            show this help message and exit
-  -n NUMBER, --number=NUMBER
+    Options:
+      -h, --help            show this help message and exit
+      -n NUMBER, --number=NUMBER
                         define how many sentences to generate
-  -g, --grammar         print grammar object before sentences
-  -p, --pos             print 'part of speech' sentence with each sentence
-  -t, --tech            print 'technical sentence' with each sentence
-  -v, --verbose         prints all optional output; same as -gpt
-</pre>
+      -g, --grammar         print grammar object before sentences
+      -p, --pos             print 'part of speech' sentence with each sentence
+      -t, --tech            print 'technical sentence' with each sentence
+      -v, --verbose         prints all optional output; same as -gpt
 
 Many thanks
 ===================
