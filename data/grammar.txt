@@ -1,7 +1,7 @@
 S -> NP VP | BEG NP VP
 S -> NP VP BEG | BEG NP VP BEG
 
-BEG -> adverb-sentence-modifier
+BEG -> adverb-sentence_modifier
 
 NP -> possessive-pronoun N | DETERMINER ADJ N | nominative-pronoun
 DObj -> possessive-pronoun N | DETERMINER N | pronoun

@@ -1,15 +1,16 @@
 """
+- Add proper nouns
+- Make weighted paths
 - Make 'ye' work correctly
 - Add negations
 - Add commas
 - Add some new tenses
-- Capitalize 'i'
 - Adjectives: comparative, superlative
 - Make "Warriors engage" possible (right now the logic is in place only for "a warrior" or "the warriors")
 - Determiners can have <singularorplural/> tag, so check for this and do a choice on the noun if so
 """
 
-import os, random, string, pprint
+import os, random, string
 import xml.etree.ElementTree as xml
 
 
@@ -85,7 +86,7 @@ class Sentence(object):
         # delete comments and blank lines from grammar data
         for i in range(len(data)-1, -1, -1):
                if not data[i] or data[i][0] == '#':
-                   data.pop(i)
+                   del data[i]
 
         for i in range(0, len(data)):
             data[i] = data[i].split(' -> ')
@@ -138,6 +139,9 @@ class Sentence(object):
             self.base_sentence.append(new_word['base'])
 
         self.inflector.inflect(self.base_sentence, self.pos_sentence, self.technical_sentence)
+
+        if 'i' in self.base_sentence:
+            self.base_sentence[self.base_sentence.index('i')] = 'I'
 
         self.final_sentence = string.capwords(self.base_sentence[0])+" "+" ".join(self.base_sentence[1:])
         if 'whose' in self.base_sentence or 'whom' in self.base_sentence:

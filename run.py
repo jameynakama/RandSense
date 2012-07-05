@@ -4,9 +4,10 @@ from sentences import Lexicon, Sentence
 from inflections import Inflector
 
 
-l = Lexicon()
-i = Inflector()
-s = Sentence(l, i)
+lexicon = Lexicon()
+inflector = Inflector()
+sentence = Sentence(lexicon, inflector)
+sentence.parse_grammar()
 
 #############
 # helper functions
@@ -18,24 +19,23 @@ def foo(word='random'):
     i = 0
     while True:
         i += 1
-        s.get_sentence()
-        print "\n{}: {}".format(i, s.final_sentence)
-        if word in s.base_sentence:
+        sentence.get_sentence()
+        print "\n{}: {}".format(i, sentence.final_sentence)
+        if word in sentence.base_sentence:
             break
 
 #############
 # BEGIN
 #############
 def main():
-    print
-    pprint.pprint(s.grammar)
+    # pprint.pprint(s.grammar)                   # print grammar object
     for i in range(10):
-        s.get_sentence()
-        print "\n{}: {}".format(i+1, s.final_sentence)
-        # print "["+' '.join(s.pos_sentence)+"]"
-        # pprint.pprint(s.technical_sentence)
+        sentence.get_sentence()
+        print "\n{number}: {sentence}".format(number=i+1, sentence=sentence.final_sentence)
+        # print "["+' '.join(s.pos_sentence)+"]" # also print pos_sentence
+        # pprint.pprint(s.technical_sentence)    # also print technical_sentence
 
 if __name__ == '__main__':
     main()
 
-s.parse_grammar()
+

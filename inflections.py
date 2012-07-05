@@ -87,11 +87,13 @@ class Inflector(object):
 
     def make_article_agree(self, word):
         #
-        # FIX things like "an uniform" unicycle etc.
+        # FIX things like "an" uniform, unicycle, etc.
         #
-
-        if word[0] in ['a', 'e', 'i' 'o', 'u'] and word[:3] not in ['uni',]:
-            return 'an'
+        if word[0] in ['a', 'e', 'i', 'o', 'u']:
+            if word[:3] not in ['uni',]:
+                return 'an'
+            else:
+                return 'a'
         else:
             return 'a'
 
@@ -136,7 +138,7 @@ class Inflector(object):
                 else:
                     if verb['base'][-1] == 'y':
                         return verb['base'][:-1] + 'ies'
-                    elif verb['base'][-2:] == 'sh':
+                    elif verb['base'][-2:] == ['sh', 'ch',]:
                         return verb['base'] + 'es'
                     else:
                         return verb['base'] + 's'
@@ -149,6 +151,8 @@ class Inflector(object):
         else:
             if verb['base'][-1] == 'e':
                 return verb['base'] + 'd'
+            elif verb['base'][-2:] in ['ey', 'ay',]:
+                return verb['base'] + 'ed'
             elif verb['base'][-1] == 'y':
                 return verb['base'][:-1] + 'ied'
             else:
