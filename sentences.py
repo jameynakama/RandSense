@@ -118,9 +118,9 @@ class Sentence(object):
         self.pos_sentence = self.process(level)
         for pos in self.pos_sentence:
             if 'verb' == pos[:4]:
-                new_word = self.lexicon.random(pos[5:], category=pos[:4])
+                new_word = self.lexicon.random(pos[5:], category='verb')
             elif 'adverb' == pos[:6]:
-                new_word = self.lexicon.random(pos[7:], category=pos[:6])
+                new_word = self.lexicon.random(pos[7:], category='adverb')
             else:
                 new_word = self.lexicon.random(category=pos)
             self.technical_sentence.append(new_word)
