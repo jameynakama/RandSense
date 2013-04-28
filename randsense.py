@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import pprint
-from optparse import OptionParser
+from argparse import ArgumentParser
 
 from sentences import Lexicon, Sentence
 from inflections import Inflector
@@ -31,28 +31,49 @@ def foo(word='random'):
 ---------------------------'''
 
 def main():
-    usage = "usage: %prog [options]"
-    op = OptionParser(usage)
+    op = ArgumentParser(description="RandSense-python")
 
-    op.set_defaults(number=10, grammar=False, pos=False, tech=False)
-    op.add_option("-n", "--number", type="int", help="define how many sentences to generate")
-    op.add_option("-g", "--grammar", action="store_true", help="print grammar object before sentences")
-    op.add_option("-p", "--pos", action="store_true", help="print 'part of speech' sentence with each sentence")
-    op.add_option("-t", "--tech", action="store_true", help="print 'technical sentence' with each sentence")
-    op.add_option("-v", "--verbose", action="store_true", help="prints all optional output; same as -gpt")
+    op.add_argument(
+        "-n", "--number",
+        help="define how many sentences to generate",
+        default=10,
+    )
+    op.add_argument(
+        "-g", "--grammar",
+        action="store_true",
+        help="print grammar object before sentences",
+        default=False,
+    )
+    op.add_argument(
+        "-p", "--pos",
+        action="store_true",
+        help="print 'part of speech' sentence with each sentence",
+        default=False,
+    )
+    op.add_argument(
+        "-t", "--tech",
+        action="store_true",
+        help="print 'technical sentence' with each sentence",
+        default=False,
+    )
+    op.add_argument(
+        "-v", "--verbose",
+        action="store_true",
+        help="prints all optional output; same as -gpt"
+    )
 
-    (options, args) = op.parse_args()
-    if options.number < 1:
+    args = op.parse_args()
+    if args.number < 1:
         op.error("you cannot print a negative number of sentences!")
 
-    if options.grammar or options.verbose:
+    if args.grammar or args.verbose:
         pprint.pprint(sentence.grammar)
-    for i in range(options.number):
+    for i in range(args.number):
         sentence.get_sentence()
         print "\n> {number}: {sentence}".format(number=i+1, sentence=sentence.final_sentence)
-        if options.pos or options.verbose:
+        if args.pos or args.verbose:
             print "\n'part of speech' sentence:\n\t{0}".format(' '.join(sentence.pos_sentence))
-        if options.tech or options.verbose:
+        if args.tech or args.verbose:
             print "\ntechnical sentence:"
             pprint.pprint(sentence.technical_sentence)
 
