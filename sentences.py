@@ -66,7 +66,7 @@ class Sentence(object):
         """
         # possible_types = (
         #     'indicative',
-        #     )
+        # )
         # self.base_sentence_type = random.choice(possible_types)
 
         data = open('data/grammar.txt', 'r').read().split('\n')
