@@ -61,6 +61,11 @@ def main():
         action="store_true",
         help="prints all optional output; same as -gpt"
     )
+    op.add_argument(
+        "-l", "--level",
+        help="begin at the given sentence level",
+        default="S",
+    )
 
     args = op.parse_args()
     if args.number < 1:
@@ -69,7 +74,7 @@ def main():
     if args.grammar or args.verbose:
         pprint.pprint(sentence.grammar)
     for i in range(args.number):
-        sentence.get_sentence()
+        sentence.get_sentence(args.level)
         print "\n> {number}: {sentence}".format(number=i+1, sentence=sentence.final_sentence)
         if args.pos or args.verbose:
             print "\n'part of speech' sentence:\n\t{0}".format(' '.join(sentence.pos_sentence))
@@ -79,5 +84,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
