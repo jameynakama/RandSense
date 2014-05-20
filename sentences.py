@@ -20,9 +20,9 @@ class Lexicon(object):
         and tag values.
 
         Examples:
-        lexicon.search('transitive', ditranstive')
+        lexicon.search('transitive', 'ditranstive')
         lexicon.search(base='jump', category='verb')
-        lexicon.search('intrasitive', base='jump')
+        lexicon.search('intransitive', base='jump')
         """
         for arg in args:
             kwargs.update({arg: None})
